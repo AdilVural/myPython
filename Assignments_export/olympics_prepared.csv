@@ -1,0 +1,1358 @@
+game,game_season,game_year,game_location,country_name,country_code,continent,language,religion,landmass,population,gdp,flag_nr_colors,flag_mainhue,flag_topleft_color,flag_botright_color,gold,silver,bronze
+squaw-valley-1960,Winter,1960,United States,Austria,AUT,84,German,Christian,Europe,7047274,6650133914.54795,2,red,red,red,1,2,3
+squaw-valley-1960,Winter,1960,United States,Canada,CAN,9976,English,Christian,N.America,17898792,40563768946.9503,2,red,red,red,2,1,1
+squaw-valley-1960,Winter,1960,United States,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,1,0
+squaw-valley-1960,Winter,1960,United States,Finland,FIN,337,Other,Christian,Europe,4429631,5279011362.12721,2,white,white,white,2,3,3
+squaw-valley-1960,Winter,1960,United States,France,FRA,547,French,Christian,Europe,46428136,62225478000.8822,3,white,blue,red,1,0,2
+squaw-valley-1960,Winter,1960,United States,Germany,DEU,NA,NA,NA,NA,72811637,84310950194.1152,NA,NA,NA,NA,4,3,1
+squaw-valley-1960,Winter,1960,United States,Italy,ITA,301,Other,Christian,Europe,49514555,41915814947.7905,3,white,green,red,0,0,1
+squaw-valley-1960,Winter,1960,United States,Netherlands,NLD,41,Other,Christian,Europe,11486909,13263458995.3869,3,red,red,blue,0,1,1
+squaw-valley-1960,Winter,1960,United States,Norway,NOR,324,Other,Christian,Europe,3581119,5197398721.41367,3,red,red,red,3,3,0
+squaw-valley-1960,Winter,1960,United States,Poland,POL,313,Other,Other,Europe,29575967,NA,2,white,white,red,0,1,1
+squaw-valley-1960,Winter,1960,United States,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,5,9
+squaw-valley-1960,Winter,1960,United States,Sweden,SWE,450,Other,Christian,Europe,7484597,15953203852.6831,2,blue,blue,blue,3,2,2
+squaw-valley-1960,Winter,1960,United States,Switzerland,CHE,41,German,Christian,Europe,5327776,10412232620.5258,2,red,red,red,2,0,0
+squaw-valley-1960,Winter,1960,United States,United States,USA,NA,NA,NA,NA,180274554,541988586206.897,NA,NA,NA,NA,3,4,3
+rome-1960,Summer,1960,Italy,Argentina,ARG,2777,Spanish,Christian,S.America,20386054,NA,2,blue,blue,blue,0,1,1
+rome-1960,Summer,1960,Italy,Australia,AUS,7690,English,Christian,Oceania,10280815,18606562977.0501,3,blue,white,blue,8,8,6
+rome-1960,Summer,1960,Italy,Austria,AUT,84,German,Christian,Europe,7047274,6650133914.54795,2,red,red,red,1,1,0
+rome-1960,Summer,1960,Italy,Belgium,BEL,31,Other,Christian,Europe,9102170,11810619368.3874,3,gold,black,red,0,2,2
+rome-1960,Summer,1960,Italy,Brazil,BRA,8512,Other,Christian,S.America,72388123,NA,4,green,green,green,0,0,2
+rome-1960,Summer,1960,Italy,Bulgaria,BGR,111,Other,Other,Europe,7862933,NA,5,red,white,red,1,3,3
+rome-1960,Summer,1960,Italy,Canada,CAN,9976,English,Christian,N.America,17898792,40563768946.9503,2,red,red,red,0,1,0
+rome-1960,Summer,1960,Italy,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+rome-1960,Summer,1960,Italy,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,3,2,3
+rome-1960,Summer,1960,Italy,Denmark,DNK,43,Other,Christian,Europe,4579349,6361166312.94752,2,red,red,red,2,3,1
+rome-1960,Summer,1960,Italy,Ethiopia,ETH,1222,Other,Christian,Asia,21376688,1610511693.78543,3,green,green,red,1,0,0
+rome-1960,Summer,1960,Italy,Finland,FIN,337,Other,Christian,Europe,4429631,5279011362.12721,2,white,white,white,1,1,3
+rome-1960,Summer,1960,Italy,France,FRA,547,French,Christian,Europe,46428136,62225478000.8822,3,white,blue,red,0,2,3
+rome-1960,Summer,1960,Italy,Germany,DEU,NA,NA,NA,NA,72811637,84310950194.1152,NA,NA,NA,NA,12,19,11
+rome-1960,Summer,1960,Italy,Ghana,GHA,239,English,Other,Asia,6961216,1223943661.97183,4,red,red,green,0,1,0
+rome-1960,Summer,1960,Italy,Greece,GRC,132,Other,Christian,Europe,8384481,4335191696.00585,2,blue,blue,blue,1,0,0
+rome-1960,Summer,1960,Italy,Hungary,HUN,93,Other,Other,Europe,9983383,NA,3,red,red,green,6,8,7
+rome-1960,Summer,1960,Italy,India,IND,3268,Other,Other,NA,435990344,37029883876.1839,4,orange,orange,green,0,1,0
+rome-1960,Summer,1960,Italy,Iraq,IRQ,435,Arabic,Muslim,NA,7022057,1537252191.85976,4,red,red,black,0,0,1
+rome-1960,Summer,1960,Italy,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,3
+rome-1960,Summer,1960,Italy,Italy,ITA,301,Other,Christian,Europe,49514555,41915814947.7905,3,white,green,red,13,10,13
+rome-1960,Summer,1960,Italy,Japan,JPN,372,Other,Other,NA,96399754,47419238274.4619,2,white,white,white,4,7,7
+rome-1960,Summer,1960,Italy,Mexico,MEX,1973,Spanish,Christian,N.America,36724612,13040000000,4,green,green,red,0,0,1
+rome-1960,Summer,1960,Italy,Morocco,MAR,447,Arabic,Muslim,Asia,11624932,2037154741.93211,2,red,red,red,0,1,0
+rome-1960,Summer,1960,Italy,Netherlands,NLD,41,Other,Christian,Europe,11486909,13263458995.3869,3,red,red,blue,0,1,2
+rome-1960,Summer,1960,Italy,New Zealand,NZL,NA,NA,NA,NA,2379483,5536098606.29231,NA,NA,NA,NA,2,0,1
+rome-1960,Summer,1960,Italy,Norway,NOR,324,Other,Christian,Europe,3581119,5197398721.41367,3,red,red,red,1,0,0
+rome-1960,Summer,1960,Italy,Pakistan,PAK,804,Other,Muslim,NA,45709314,3749265014.69971,2,green,white,green,1,0,1
+rome-1960,Summer,1960,Italy,Poland,POL,313,Other,Other,Europe,29575967,NA,2,white,white,red,4,6,11
+rome-1960,Summer,1960,Italy,Portugal,PRT,92,Other,Christian,Europe,8873224,3339150157.85605,5,red,green,red,0,1,0
+rome-1960,Summer,1960,Italy,Romania,ROU,237,Other,Other,Europe,18313498,NA,7,red,blue,red,3,1,6
+rome-1960,Summer,1960,Italy,Singapore,SGP,1,Chinese,Other,NA,1619328,704751700.302494,2,white,red,white,0,1,0
+rome-1960,Summer,1960,Italy,South Africa,ZAF,NA,NA,NA,NA,16440173,8748596500.5614,NA,NA,NA,NA,0,1,2
+rome-1960,Summer,1960,Italy,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,29,31
+rome-1960,Summer,1960,Italy,Spain,ESP,505,Spanish,Christian,Europe,30404938,12433394725.2159,2,red,red,red,0,0,1
+rome-1960,Summer,1960,Italy,Sweden,SWE,450,Other,Christian,Europe,7484597,15953203852.6831,2,blue,blue,blue,1,2,3
+rome-1960,Summer,1960,Italy,Switzerland,CHE,41,German,Christian,Europe,5327776,10412232620.5258,2,red,red,red,0,3,3
+rome-1960,Summer,1960,Italy,Turkey,NA,781,Other,Muslim,NA,28329894,NA,2,red,red,red,7,2,0
+rome-1960,Summer,1960,Italy,United Arab Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1
+rome-1960,Summer,1960,Italy,United Kingdom,GBR,NA,NA,NA,NA,52538549,73233967692.1028,NA,NA,NA,NA,2,6,12
+rome-1960,Summer,1960,Italy,United States,USA,NA,NA,NA,NA,180274554,541988586206.897,NA,NA,NA,NA,34,21,16
+rome-1960,Summer,1960,Italy,Venezuela,NA,912,Spanish,Christian,S.America,8160085,NA,7,red,gold,red,0,0,1
+rome-1960,Summer,1960,Italy,West Indies Federation,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2
+rome-1960,Summer,1960,Italy,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,1,1,0
+innsbruck-1964,Winter,1964,Austria,Austria,AUT,84,German,Christian,Europe,7223393,9249879078.75759,2,red,red,red,4,5,3
+innsbruck-1964,Winter,1964,Austria,Canada,CAN,9976,English,Christian,N.America,19321670,49503663836.3665,2,red,red,red,1,1,1
+innsbruck-1964,Winter,1964,Austria,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,0,1
+innsbruck-1964,Winter,1964,Austria,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+innsbruck-1964,Winter,1964,Austria,Finland,FIN,337,Other,Christian,Europe,4549092,7848288358.27266,2,white,white,white,3,4,3
+innsbruck-1964,Winter,1964,Austria,France,FRA,547,French,Christian,Europe,48319085,94007851047.3678,3,white,blue,red,3,4,0
+innsbruck-1964,Winter,1964,Austria,Germany,DEU,NA,NA,NA,NA,75313477,122880200227.839,NA,NA,NA,NA,3,3,3
+innsbruck-1964,Winter,1964,Austria,Italy,ITA,301,Other,Christian,Europe,51019579,65569646710.203,3,white,green,red,0,1,3
+innsbruck-1964,Winter,1964,Austria,Netherlands,NLD,41,Other,Christian,Europe,12131887,20202316519.432,3,red,red,blue,1,1,0
+innsbruck-1964,Winter,1964,Austria,Norway,NOR,324,Other,Christian,Europe,3694318,7206522121.80418,3,red,red,red,3,6,6
+innsbruck-1964,Winter,1964,Austria,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,7,6
+innsbruck-1964,Winter,1964,Austria,Sweden,SWE,450,Other,Christian,Europe,7661190,22718426804.3529,2,blue,blue,blue,3,3,1
+innsbruck-1964,Winter,1964,Austria,United Kingdom,GBR,NA,NA,NA,NA,54009131,94407558351.1616,NA,NA,NA,NA,1,0,0
+innsbruck-1964,Winter,1964,Austria,United States,USA,NA,NA,NA,NA,192819456,684144620689.655,NA,NA,NA,NA,1,2,4
+tokyo-1964,Summer,1964,Japan,Argentina,ARG,2777,Spanish,Christian,S.America,21769451,NA,2,blue,blue,blue,0,1,0
+tokyo-1964,Summer,1964,Japan,Australia,AUS,7690,English,Christian,Oceania,11128257,23801123808.1798,3,blue,white,blue,6,2,10
+tokyo-1964,Summer,1964,Japan,Bahamas,NA,19,English,Christian,N.America,141538,NA,3,blue,blue,blue,1,0,0
+tokyo-1964,Summer,1964,Japan,Belgium,BEL,31,Other,Christian,Europe,9337682,16168044450.2523,3,gold,black,red,2,0,1
+tokyo-1964,Summer,1964,Japan,Brazil,BRA,8512,Other,Christian,S.America,81488598,NA,4,green,green,green,0,0,1
+tokyo-1964,Summer,1964,Japan,Bulgaria,BGR,111,Other,Other,Europe,8140078,NA,5,red,white,red,3,5,2
+tokyo-1964,Summer,1964,Japan,Canada,CAN,9976,English,Christian,N.America,19321670,49503663836.3665,2,red,red,red,1,2,1
+tokyo-1964,Summer,1964,Japan,Cuba,CUB,115,Spanish,Other,N.America,7866017,NA,3,blue,blue,blue,0,1,0
+tokyo-1964,Summer,1964,Japan,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,5,6,3
+tokyo-1964,Summer,1964,Japan,Denmark,DNK,43,Other,Christian,Europe,4721889,9677400984.90121,2,red,red,red,2,1,3
+tokyo-1964,Summer,1964,Japan,Ethiopia,ETH,1222,Other,Christian,Asia,23666546,1984129185.46553,3,green,green,red,1,0,0
+tokyo-1964,Summer,1964,Japan,Finland,FIN,337,Other,Christian,Europe,4549092,7848288358.27266,2,white,white,white,3,0,2
+tokyo-1964,Summer,1964,Japan,France,FRA,547,French,Christian,Europe,48319085,94007851047.3678,3,white,blue,red,1,8,6
+tokyo-1964,Summer,1964,Japan,Germany,DEU,NA,NA,NA,NA,75313477,122880200227.839,NA,NA,NA,NA,10,22,18
+tokyo-1964,Summer,1964,Japan,Ghana,GHA,239,English,Other,Asia,7695743,1740845070.42254,4,red,red,green,0,0,1
+tokyo-1964,Summer,1964,Japan,Hungary,HUN,93,Other,Other,Europe,10114375,NA,3,red,red,green,10,7,5
+tokyo-1964,Summer,1964,Japan,India,IND,3268,Other,Other,NA,479229599,56480289940.9899,4,orange,orange,green,1,0,0
+tokyo-1964,Summer,1964,Japan,Ireland,IRL,70,English,Christian,Europe,2857168,2851091646.43165,3,white,green,orange,0,0,1
+tokyo-1964,Summer,1964,Japan,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2
+tokyo-1964,Summer,1964,Japan,Italy,ITA,301,Other,Christian,Europe,51019579,65569646710.203,3,white,green,red,10,10,7
+tokyo-1964,Summer,1964,Japan,Japan,JPN,372,Other,Other,NA,99890178,87490590817.9803,2,white,white,white,16,5,8
+tokyo-1964,Summer,1964,Japan,Kenya,KEN,583,Other,Other,Asia,8973538,998759334.496266,4,red,black,green,0,0,1
+tokyo-1964,Summer,1964,Japan,Mexico,MEX,1973,Spanish,Christian,N.America,41772052,20080000000,4,green,green,red,0,0,1
+tokyo-1964,Summer,1964,Japan,Netherlands,NLD,41,Other,Christian,Europe,12131887,20202316519.432,3,red,red,blue,2,4,4
+tokyo-1964,Summer,1964,Japan,New Zealand,NZL,NA,NA,NA,NA,2588771,7340766740.94114,NA,NA,NA,NA,3,0,2
+tokyo-1964,Summer,1964,Japan,Nigeria,NGA,925,Other,Muslim,Asia,49012023,5552931318.82747,2,green,green,green,0,0,1
+tokyo-1964,Summer,1964,Japan,Pakistan,PAK,804,Other,Muslim,NA,50799993,5204955900.88198,2,green,white,green,0,1,0
+tokyo-1964,Summer,1964,Japan,Philippines,PHL,300,Other,Christian,Oceania,31643038,5953756194.80988,4,blue,blue,red,0,1,0
+tokyo-1964,Summer,1964,Japan,Poland,POL,313,Other,Other,Europe,30993140,NA,2,white,white,red,7,6,10
+tokyo-1964,Summer,1964,Japan,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1
+tokyo-1964,Summer,1964,Japan,Romania,ROU,237,Other,Other,Europe,18655407,NA,7,red,blue,red,2,4,6
+tokyo-1964,Summer,1964,Japan,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,30,33
+tokyo-1964,Summer,1964,Japan,Sweden,SWE,450,Other,Christian,Europe,7661190,22718426804.3529,2,blue,blue,blue,2,2,4
+tokyo-1964,Summer,1964,Japan,Switzerland,CHE,41,German,Christian,Europe,5789156,15833133857.6281,2,red,red,red,1,2,1
+tokyo-1964,Summer,1964,Japan,Trinidad and Tobago,TTO,NA,NA,NA,NA,912973,711893367.55527,NA,NA,NA,NA,0,1,2
+tokyo-1964,Summer,1964,Japan,Tunisia,TUN,164,Arabic,Muslim,Asia,4489874,1025866792.15686,2,red,red,red,0,1,1
+tokyo-1964,Summer,1964,Japan,Turkey,NA,781,Other,Muslim,NA,31543071,NA,2,red,red,red,2,3,1
+tokyo-1964,Summer,1964,Japan,United Kingdom,GBR,NA,NA,NA,NA,54009131,94407558351.1616,NA,NA,NA,NA,4,12,2
+tokyo-1964,Summer,1964,Japan,United States,USA,NA,NA,NA,NA,192819456,684144620689.655,NA,NA,NA,NA,36,26,28
+tokyo-1964,Summer,1964,Japan,Uruguay,URY,178,Spanish,Christian,S.America,2653182,1970588235.29412,3,white,white,white,0,0,1
+tokyo-1964,Summer,1964,Japan,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,2,1,2
+grenoble-1968,Winter,1968,France,Austria,AUT,84,German,Christian,Europe,7414628,12549016578.695,2,red,red,red,3,4,4
+grenoble-1968,Winter,1968,France,Canada,CAN,9976,English,Christian,N.America,20734171,72048833006.1602,2,red,red,red,1,1,1
+grenoble-1968,Winter,1968,France,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,1,2,1
+grenoble-1968,Winter,1968,France,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3
+grenoble-1968,Winter,1968,France,Finland,FIN,337,Other,Christian,Europe,4627350,8915770472.97601,2,white,white,white,1,2,2
+grenoble-1968,Winter,1968,France,France,FRA,547,French,Christian,Europe,49947252,129785441507.456,3,white,blue,red,4,3,2
+grenoble-1968,Winter,1968,France,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2
+grenoble-1968,Winter,1968,France,Italy,ITA,301,Other,Christian,Europe,52712156,91275077144.6618,3,white,green,red,4,0,0
+grenoble-1968,Winter,1968,France,Netherlands,NLD,41,Other,Christian,Europe,12740849,30053405731.0167,3,red,red,blue,3,3,3
+grenoble-1968,Winter,1968,France,Norway,NOR,324,Other,Christian,Europe,3816088,10227087165.2414,3,red,red,red,6,6,2
+grenoble-1968,Winter,1968,France,Romania,ROU,237,Other,Other,Europe,19361050,NA,7,red,blue,red,0,0,1
+grenoble-1968,Winter,1968,France,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,3
+grenoble-1968,Winter,1968,France,Sweden,SWE,450,Other,Christian,Europe,7912122,31323283317.2145,2,blue,blue,blue,3,2,3
+grenoble-1968,Winter,1968,France,Switzerland,CHE,41,German,Christian,Europe,6067659,20712102793.8026,2,red,red,red,0,2,4
+grenoble-1968,Winter,1968,France,United States,USA,NA,NA,NA,NA,203011021,940225000000,NA,NA,NA,NA,1,3,1
+mexico-city-1968,Summer,1968,Mexico,Argentina,ARG,2777,Spanish,Christian,S.America,23150579,NA,2,blue,blue,blue,0,0,2
+mexico-city-1968,Summer,1968,Mexico,Australia,AUS,7690,English,Christian,Oceania,12030011,32714085234.2536,3,blue,white,blue,5,7,5
+mexico-city-1968,Summer,1968,Mexico,Austria,AUT,84,German,Christian,Europe,7414628,12549016578.695,2,red,red,red,0,2,2
+mexico-city-1968,Summer,1968,Mexico,Belgium,BEL,31,Other,Christian,Europe,9549700,21654856965.4281,3,gold,black,red,0,1,1
+mexico-city-1968,Summer,1968,Mexico,Brazil,BRA,8512,Other,Christian,S.America,90741242,NA,4,green,green,green,0,1,2
+mexico-city-1968,Summer,1968,Mexico,Bulgaria,BGR,111,Other,Other,Europe,8370642,NA,5,red,white,red,2,4,3
+mexico-city-1968,Summer,1968,Mexico,Cameroon,CMR,474,French,Christian,Asia,6125861,1046191217.79942,3,gold,green,gold,0,1,0
+mexico-city-1968,Summer,1968,Mexico,Canada,CAN,9976,English,Christian,N.America,20734171,72048833006.1602,2,red,red,red,1,3,1
+mexico-city-1968,Summer,1968,Mexico,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+mexico-city-1968,Summer,1968,Mexico,Cuba,CUB,115,Spanish,Other,N.America,8509525,NA,3,blue,blue,blue,0,4,0
+mexico-city-1968,Summer,1968,Mexico,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,7,2,4
+mexico-city-1968,Summer,1968,Mexico,Denmark,DNK,43,Other,Christian,Europe,4864801,13505573866.6667,2,red,red,red,1,4,3
+mexico-city-1968,Summer,1968,Mexico,Ethiopia,ETH,1222,Other,Christian,Asia,26337932,2619948864.86506,3,green,green,red,1,1,0
+mexico-city-1968,Summer,1968,Mexico,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11,10
+mexico-city-1968,Summer,1968,Mexico,Finland,FIN,337,Other,Christian,Europe,4627350,8915770472.97601,2,white,white,white,1,2,1
+mexico-city-1968,Summer,1968,Mexico,France,FRA,547,French,Christian,Europe,49947252,129785441507.456,3,white,blue,red,7,3,5
+mexico-city-1968,Summer,1968,Mexico,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,7
+mexico-city-1968,Summer,1968,Mexico,Greece,GRC,132,Other,Christian,Europe,8717917,10090674766.7032,2,blue,blue,blue,0,0,1
+mexico-city-1968,Summer,1968,Mexico,Hungary,HUN,93,Other,Other,Europe,10244548,4870283626.18043,3,red,red,green,10,10,12
+mexico-city-1968,Summer,1968,Mexico,India,IND,3268,Other,Other,NA,522716894,53085455870.6667,4,orange,orange,green,0,0,1
+mexico-city-1968,Summer,1968,Mexico,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+mexico-city-1968,Summer,1968,Mexico,Italy,ITA,301,Other,Christian,Europe,52712156,91275077144.6618,3,white,green,red,3,4,9
+mexico-city-1968,Summer,1968,Mexico,Jamaica,JAM,11,English,Christian,N.America,1833768,1083839132.92869,3,green,gold,gold,0,1,0
+mexico-city-1968,Summer,1968,Mexico,Japan,JPN,372,Other,Other,NA,104237475,156897496759.128,2,white,white,white,11,7,7
+mexico-city-1968,Summer,1968,Mexico,Kenya,KEN,583,Other,Other,Asia,10518827,1353295458.68182,4,red,black,green,3,4,2
+mexico-city-1968,Summer,1968,Mexico,Mexico,MEX,1973,Spanish,Christian,N.America,47668308,29360000000,4,green,green,red,3,3,3
+mexico-city-1968,Summer,1968,Mexico,Mongolia,MNG,1566,Other,Other,NA,1229931,NA,3,red,red,red,0,1,3
+mexico-city-1968,Summer,1968,Mexico,Netherlands,NLD,41,Other,Christian,Europe,12740849,30053405731.0167,3,red,red,blue,3,3,1
+mexico-city-1968,Summer,1968,Mexico,New Zealand,NZL,NA,NA,NA,NA,2754521,5228045647.393,NA,NA,NA,NA,1,0,2
+mexico-city-1968,Summer,1968,Mexico,Norway,NOR,324,Other,Christian,Europe,3816088,10227087165.2414,3,red,red,red,1,1,0
+mexico-city-1968,Summer,1968,Mexico,Pakistan,PAK,804,Other,Muslim,NA,56810514,8041999160.0168,2,green,white,green,1,0,0
+mexico-city-1968,Summer,1968,Mexico,Poland,POL,313,Other,Other,Europe,32078387,NA,2,white,white,red,5,2,11
+mexico-city-1968,Summer,1968,Mexico,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1
+mexico-city-1968,Summer,1968,Mexico,Romania,ROU,237,Other,Other,Europe,19361050,NA,7,red,blue,red,4,6,5
+mexico-city-1968,Summer,1968,Mexico,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,32,30
+mexico-city-1968,Summer,1968,Mexico,Sweden,SWE,450,Other,Christian,Europe,7912122,31323283317.2145,2,blue,blue,blue,2,1,1
+mexico-city-1968,Summer,1968,Mexico,Switzerland,CHE,41,German,Christian,Europe,6067659,20712102793.8026,2,red,red,red,0,1,4
+mexico-city-1968,Summer,1968,Mexico,Tunisia,TUN,164,Arabic,Muslim,Asia,4879907,1214666666.66667,2,red,red,red,1,0,1
+mexico-city-1968,Summer,1968,Mexico,Turkey,NA,781,Other,Muslim,NA,34921677,NA,2,red,red,red,2,0,0
+mexico-city-1968,Summer,1968,Mexico,Uganda,UGA,236,Other,Other,Asia,9708633,1037379252.41495,5,gold,black,red,0,1,1
+mexico-city-1968,Summer,1968,Mexico,United Kingdom,GBR,NA,NA,NA,NA,55240654,107759910067.889,NA,NA,NA,NA,5,5,3
+mexico-city-1968,Summer,1968,Mexico,United States,USA,NA,NA,NA,NA,203011021,940225000000,NA,NA,NA,NA,45,28,34
+mexico-city-1968,Summer,1968,Mexico,Venezuela,NA,912,Spanish,Christian,S.America,10697536,NA,7,red,gold,red,1,0,0
+mexico-city-1968,Summer,1968,Mexico,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,3,3,2
+sapporo-1972,Winter,1972,Japan,Austria,AUT,84,German,Christian,Europe,7543264,22059612476.9332,2,red,red,red,1,2,2
+sapporo-1972,Winter,1972,Japan,Canada,CAN,9976,English,Christian,N.America,22230876,113463848873.624,2,red,red,red,0,1,0
+sapporo-1972,Winter,1972,Japan,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,1,0,2
+sapporo-1972,Winter,1972,Japan,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+sapporo-1972,Winter,1972,Japan,Finland,FIN,337,Other,Christian,Europe,4639549,14743186119.8738,2,white,white,white,0,4,1
+sapporo-1972,Winter,1972,Japan,France,FRA,547,French,Christian,Europe,51743877,203494148244.473,3,white,blue,red,0,1,2
+sapporo-1972,Winter,1972,Japan,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,7
+sapporo-1972,Winter,1972,Japan,Italy,ITA,301,Other,Christian,Europe,54067562,145260039840.637,3,white,green,red,2,2,1
+sapporo-1972,Winter,1972,Japan,Japan,JPN,372,Other,Other,NA,109238963,324933841268.585,2,white,white,white,1,1,1
+sapporo-1972,Winter,1972,Japan,Netherlands,NLD,41,Other,Christian,Europe,13342780,54706557264.4878,3,red,red,blue,4,3,2
+sapporo-1972,Winter,1972,Japan,Norway,NOR,324,Other,Christian,Europe,3932910,17358610849.701,3,red,red,red,2,5,5
+sapporo-1972,Winter,1972,Japan,Poland,POL,313,Other,Other,Europe,33041994,NA,2,white,white,red,1,0,0
+sapporo-1972,Winter,1972,Japan,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,5,3
+sapporo-1972,Winter,1972,Japan,Spain,ESP,505,Spanish,Christian,Europe,34539861,59132415221.3306,2,red,red,red,1,0,0
+sapporo-1972,Winter,1972,Japan,Sweden,SWE,450,Other,Christian,Europe,8122427,48954145808.8359,2,blue,blue,blue,1,1,2
+sapporo-1972,Winter,1972,Japan,Switzerland,CHE,41,German,Christian,Europe,6261087,36844318854.2403,2,red,red,red,4,3,3
+sapporo-1972,Winter,1972,Japan,United States,USA,NA,NA,NA,NA,212842574,1279110000000,NA,NA,NA,NA,3,2,3
+munich-1972,Summer,1972,Federal Republic of Germany,Argentina,ARG,2777,Spanish,Christian,S.America,24644332,NA,2,blue,blue,blue,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Australia,AUS,7690,English,Christian,Oceania,13304896,52040887850.4673,3,blue,white,blue,8,7,2
+munich-1972,Summer,1972,Federal Republic of Germany,Austria,AUT,84,German,Christian,Europe,7543264,22059612476.9332,2,red,red,red,0,1,2
+munich-1972,Summer,1972,Federal Republic of Germany,Belgium,BEL,31,Other,Christian,Europe,9694851,37209418018.5134,3,gold,black,red,0,2,0
+munich-1972,Summer,1972,Federal Republic of Germany,Brazil,BRA,8512,Other,Christian,S.America,100146796,NA,4,green,green,green,0,0,2
+munich-1972,Summer,1972,Federal Republic of Germany,Bulgaria,BGR,111,Other,Other,Europe,8579911,NA,5,red,white,red,6,10,5
+munich-1972,Summer,1972,Federal Republic of Germany,Canada,CAN,9976,English,Christian,N.America,22230876,113463848873.624,2,red,red,red,0,2,3
+munich-1972,Summer,1972,Federal Republic of Germany,Colombia,COL,1139,Spanish,Christian,S.America,21819571,8671358732.68486,3,gold,gold,red,0,1,2
+munich-1972,Summer,1972,Federal Republic of Germany,Cuba,CUB,115,Spanish,Other,N.America,9123896,8135150891.92025,3,blue,blue,blue,3,1,4
+munich-1972,Summer,1972,Federal Republic of Germany,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,2,4,2
+munich-1972,Summer,1972,Federal Republic of Germany,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3
+munich-1972,Summer,1972,Federal Republic of Germany,Denmark,DNK,43,Other,Christian,Europe,4991568,23232379951.9376,2,red,red,red,1,0,0
+munich-1972,Summer,1972,Federal Republic of Germany,Ethiopia,ETH,1222,Other,Christian,Asia,29374610,3520252938.32165,3,green,green,red,0,0,2
+munich-1972,Summer,1972,Federal Republic of Germany,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,11,16
+munich-1972,Summer,1972,Federal Republic of Germany,Finland,FIN,337,Other,Christian,Europe,4639549,14743186119.8738,2,white,white,white,3,1,4
+munich-1972,Summer,1972,Federal Republic of Germany,France,FRA,547,French,Christian,Europe,51743877,203494148244.473,3,white,blue,red,2,4,7
+munich-1972,Summer,1972,Federal Republic of Germany,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,23,23
+munich-1972,Summer,1972,Federal Republic of Germany,Ghana,GHA,239,English,Other,Asia,9438189,2116541353.38346,4,red,red,green,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Greece,GRC,132,Other,Christian,Europe,8849378,16885511363.6364,2,blue,blue,blue,0,2,0
+munich-1972,Summer,1972,Federal Republic of Germany,Hungary,HUN,93,Other,Other,Europe,10374303,7355242314.22407,3,red,red,green,6,13,16
+munich-1972,Summer,1972,Federal Republic of Germany,India,IND,3268,Other,Other,NA,570482142,71464700666.9869,4,orange,orange,green,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1
+munich-1972,Summer,1972,Federal Republic of Germany,Italy,ITA,301,Other,Christian,Europe,54067562,145260039840.637,3,white,green,red,5,3,10
+munich-1972,Summer,1972,Federal Republic of Germany,Jamaica,JAM,11,English,Christian,N.America,1931552,1875146587.4443,3,green,gold,gold,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Japan,JPN,372,Other,Other,NA,109238963,324933841268.585,2,white,white,white,13,8,8
+munich-1972,Summer,1972,Federal Republic of Germany,Kenya,KEN,583,Other,Other,Asia,12206063,2107279157.08834,4,red,black,green,2,3,4
+munich-1972,Summer,1972,Federal Republic of Germany,Lebanon,LBN,10,Arabic,Muslim,NA,2509731,NA,4,red,red,red,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Mexico,MEX,1973,Spanish,Christian,N.America,54030170,45200000000,4,green,green,red,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Mongolia,MNG,1566,Other,Other,NA,1366829,NA,3,red,red,red,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Netherlands,NLD,41,Other,Christian,Europe,13342780,54706557264.4878,3,red,red,blue,3,1,1
+munich-1972,Summer,1972,Federal Republic of Germany,New Zealand,NZL,NA,NA,NA,NA,2919262,9567331064.65727,NA,NA,NA,NA,1,1,1
+munich-1972,Summer,1972,Federal Republic of Germany,Niger,NER,1267,French,Muslim,Asia,4904846,742779660.818693,3,orange,orange,green,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Nigeria,NGA,925,Other,Muslim,Asia,58601749,12274416017.7976,2,green,green,green,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Norway,NOR,324,Other,Christian,Europe,3932910,17358610849.701,3,red,red,red,2,1,1
+munich-1972,Summer,1972,Federal Republic of Germany,Pakistan,PAK,804,Other,Muslim,NA,63583193,9415016359.56604,2,green,white,green,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Poland,POL,313,Other,Other,Europe,33041994,NA,2,white,white,red,7,5,9
+munich-1972,Summer,1972,Federal Republic of Germany,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Romania,ROU,237,Other,Other,Europe,20555576,NA,7,red,blue,red,3,6,7
+munich-1972,Summer,1972,Federal Republic of Germany,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,27,22
+munich-1972,Summer,1972,Federal Republic of Germany,Spain,ESP,505,Spanish,Christian,Europe,34539861,59132415221.3306,2,red,red,red,0,0,1
+munich-1972,Summer,1972,Federal Republic of Germany,Sweden,SWE,450,Other,Christian,Europe,8122427,48954145808.8359,2,blue,blue,blue,4,6,6
+munich-1972,Summer,1972,Federal Republic of Germany,Switzerland,CHE,41,German,Christian,Europe,6261087,36844318854.2403,2,red,red,red,0,3,0
+munich-1972,Summer,1972,Federal Republic of Germany,Tunisia,TUN,164,Arabic,Muslim,Asia,5396564,2237556148.51085,2,red,red,red,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Turkey,NA,781,Other,Muslim,NA,38430215,NA,2,red,red,red,0,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,Uganda,UGA,236,Other,Other,Asia,10885796,1490970180.59639,5,gold,black,red,1,1,0
+munich-1972,Summer,1972,Federal Republic of Germany,United Kingdom,GBR,NA,NA,NA,NA,56079239,169965034965.035,NA,NA,NA,NA,4,5,9
+munich-1972,Summer,1972,Federal Republic of Germany,United States,USA,NA,NA,NA,NA,212842574,1279110000000,NA,NA,NA,NA,33,31,30
+munich-1972,Summer,1972,Federal Republic of Germany,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,2,1,2
+innsbruck-1976,Winter,1976,Austria,Austria,AUT,84,German,Christian,Europe,7564457,42959976221.5234,2,red,red,red,2,2,2
+innsbruck-1976,Winter,1976,Austria,Canada,CAN,9976,English,Christian,N.America,23455783,207271612576.065,2,red,red,red,1,1,1
+innsbruck-1976,Winter,1976,Austria,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,1,0
+innsbruck-1976,Winter,1976,Austria,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,3
+innsbruck-1976,Winter,1976,Austria,Finland,FIN,337,Other,Christian,Europe,4725341,31849513771.3494,2,white,white,white,2,4,1
+innsbruck-1976,Winter,1976,Austria,France,FRA,547,French,Christian,Europe,52959120,372319038514.067,3,white,blue,red,0,0,1
+innsbruck-1976,Winter,1976,Austria,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,5,7
+innsbruck-1976,Winter,1976,Austria,Italy,ITA,301,Other,Christian,Europe,55459414,224717278436.846,3,white,green,red,1,2,1
+innsbruck-1976,Winter,1976,Austria,Liechtenstein,LIE,0,German,Christian,Europe,23610,272489300.467827,3,red,blue,red,0,0,2
+innsbruck-1976,Winter,1976,Austria,Netherlands,NLD,41,Other,Christian,Europe,13786640,109168720620.103,3,red,red,blue,1,2,3
+innsbruck-1976,Winter,1976,Austria,Norway,NOR,324,Other,Christian,Europe,4026219,35942270686.3374,3,red,red,red,3,3,1
+innsbruck-1976,Winter,1976,Austria,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,6,8
+innsbruck-1976,Winter,1976,Austria,Sweden,SWE,450,Other,Christian,Europe,8222393,89362071672.9034,2,blue,blue,blue,0,0,2
+innsbruck-1976,Winter,1976,Austria,Switzerland,CHE,41,German,Christian,Europe,6302555,68476524643.943,2,red,red,red,1,3,1
+innsbruck-1976,Winter,1976,Austria,United Kingdom,GBR,NA,NA,NA,NA,56201144,232614555256.065,NA,NA,NA,NA,1,0,0
+innsbruck-1976,Winter,1976,Austria,United States,USA,NA,NA,NA,NA,221168756,1873412000000,NA,NA,NA,NA,3,3,4
+montreal-1976,Summer,1976,Canada,Australia,AUS,7690,English,Christian,Oceania,14046757,105059356494.425,3,blue,white,blue,0,1,4
+montreal-1976,Summer,1976,Canada,Austria,AUT,84,German,Christian,Europe,7564457,42959976221.5234,2,red,red,red,0,0,1
+montreal-1976,Summer,1976,Canada,Belgium,BEL,31,Other,Christian,Europe,9758905,71113882967.6071,3,gold,black,red,0,3,3
+montreal-1976,Summer,1976,Canada,Bermuda,BMU,0,English,Christian,N.America,53232,386300000,6,red,white,red,0,0,1
+montreal-1976,Summer,1976,Canada,Brazil,BRA,8512,Other,Christian,S.America,110213352,NA,4,green,green,green,0,0,2
+montreal-1976,Summer,1976,Canada,Bulgaria,BGR,111,Other,Other,Europe,8759432,NA,5,red,white,red,6,9,7
+montreal-1976,Summer,1976,Canada,Canada,CAN,9976,English,Christian,N.America,23455783,207271612576.065,2,red,red,red,0,5,6
+montreal-1976,Summer,1976,Canada,Cuba,CUB,115,Spanish,Other,N.America,9571239,13789579902.5579,3,blue,blue,blue,6,4,3
+montreal-1976,Summer,1976,Canada,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,2,2,4
+montreal-1976,Summer,1976,Canada,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0
+montreal-1976,Summer,1976,Canada,Denmark,DNK,43,Other,Christian,Europe,5072804,44575892473.1183,2,red,red,red,1,0,2
+montreal-1976,Summer,1976,Canada,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,12,17
+montreal-1976,Summer,1976,Canada,Finland,FIN,337,Other,Christian,Europe,4725341,31849513771.3494,2,white,white,white,4,2,0
+montreal-1976,Summer,1976,Canada,France,FRA,547,French,Christian,Europe,52959120,372319038514.067,3,white,blue,red,2,3,4
+montreal-1976,Summer,1976,Canada,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,25,25
+montreal-1976,Summer,1976,Canada,Hungary,HUN,93,Other,Other,Europe,10573771,13192437321.2442,3,red,red,green,4,5,13
+montreal-1976,Summer,1976,Canada,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1
+montreal-1976,Summer,1976,Canada,Italy,ITA,301,Other,Christian,Europe,55459414,224717278436.846,3,white,green,red,2,7,4
+montreal-1976,Summer,1976,Canada,Jamaica,JAM,11,English,Christian,N.America,2045578,2966042856.04286,3,green,gold,gold,1,1,0
+montreal-1976,Summer,1976,Canada,Japan,JPN,372,Other,Other,NA,114502794,598883902155.605,2,white,white,white,9,6,10
+montreal-1976,Summer,1976,Canada,Mexico,MEX,1973,Spanish,Christian,N.America,60645513,88875923765.072,4,green,green,red,1,0,1
+montreal-1976,Summer,1976,Canada,Mongolia,MNG,1566,Other,Other,NA,1531952,NA,3,red,red,red,0,1,0
+montreal-1976,Summer,1976,Canada,Netherlands,NLD,41,Other,Christian,Europe,13786640,109168720620.103,3,red,red,blue,0,2,3
+montreal-1976,Summer,1976,Canada,New Zealand,NZL,NA,NA,NA,NA,3126641,13604832424.0062,NA,NA,NA,NA,2,1,1
+montreal-1976,Summer,1976,Canada,Norway,NOR,324,Other,Christian,Europe,4026219,35942270686.3374,3,red,red,red,1,1,0
+montreal-1976,Summer,1976,Canada,Pakistan,PAK,804,Other,Muslim,NA,71620249,13168080808.0808,2,green,white,green,0,0,1
+montreal-1976,Summer,1976,Canada,Poland,POL,313,Other,Other,Europe,34296611,NA,2,white,white,red,7,6,13
+montreal-1976,Summer,1976,Canada,Portugal,PRT,92,Other,Christian,Europe,9310264,20332831564.9867,5,red,green,red,0,2,0
+montreal-1976,Summer,1976,Canada,Puerto Rico,PRI,NA,NA,NA,NA,3014962,8968600000,NA,NA,NA,NA,0,0,1
+montreal-1976,Summer,1976,Canada,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,4
+montreal-1976,Summer,1976,Canada,Romania,ROU,237,Other,Other,Europe,21497683,NA,7,red,blue,red,4,9,14
+montreal-1976,Summer,1976,Canada,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,41,35
+montreal-1976,Summer,1976,Canada,Spain,ESP,505,Spanish,Christian,Europe,36176272,118507184779.905,2,red,red,red,0,2,0
+montreal-1976,Summer,1976,Canada,Sweden,SWE,450,Other,Christian,Europe,8222393,89362071672.9034,2,blue,blue,blue,4,1,0
+montreal-1976,Summer,1976,Canada,Switzerland,CHE,41,German,Christian,Europe,6302555,68476524643.943,2,red,red,red,1,1,2
+montreal-1976,Summer,1976,Canada,Thailand,THA,514,Other,Other,NA,41896510,16985208648.2112,3,red,red,red,0,0,1
+montreal-1976,Summer,1976,Canada,Trinidad and Tobago,TTO,NA,NA,NA,NA,1066316,2500410583.79177,NA,NA,NA,NA,1,0,0
+montreal-1976,Summer,1976,Canada,United Kingdom,GBR,NA,NA,NA,NA,56201144,232614555256.065,NA,NA,NA,NA,3,5,5
+montreal-1976,Summer,1976,Canada,United States,USA,NA,NA,NA,NA,221168756,1873412000000,NA,NA,NA,NA,34,35,25
+montreal-1976,Summer,1976,Canada,Venezuela,NA,912,Spanish,Christian,S.America,13606285,NA,7,red,gold,red,0,1,0
+montreal-1976,Summer,1976,Canada,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,2,3,3
+lake-placid-1980,Winter,1980,United States,Austria,AUT,84,German,Christian,Europe,7548405,82058912997.2346,2,red,red,red,3,2,2
+lake-placid-1980,Winter,1980,United States,Bulgaria,BGR,111,Other,Other,Europe,8859538,19839230769.2308,5,red,white,red,0,0,1
+lake-placid-1980,Winter,1980,United States,Canada,CAN,9976,English,Christian,N.America,24533779,274776566028.053,2,red,red,red,0,1,1
+lake-placid-1980,Winter,1980,United States,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,0,1
+lake-placid-1980,Winter,1980,United States,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3
+lake-placid-1980,Winter,1980,United States,Finland,FIN,337,Other,Christian,Europe,4779361,53645202422.6968,2,white,white,white,1,5,3
+lake-placid-1980,Winter,1980,United States,France,FRA,547,French,Christian,Europe,53941061,701288419745.421,3,white,blue,red,0,0,1
+lake-placid-1980,Winter,1980,United States,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,7,7
+lake-placid-1980,Winter,1980,United States,Hungary,HUN,93,Other,Other,Europe,10695370,23041569234.9792,3,red,red,green,0,1,0
+lake-placid-1980,Winter,1980,United States,Italy,ITA,301,Other,Christian,Europe,56412088,477256775943.929,3,white,green,red,0,2,0
+lake-placid-1980,Winter,1980,United States,Japan,JPN,372,Other,Other,NA,118358761,1129377244854.04,2,white,white,white,0,1,0
+lake-placid-1980,Winter,1980,United States,Liechtenstein,LIE,0,German,Christian,Europe,25113,534699362.896161,3,red,blue,red,2,2,0
+lake-placid-1980,Winter,1980,United States,Netherlands,NLD,41,Other,Christian,Europe,14162687,195152092662.381,3,red,red,blue,1,2,1
+lake-placid-1980,Winter,1980,United States,Norway,NOR,324,Other,Christian,Europe,4085601,64439382896.0156,3,red,red,red,1,3,6
+lake-placid-1980,Winter,1980,United States,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,6,6
+lake-placid-1980,Winter,1980,United States,Sweden,SWE,450,Other,Christian,Europe,8310470,142092068280.689,2,blue,blue,blue,3,0,1
+lake-placid-1980,Winter,1980,United States,Switzerland,CHE,41,German,Christian,Europe,6319848,122557843886.137,2,red,red,red,1,1,3
+lake-placid-1980,Winter,1980,United States,United Kingdom,GBR,NA,NA,NA,NA,56282102,564947710899.373,NA,NA,NA,NA,1,0,0
+lake-placid-1980,Winter,1980,United States,United States,USA,NA,NA,NA,NA,229858654,2857307000000,NA,NA,NA,NA,6,4,2
+moscow-1980,Summer,1980,USSR,Australia,AUS,7690,English,Christian,Oceania,14721343,149985515320.334,3,blue,white,blue,2,2,5
+moscow-1980,Summer,1980,USSR,Austria,AUT,84,German,Christian,Europe,7548405,82058912997.2346,2,red,red,red,1,2,1
+moscow-1980,Summer,1980,USSR,Belgium,BEL,31,Other,Christian,Europe,9833093,126829314388.191,3,gold,black,red,1,0,0
+moscow-1980,Summer,1980,USSR,Brazil,BRA,8512,Other,Christian,S.America,121207450,NA,4,green,green,green,2,0,2
+moscow-1980,Summer,1980,USSR,Bulgaria,BGR,111,Other,Other,Europe,8859538,19839230769.2308,5,red,white,red,8,16,17
+moscow-1980,Summer,1980,USSR,Cuba,CUB,115,Spanish,Other,N.America,9804798,19912889861.1111,3,blue,blue,blue,8,7,5
+moscow-1980,Summer,1980,USSR,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,2,3,9
+moscow-1980,Summer,1980,USSR,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,2
+moscow-1980,Summer,1980,USSR,Denmark,DNK,43,Other,Christian,Europe,5123078,71127528699.9414,2,red,red,red,2,1,2
+moscow-1980,Summer,1980,USSR,Ethiopia,ETH,1222,Other,Christian,Asia,34428516,7012585454.12203,3,green,green,red,2,0,2
+moscow-1980,Summer,1980,USSR,Finland,FIN,337,Other,Christian,Europe,4779361,53645202422.6968,2,white,white,white,3,1,4
+moscow-1980,Summer,1980,USSR,France,FRA,547,French,Christian,Europe,53941061,701288419745.421,3,white,blue,red,6,5,3
+moscow-1980,Summer,1980,USSR,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,37,42
+moscow-1980,Summer,1980,USSR,Greece,GRC,132,Other,Christian,Europe,9653418,56829664268.5851,2,blue,blue,blue,1,0,2
+moscow-1980,Summer,1980,USSR,Guyana,GUY,215,English,Other,S.America,774372,603200000,5,green,black,green,0,0,1
+moscow-1980,Summer,1980,USSR,Hungary,HUN,93,Other,Other,Europe,10695370,23041569234.9792,3,red,red,green,7,10,15
+moscow-1980,Summer,1980,USSR,India,IND,3268,Other,Other,NA,687354031,186328579302.068,4,orange,orange,green,1,0,0
+moscow-1980,Summer,1980,USSR,Ireland,IRL,70,English,Christian,Europe,3415239,21747855640.0712,3,white,green,orange,0,1,1
+moscow-1980,Summer,1980,USSR,Italy,ITA,301,Other,Christian,Europe,56412088,477256775943.929,3,white,green,red,8,3,4
+moscow-1980,Summer,1980,USSR,Jamaica,JAM,11,English,Christian,N.America,2145661,2679379371.51261,3,green,gold,gold,0,0,3
+moscow-1980,Summer,1980,USSR,Lebanon,LBN,10,Arabic,Muslim,NA,2944766,NA,4,red,red,red,0,0,1
+moscow-1980,Summer,1980,USSR,Mexico,MEX,1973,Spanish,Christian,N.America,67300338,205577055465.993,4,green,green,red,0,1,3
+moscow-1980,Summer,1980,USSR,Mongolia,MNG,1566,Other,Other,NA,1701341,NA,3,red,red,red,0,2,2
+moscow-1980,Summer,1980,USSR,Netherlands,NLD,41,Other,Christian,Europe,14162687,195152092662.381,3,red,red,blue,0,1,2
+moscow-1980,Summer,1980,USSR,Poland,POL,313,Other,Other,Europe,35576518,NA,2,white,white,red,3,14,15
+moscow-1980,Summer,1980,USSR,Romania,ROU,237,Other,Other,Europe,22154776,NA,7,red,blue,red,6,6,13
+moscow-1980,Summer,1980,USSR,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,80,69,46
+moscow-1980,Summer,1980,USSR,Spain,ESP,505,Spanish,Christian,Europe,37537561,232766822928.754,2,red,red,red,1,3,2
+moscow-1980,Summer,1980,USSR,Sweden,SWE,450,Other,Christian,Europe,8310470,142092068280.689,2,blue,blue,blue,3,3,6
+moscow-1980,Summer,1980,USSR,Switzerland,CHE,41,German,Christian,Europe,6319848,122557843886.137,2,red,red,red,2,0,0
+moscow-1980,Summer,1980,USSR,Uganda,UGA,236,Other,Other,Asia,13275750,1244610000,5,gold,black,red,0,1,0
+moscow-1980,Summer,1980,USSR,United Kingdom,GBR,NA,NA,NA,NA,56282102,564947710899.373,NA,NA,NA,NA,5,7,9
+moscow-1980,Summer,1980,USSR,United Republic of Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0
+moscow-1980,Summer,1980,USSR,Venezuela,NA,912,Spanish,Christian,S.America,15258226,NA,7,red,gold,red,0,1,0
+moscow-1980,Summer,1980,USSR,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,2,3,4
+moscow-1980,Summer,1980,USSR,Zimbabwe,ZWE,391,Other,Other,Asia,7041304,6678868200,5,green,green,green,1,0,0
+sarajevo-1984,Winter,1984,Yugoslavia,Austria,AUT,84,German,Christian,Europe,7560716,67985344886.8716,2,red,red,red,0,0,1
+sarajevo-1984,Winter,1984,Yugoslavia,Canada,CAN,9976,English,Christian,N.America,25670376,356718400123.543,2,red,red,red,2,1,1
+sarajevo-1984,Winter,1984,Yugoslavia,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,2,4
+sarajevo-1984,Winter,1984,Yugoslavia,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1
+sarajevo-1984,Winter,1984,Yugoslavia,Finland,FIN,337,Other,Christian,Europe,4881827,52888800949.7428,2,white,white,white,4,3,6
+sarajevo-1984,Winter,1984,Yugoslavia,France,FRA,547,French,Christian,Europe,55176626,530683779929.445,3,white,blue,red,0,1,2
+sarajevo-1984,Winter,1984,Yugoslavia,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,6
+sarajevo-1984,Winter,1984,Yugoslavia,Italy,ITA,301,Other,Christian,Europe,56810354,437887689001.543,3,white,green,red,2,0,0
+sarajevo-1984,Winter,1984,Yugoslavia,Japan,JPN,372,Other,Other,NA,120384396,1345824500836.76,2,white,white,white,0,1,0
+sarajevo-1984,Winter,1984,Yugoslavia,Liechtenstein,LIE,0,German,Christian,Europe,26652,502620991.852944,3,red,blue,red,0,0,2
+sarajevo-1984,Winter,1984,Yugoslavia,Norway,NOR,324,Other,Christian,Europe,4139970,62057955032.7758,3,red,red,red,3,2,4
+sarajevo-1984,Winter,1984,Yugoslavia,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10,9
+sarajevo-1984,Winter,1984,Yugoslavia,Sweden,SWE,450,Other,Christian,Europe,8336484,109201362581.3,2,blue,blue,blue,4,2,2
+sarajevo-1984,Winter,1984,Yugoslavia,Switzerland,CHE,41,German,Christian,Europe,6442418,109455312167.511,2,red,red,red,2,2,1
+sarajevo-1984,Winter,1984,Yugoslavia,United Kingdom,GBR,NA,NA,NA,NA,56451312,461487097632.349,NA,NA,NA,NA,1,0,0
+sarajevo-1984,Winter,1984,Yugoslavia,United States,USA,NA,NA,NA,NA,239353968,4037613000000,NA,NA,NA,NA,4,4,0
+sarajevo-1984,Winter,1984,Yugoslavia,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,0,1,0
+los-angeles-1984,Summer,1984,United States,Algeria,DZA,2388,Arabic,Muslim,Asia,21271969,53698548293.0745,3,green,green,white,0,0,2
+los-angeles-1984,Summer,1984,United States,Australia,AUS,7690,English,Christian,Oceania,15620650,193518998163.396,3,blue,white,blue,4,8,12
+los-angeles-1984,Summer,1984,United States,Austria,AUT,84,German,Christian,Europe,7560716,67985344886.8716,2,red,red,red,1,1,1
+los-angeles-1984,Summer,1984,United States,Belgium,BEL,31,Other,Christian,Europe,9874586,83349530159.1734,3,gold,black,red,1,1,2
+los-angeles-1984,Summer,1984,United States,Brazil,BRA,8512,Other,Christian,S.America,132658862,NA,4,green,green,green,1,5,2
+los-angeles-1984,Summer,1984,United States,Cameroon,CMR,474,French,Christian,Asia,9475084,7311938026.36713,3,gold,green,gold,0,0,1
+los-angeles-1984,Summer,1984,United States,Canada,CAN,9976,English,Christian,N.America,25670376,356718400123.543,2,red,red,red,10,18,16
+los-angeles-1984,Summer,1984,United States,China,CHN,9561,Chinese,Other,NA,1043849645,259946510957.143,2,red,red,red,15,8,9
+los-angeles-1984,Summer,1984,United States,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+los-angeles-1984,Summer,1984,United States,Colombia,COL,1139,Spanish,Christian,S.America,28642689,38253120737.9671,3,gold,gold,red,0,1,0
+los-angeles-1984,Summer,1984,United States,Côte d'Ivoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+los-angeles-1984,Summer,1984,United States,Denmark,DNK,43,Other,Christian,Europe,5111830,59105236853.7937,2,red,red,red,0,3,3
+los-angeles-1984,Summer,1984,United States,Dominican Republic,DOM,NA,NA,NA,NA,6289048,11594000000,NA,NA,NA,NA,0,0,1
+los-angeles-1984,Summer,1984,United States,Egypt,NA,1001,Arabic,Muslim,Asia,49247335,NA,4,black,red,black,0,1,0
+los-angeles-1984,Summer,1984,United States,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,19,23
+los-angeles-1984,Summer,1984,United States,Finland,FIN,337,Other,Christian,Europe,4881827,52888800949.7428,2,white,white,white,4,2,6
+los-angeles-1984,Summer,1984,United States,France,FRA,547,French,Christian,Europe,55176626,530683779929.445,3,white,blue,red,5,7,16
+los-angeles-1984,Summer,1984,United States,Greece,GRC,132,Other,Christian,Europe,9978780,48020024183.7969,2,blue,blue,blue,0,1,1
+los-angeles-1984,Summer,1984,United States,Iceland,ISL,103,Other,Christian,Europe,239513,2864441387.40507,3,blue,blue,blue,0,0,1
+los-angeles-1984,Summer,1984,United States,Ireland,IRL,70,English,Christian,Europe,3515954,20106648454.8404,3,white,green,orange,0,1,0
+los-angeles-1984,Summer,1984,United States,Italy,ITA,301,Other,Christian,Europe,56810354,437887689001.543,3,white,green,red,14,6,12
+los-angeles-1984,Summer,1984,United States,Jamaica,JAM,11,English,Christian,N.America,2264564,2373564549.4932,3,green,gold,gold,0,1,2
+los-angeles-1984,Summer,1984,United States,Japan,JPN,372,Other,Other,NA,120384396,1345824500836.76,2,white,white,white,10,7,14
+los-angeles-1984,Summer,1984,United States,Kenya,KEN,583,Other,Other,Asia,18514909,6191437070.18411,4,red,black,green,1,0,2
+los-angeles-1984,Summer,1984,United States,Mexico,MEX,1973,Spanish,Christian,N.America,73506848,184230754105.394,4,green,green,red,2,3,1
+los-angeles-1984,Summer,1984,United States,Morocco,MAR,447,Arabic,Muslim,Asia,21593778,14824667954.3674,2,red,red,red,2,0,0
+los-angeles-1984,Summer,1984,United States,Netherlands,NLD,41,Other,Christian,Europe,14462810,143912664148.352,3,red,red,blue,5,2,6
+los-angeles-1984,Summer,1984,United States,New Zealand,NZL,NA,NA,NA,NA,3249830,21665975318.8842,NA,NA,NA,NA,8,1,2
+los-angeles-1984,Summer,1984,United States,Nigeria,NGA,925,Other,Muslim,Asia,82526444,73484359521.4887,2,green,green,green,0,1,1
+los-angeles-1984,Summer,1984,United States,Norway,NOR,324,Other,Christian,Europe,4139970,62057955032.7758,3,red,red,red,0,1,2
+los-angeles-1984,Summer,1984,United States,Pakistan,PAK,804,Other,Muslim,NA,95164941,31151825467.4978,2,green,white,green,1,0,0
+los-angeles-1984,Summer,1984,United States,Peru,PER,1285,Spanish,Christian,S.America,19174715,20339340469.3333,2,red,red,red,0,1,0
+los-angeles-1984,Summer,1984,United States,Portugal,PRT,92,Other,Christian,Europe,9956893,25217969049.5755,5,red,green,red,1,0,2
+los-angeles-1984,Summer,1984,United States,Puerto Rico,PRI,NA,NA,NA,NA,3367199,19162600000,NA,NA,NA,NA,0,1,1
+los-angeles-1984,Summer,1984,United States,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,7
+los-angeles-1984,Summer,1984,United States,Romania,ROU,237,Other,Other,Europe,22534001,NA,7,red,blue,red,19,16,17
+los-angeles-1984,Summer,1984,United States,Spain,ESP,505,Spanish,Christian,Europe,38437483,172102910370.524,2,red,red,red,1,2,2
+los-angeles-1984,Summer,1984,United States,Sweden,SWE,450,Other,Christian,Europe,8336484,109201362581.3,2,blue,blue,blue,2,11,6
+los-angeles-1984,Summer,1984,United States,Switzerland,CHE,41,German,Christian,Europe,6442418,109455312167.511,2,red,red,red,0,4,4
+los-angeles-1984,Summer,1984,United States,Syrian Arab Republic,SYR,NA,NA,NA,NA,NA,17503077755.1825,NA,NA,NA,NA,0,1,0
+los-angeles-1984,Summer,1984,United States,Thailand,THA,514,Other,Other,NA,49351711,41797647775.6238,3,red,red,red,0,1,0
+los-angeles-1984,Summer,1984,United States,Turkey,NA,781,Other,Muslim,NA,49574064,NA,2,red,red,red,0,0,3
+los-angeles-1984,Summer,1984,United States,United Kingdom,GBR,NA,NA,NA,NA,56451312,461487097632.349,NA,NA,NA,NA,5,11,21
+los-angeles-1984,Summer,1984,United States,United States,USA,NA,NA,NA,NA,239353968,4037613000000,NA,NA,NA,NA,82,61,30
+los-angeles-1984,Summer,1984,United States,Venezuela,NA,912,Spanish,Christian,S.America,17008838,NA,7,red,gold,red,0,0,3
+los-angeles-1984,Summer,1984,United States,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,7,4,7
+los-angeles-1984,Summer,1984,United States,Zambia,ZMB,753,Other,Other,Asia,6580498,2719801434.08715,4,green,green,brown,0,0,1
+calgary-1988,Winter,1988,Canada,Austria,AUT,84,German,Christian,Europe,7585347,133339397080.129,2,red,red,red,3,5,2
+calgary-1988,Winter,1988,Canada,Canada,CAN,9976,English,Christian,N.America,26927938,509380027626.554,2,red,red,red,0,2,3
+calgary-1988,Winter,1988,Canada,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,1,2
+calgary-1988,Winter,1988,Canada,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,2
+calgary-1988,Winter,1988,Canada,Finland,FIN,337,Other,Christian,Europe,4946629,109058990760.483,2,white,white,white,4,1,2
+calgary-1988,Winter,1988,Canada,France,FRA,547,French,Christian,Europe,56361846,1018847043277.17,3,white,blue,red,1,0,1
+calgary-1988,Winter,1988,Canada,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10,6
+calgary-1988,Winter,1988,Canada,Italy,ITA,301,Other,Christian,Europe,56928746,891608957155.608,3,white,green,red,2,1,2
+calgary-1988,Winter,1988,Canada,Japan,JPN,372,Other,Other,NA,122476957,3125724434400.79,2,white,white,white,0,0,1
+calgary-1988,Winter,1988,Canada,Liechtenstein,LIE,0,German,Christian,Europe,28166,1161757671.01756,3,red,blue,red,0,0,1
+calgary-1988,Winter,1988,Canada,Netherlands,NLD,41,Other,Christian,Europe,14825916,261910508417.884,3,red,red,blue,3,2,2
+calgary-1988,Winter,1988,Canada,Norway,NOR,324,Other,Christian,Europe,4209471,101900260856.222,3,red,red,red,0,3,2
+calgary-1988,Winter,1988,Canada,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,9,9
+calgary-1988,Winter,1988,Canada,Sweden,SWE,450,Other,Christian,Europe,8436358,206986674500.588,2,blue,blue,blue,4,0,2
+calgary-1988,Winter,1988,Canada,Switzerland,CHE,41,German,Christian,Europe,6594145,215540625298.982,2,red,red,red,5,5,5
+calgary-1988,Winter,1988,Canada,United States,USA,NA,NA,NA,NA,248393235,5236438000000,NA,NA,NA,NA,2,1,3
+calgary-1988,Winter,1988,Canada,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,0,2,1
+seoul-1988,Summer,1988,Republic of Korea,Argentina,ARG,2777,Spanish,Christian,S.America,31780533,126928000000,2,blue,blue,blue,0,1,1
+seoul-1988,Summer,1988,Republic of Korea,Australia,AUS,7690,English,Christian,Oceania,16594102,236154038684.292,3,blue,white,blue,3,6,5
+seoul-1988,Summer,1988,Republic of Korea,Austria,AUT,84,German,Christian,Europe,7585347,133339397080.129,2,red,red,red,1,0,0
+seoul-1988,Summer,1988,Republic of Korea,Belgium,BEL,31,Other,Christian,Europe,9916567,162299103675.261,3,gold,black,red,0,0,2
+seoul-1988,Summer,1988,Republic of Korea,Brazil,BRA,8512,Other,Christian,S.America,143826358,NA,4,green,green,green,1,2,3
+seoul-1988,Summer,1988,Republic of Korea,Bulgaria,BGR,111,Other,Other,Europe,8985725,22555941176.4706,5,red,white,red,10,12,13
+seoul-1988,Summer,1988,Republic of Korea,Canada,CAN,9976,English,Christian,N.America,26927938,509380027626.554,2,red,red,red,3,2,5
+seoul-1988,Summer,1988,Republic of Korea,Chile,CHL,757,Spanish,Christian,S.America,12999429,26042571615.5987,3,red,blue,red,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,China,CHN,9561,Chinese,Other,NA,1115244161,312353631207.819,2,red,red,red,5,11,12
+seoul-1988,Summer,1988,Republic of Korea,Colombia,COL,1139,Spanish,Christian,S.America,31130528,39212550050.4223,3,gold,gold,red,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Costa Rica,CRI,NA,NA,NA,NA,2968102,4614629898.40348,NA,NA,NA,NA,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,3,3,2
+seoul-1988,Summer,1988,Republic of Korea,Denmark,DNK,43,Other,Christian,Europe,5129650,115552846616.653,2,red,red,red,2,1,1
+seoul-1988,Summer,1988,Republic of Korea,Djibouti,DJI,22,French,Muslim,Asia,484530,395794538.630775,4,blue,white,green,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Federal Republic of Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,14,15
+seoul-1988,Summer,1988,Republic of Korea,Finland,FIN,337,Other,Christian,Europe,4946629,109058990760.483,2,white,white,white,1,1,2
+seoul-1988,Summer,1988,Republic of Korea,France,FRA,547,French,Christian,Europe,56361846,1018847043277.17,3,white,blue,red,6,4,6
+seoul-1988,Summer,1988,Republic of Korea,German Democratic Republic (Germany),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,35,30
+seoul-1988,Summer,1988,Republic of Korea,Greece,GRC,132,Other,Christian,Europe,10177008,76261277924.5736,2,blue,blue,blue,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Hungary,HUN,93,Other,Other,Europe,10440534,29702631093.8815,3,red,red,green,11,6,6
+seoul-1988,Summer,1988,Republic of Korea,Indonesia,IDN,1904,Other,Muslim,Oceania,176855069,84300174485.7973,2,red,red,white,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Italy,ITA,301,Other,Christian,Europe,56928746,891608957155.608,3,white,green,red,6,4,4
+seoul-1988,Summer,1988,Republic of Korea,Jamaica,JAM,11,English,Christian,N.America,2345785,3828342820.3494,3,green,gold,gold,0,2,0
+seoul-1988,Summer,1988,Republic of Korea,Japan,JPN,372,Other,Other,NA,122476957,3125724434400.79,2,white,white,white,4,3,7
+seoul-1988,Summer,1988,Republic of Korea,Kenya,KEN,583,Other,Other,Asia,21356221,8355380879.12955,4,red,black,green,5,2,2
+seoul-1988,Summer,1988,Republic of Korea,Mexico,MEX,1973,Spanish,Christian,N.America,79695527,181611150496.787,4,green,green,red,0,0,2
+seoul-1988,Summer,1988,Republic of Korea,Mongolia,MNG,1566,Other,Other,NA,2076327,3204461566.66667,3,red,red,red,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Morocco,MAR,447,Arabic,Muslim,Asia,23500528,25705296183.5037,2,red,red,red,1,0,2
+seoul-1988,Summer,1988,Republic of Korea,Netherlands,NLD,41,Other,Christian,Europe,14825916,261910508417.884,3,red,red,blue,2,2,5
+seoul-1988,Summer,1988,Republic of Korea,Netherlands Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,New Zealand,NZL,NA,NA,NA,NA,3316026,45176811594.2029,NA,NA,NA,NA,3,2,8
+seoul-1988,Summer,1988,Republic of Korea,Norway,NOR,324,Other,Christian,Europe,4209471,101900260856.222,3,red,red,red,2,3,0
+seoul-1988,Summer,1988,Republic of Korea,Pakistan,PAK,804,Other,Muslim,NA,108724741,38472742808.3167,2,green,white,green,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Peru,PER,1285,Spanish,Christian,S.America,21054704,15439408447.2,2,red,red,red,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Philippines,PHL,300,Other,Christian,Oceania,59739056,43152128958.6116,4,blue,blue,red,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Poland,POL,313,Other,Other,Europe,37817862,NA,2,white,white,red,2,5,9
+seoul-1988,Summer,1988,Republic of Korea,Portugal,PRT,92,Other,Christian,Europe,10004589,56347250696.3788,5,red,green,red,1,0,0
+seoul-1988,Summer,1988,Republic of Korea,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,10,11
+seoul-1988,Summer,1988,Republic of Korea,Romania,ROU,237,Other,Other,Europe,22815434,40424528301.8868,7,red,blue,red,7,11,6
+seoul-1988,Summer,1988,Republic of Korea,Senegal,SEN,196,French,Muslim,Asia,7289619,6418419388.63499,3,green,green,red,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Soviet Union,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,31,46
+seoul-1988,Summer,1988,Republic of Korea,Spain,ESP,505,Spanish,Christian,Europe,38952262,376160409941.437,2,red,red,red,1,1,2
+seoul-1988,Summer,1988,Republic of Korea,Suriname,SUR,NA,NA,NA,NA,402230,1161000000,NA,NA,NA,NA,1,0,0
+seoul-1988,Summer,1988,Republic of Korea,Sweden,SWE,450,Other,Christian,Europe,8436358,206986674500.588,2,blue,blue,blue,0,4,7
+seoul-1988,Summer,1988,Republic of Korea,Switzerland,CHE,41,German,Christian,Europe,6594145,215540625298.982,2,red,red,red,0,2,2
+seoul-1988,Summer,1988,Republic of Korea,Thailand,THA,514,Other,Other,NA,52969595,61667253471.3736,3,red,red,red,0,0,1
+seoul-1988,Summer,1988,Republic of Korea,Turkey,NA,781,Other,Muslim,NA,53909627,NA,2,red,red,red,1,1,0
+seoul-1988,Summer,1988,Republic of Korea,United Kingdom,GBR,NA,NA,NA,NA,57026540,910122732123.799,NA,NA,NA,NA,5,10,9
+seoul-1988,Summer,1988,Republic of Korea,United States,USA,NA,NA,NA,NA,248393235,5236438000000,NA,NA,NA,NA,36,31,27
+seoul-1988,Summer,1988,Republic of Korea,"Virgin Islands, US",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+seoul-1988,Summer,1988,Republic of Korea,Yugoslavia,NA,256,Other,Other,Europe,NA,NA,4,red,blue,red,3,4,5
+albertville-1992,Winter,1992,France,Austria,AUT,84,German,Christian,Europe,7842716,195078126721.763,2,red,red,red,6,7,8
+albertville-1992,Winter,1992,France,Canada,CAN,9976,English,Christian,N.America,28500065,594387358318.855,2,red,red,red,2,3,2
+albertville-1992,Winter,1992,France,China,CHN,9561,Chinese,Other,NA,1184574240,426915712715.856,2,red,red,red,0,3,0
+albertville-1992,Winter,1992,France,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,0,0,3
+albertville-1992,Winter,1992,France,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+albertville-1992,Winter,1992,France,Finland,FIN,337,Other,Christian,Europe,5042147,112532519246.084,2,white,white,white,3,1,3
+albertville-1992,Winter,1992,France,France,FRA,547,French,Christian,Europe,57554865,1401465923172.24,3,white,blue,red,3,5,1
+albertville-1992,Winter,1992,France,Germany,DEU,NA,NA,NA,NA,80934901,2131571696931.75,NA,NA,NA,NA,10,10,6
+albertville-1992,Winter,1992,France,Italy,ITA,301,Other,Christian,Europe,57124992,1320161644933.23,3,white,green,red,4,6,4
+albertville-1992,Winter,1992,France,Japan,JPN,372,Other,Other,NA,124383707,3980702922117.66,2,white,white,white,1,2,4
+albertville-1992,Winter,1992,France,Luxembourg,LUX,3,German,Christian,Europe,391973,15518702634.8808,3,red,red,blue,0,2,0
+albertville-1992,Winter,1992,France,Netherlands,NLD,41,Other,Christian,Europe,15276786,362962872180.451,3,red,red,blue,1,1,2
+albertville-1992,Winter,1992,France,New Zealand,NZL,NA,NA,NA,NA,3532245,41649829859.6342,NA,NA,NA,NA,0,1,0
+albertville-1992,Winter,1992,France,Norway,NOR,324,Other,Christian,Europe,4286256,130838040067.584,3,red,red,red,9,6,5
+albertville-1992,Winter,1992,France,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1
+albertville-1992,Winter,1992,France,Spain,ESP,505,Spanish,Christian,Europe,39420344,630916018202.503,2,red,red,red,0,0,1
+albertville-1992,Winter,1992,France,Sweden,SWE,450,Other,Christian,Europe,8667577,284321115594.629,2,blue,blue,blue,1,0,3
+albertville-1992,Winter,1992,France,Switzerland,CHE,41,German,Christian,Europe,6875049,279921425828.474,2,red,red,red,1,0,2
+albertville-1992,Winter,1992,France,Unified Team,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,6,8
+albertville-1992,Winter,1992,France,United States,USA,NA,NA,NA,NA,259606020,6520327000000,NA,NA,NA,NA,5,4,2
+barcelona-1992,Summer,1992,Spain,Algeria,DZA,2388,Arabic,Muslim,Asia,26628568,48003133346.9957,3,green,green,white,1,0,1
+barcelona-1992,Summer,1992,Spain,Argentina,ARG,2777,Spanish,Christian,S.America,33693532,228778917308.17,2,blue,blue,blue,0,0,1
+barcelona-1992,Summer,1992,Spain,Australia,AUS,7690,English,Christian,Oceania,17549282,325518458076.533,3,blue,white,blue,7,9,11
+barcelona-1992,Summer,1992,Spain,Austria,AUT,84,German,Christian,Europe,7842716,195078126721.763,2,red,red,red,0,2,0
+barcelona-1992,Summer,1992,Spain,Bahamas,NA,19,English,Christian,N.America,285938,NA,3,blue,blue,blue,0,0,1
+barcelona-1992,Summer,1992,Spain,Belgium,BEL,31,Other,Christian,Europe,10045987,234781652446.675,3,gold,black,red,0,1,2
+barcelona-1992,Summer,1992,Spain,Brazil,BRA,8512,Other,Christian,S.America,154275077,328191909882.232,4,green,green,green,2,1,0
+barcelona-1992,Summer,1992,Spain,Bulgaria,BGR,111,Other,Other,Europe,8559091,10350515463.9175,5,red,white,red,3,7,6
+barcelona-1992,Summer,1992,Spain,Canada,CAN,9976,English,Christian,N.America,28500065,594387358318.855,2,red,red,red,7,4,7
+barcelona-1992,Summer,1992,Spain,China,CHN,9561,Chinese,Other,NA,1184574240,426915712715.856,2,red,red,red,16,22,15
+barcelona-1992,Summer,1992,Spain,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+barcelona-1992,Summer,1992,Spain,Colombia,COL,1139,Spanish,Christian,S.America,33760570,58394443377.5416,3,gold,gold,red,0,0,1
+barcelona-1992,Summer,1992,Spain,Croatia,HRV,NA,NA,NA,NA,4782238,10621169290.9986,NA,NA,NA,NA,0,1,2
+barcelona-1992,Summer,1992,Spain,Cuba,CUB,115,Spanish,Other,N.America,10785807,22085858243.2432,3,blue,blue,blue,14,6,11
+barcelona-1992,Summer,1992,Spain,Czechoslovakia,NA,128,Other,Other,Europe,NA,NA,3,white,white,red,4,2,1
+barcelona-1992,Summer,1992,Spain,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,5
+barcelona-1992,Summer,1992,Spain,Denmark,DNK,43,Other,Christian,Europe,5171371,152915654478.885,2,red,red,red,1,1,4
+barcelona-1992,Summer,1992,Spain,Estonia,EST,NA,NA,NA,NA,1540213,NA,NA,NA,NA,NA,1,0,1
+barcelona-1992,Summer,1992,Spain,Ethiopia,ETH,1222,Other,Christian,Asia,51853754,10754799036.5745,3,green,green,red,1,0,2
+barcelona-1992,Summer,1992,Spain,Finland,FIN,337,Other,Christian,Europe,5042147,112532519246.084,2,white,white,white,1,2,2
+barcelona-1992,Summer,1992,Spain,France,FRA,547,French,Christian,Europe,57554865,1401465923172.24,3,white,blue,red,8,5,16
+barcelona-1992,Summer,1992,Spain,Germany,DEU,NA,NA,NA,NA,80934901,2131571696931.75,NA,NA,NA,NA,33,21,28
+barcelona-1992,Summer,1992,Spain,Ghana,GHA,239,English,Other,Asia,16184862,6416103925.83267,4,red,red,green,0,0,1
+barcelona-1992,Summer,1992,Spain,Greece,GRC,132,Other,Christian,Europe,10359894,116224672863.783,2,blue,blue,blue,2,0,0
+barcelona-1992,Summer,1992,Spain,Hungary,HUN,93,Other,Other,Europe,10371477,38730585922.2189,3,red,red,green,11,12,7
+barcelona-1992,Summer,1992,Spain,Independent Olympic Athletes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2
+barcelona-1992,Summer,1992,Spain,Indonesia,IDN,1904,Other,Muslim,Oceania,190043743,128026966579.964,2,red,red,white,2,2,1
+barcelona-1992,Summer,1992,Spain,Ireland,IRL,70,English,Christian,Europe,3558417,55918538121.3989,3,white,green,orange,1,1,0
+barcelona-1992,Summer,1992,Spain,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2
+barcelona-1992,Summer,1992,Spain,Israel,ISR,21,Other,Other,NA,4957239,79002421132.5652,2,white,blue,blue,0,1,1
+barcelona-1992,Summer,1992,Spain,Italy,ITA,301,Other,Christian,Europe,57124992,1320161644933.23,3,white,green,red,6,5,8
+barcelona-1992,Summer,1992,Spain,Jamaica,JAM,11,English,Christian,N.America,2424697,3535460089.80719,3,green,gold,gold,0,3,1
+barcelona-1992,Summer,1992,Spain,Japan,JPN,372,Other,Other,NA,124383707,3980702922117.66,2,white,white,white,3,8,11
+barcelona-1992,Summer,1992,Spain,Kenya,KEN,583,Other,Other,Asia,24382466,8209120763.04955,4,red,black,green,2,4,2
+barcelona-1992,Summer,1992,Spain,Latvia,LVA,NA,NA,NA,NA,2614832,NA,NA,NA,NA,NA,0,2,1
+barcelona-1992,Summer,1992,Spain,Lithuania,LTU,NA,NA,NA,NA,3697553,NA,NA,NA,NA,NA,1,0,1
+barcelona-1992,Summer,1992,Spain,Malaysia,MYS,333,Other,Muslim,NA,18834569,59167550162.956,4,red,blue,white,0,0,1
+barcelona-1992,Summer,1992,Spain,Mexico,MEX,1973,Spanish,Christian,N.America,86044810,363157832923.734,4,green,green,red,0,1,0
+barcelona-1992,Summer,1992,Spain,Mongolia,MNG,1566,Other,Other,NA,2239129,1317611863.84977,3,red,red,red,0,0,2
+barcelona-1992,Summer,1992,Spain,Morocco,MAR,447,Arabic,Muslim,Asia,25212469,33711069430.78,2,red,red,red,1,1,1
+barcelona-1992,Summer,1992,Spain,Namibia,NAM,NA,NA,NA,NA,1461326,3429521699.4026,NA,NA,NA,NA,0,2,0
+barcelona-1992,Summer,1992,Spain,Netherlands,NLD,41,Other,Christian,Europe,15276786,362962872180.451,3,red,red,blue,2,6,7
+barcelona-1992,Summer,1992,Spain,New Zealand,NZL,NA,NA,NA,NA,3532245,41649829859.6342,NA,NA,NA,NA,1,4,5
+barcelona-1992,Summer,1992,Spain,Nigeria,NGA,925,Other,Muslim,Asia,102372779,52058181853.8055,2,green,green,green,0,3,1
+barcelona-1992,Summer,1992,Spain,Norway,NOR,324,Other,Christian,Europe,4286256,130838040067.584,3,red,red,red,2,4,1
+barcelona-1992,Summer,1992,Spain,Pakistan,PAK,804,Other,Muslim,NA,123546854,48884671947.4657,2,green,white,green,0,0,1
+barcelona-1992,Summer,1992,Spain,Peru,PER,1285,Spanish,Christian,S.America,22946346,35966302303.263,2,red,red,red,0,1,0
+barcelona-1992,Summer,1992,Spain,Philippines,PHL,300,Other,Christian,Oceania,65926133,60422328242.1803,4,blue,blue,red,0,0,1
+barcelona-1992,Summer,1992,Spain,Poland,POL,313,Other,Other,Europe,38233632,94337050693.2727,2,white,white,red,3,6,10
+barcelona-1992,Summer,1992,Spain,Puerto Rico,PRI,NA,NA,NA,NA,3606394,34630430000,NA,NA,NA,NA,0,0,1
+barcelona-1992,Summer,1992,Spain,Qatar,QAT,11,Arabic,Muslim,NA,469657,7646153983.51648,2,brown,white,brown,0,0,1
+barcelona-1992,Summer,1992,Spain,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,5,11
+barcelona-1992,Summer,1992,Spain,Romania,ROU,237,Other,Other,Europe,22912388,25121666666.6667,7,red,blue,red,4,6,8
+barcelona-1992,Summer,1992,Spain,Slovenia,SVN,NA,NA,NA,NA,1995863,14267106463.693,NA,NA,NA,NA,0,0,2
+barcelona-1992,Summer,1992,Spain,South Africa,ZAF,NA,NA,NA,NA,42443510,146956150986.636,NA,NA,NA,NA,0,2,0
+barcelona-1992,Summer,1992,Spain,Spain,ESP,505,Spanish,Christian,Europe,39420344,630916018202.503,2,red,red,red,13,7,2
+barcelona-1992,Summer,1992,Spain,Suriname,SUR,NA,NA,NA,NA,417602,404600000,NA,NA,NA,NA,0,0,1
+barcelona-1992,Summer,1992,Spain,Sweden,SWE,450,Other,Christian,Europe,8667577,284321115594.629,2,blue,blue,blue,1,7,4
+barcelona-1992,Summer,1992,Spain,Switzerland,CHE,41,German,Christian,Europe,6875049,279921425828.474,2,red,red,red,1,0,0
+barcelona-1992,Summer,1992,Spain,Thailand,THA,514,Other,Other,NA,56528829,111452746517.655,3,red,red,red,0,0,1
+barcelona-1992,Summer,1992,Spain,Turkey,NA,781,Other,Muslim,NA,57990120,NA,2,red,red,red,2,2,2
+barcelona-1992,Summer,1992,Spain,Unified Team,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,38,29
+barcelona-1992,Summer,1992,Spain,United Kingdom,GBR,NA,NA,NA,NA,57719272,1179659529659.53,NA,NA,NA,NA,5,3,12
+barcelona-1992,Summer,1992,Spain,United States,USA,NA,NA,NA,NA,259606020,6520327000000,NA,NA,NA,NA,37,34,37
+lillehammer-1994,Winter,1994,Norway,Australia,AUS,7690,English,Christian,Oceania,17897430,322802490487.721,3,blue,white,blue,0,0,1
+lillehammer-1994,Winter,1994,Norway,Austria,AUT,84,German,Christian,Europe,7938156,203535242741.838,2,red,red,red,2,3,4
+lillehammer-1994,Winter,1994,Norway,Belarus,BLR,NA,NA,NA,NA,10230192,14952100840.3361,NA,NA,NA,NA,0,2,0
+lillehammer-1994,Winter,1994,Norway,Canada,CAN,9976,English,Christian,N.America,29147382,579944346807.264,2,red,red,red,3,6,4
+lillehammer-1994,Winter,1994,Norway,China,CHN,9561,Chinese,Other,NA,1209003100,564321854521.013,2,red,red,red,0,1,2
+lillehammer-1994,Winter,1994,Norway,Finland,FIN,337,Other,Christian,Europe,5088454,103299943084.804,2,white,white,white,0,1,5
+lillehammer-1994,Winter,1994,Norway,France,FRA,547,French,Christian,Europe,57999868,1393982750472.59,3,white,blue,red,0,1,4
+lillehammer-1994,Winter,1994,Norway,Germany,DEU,NA,NA,NA,NA,81773612,2205074123177.05,NA,NA,NA,NA,9,7,8
+lillehammer-1994,Winter,1994,Norway,Italy,ITA,301,Other,Christian,Europe,57420136,1099216688280.5,3,white,green,red,7,5,8
+lillehammer-1994,Winter,1994,Norway,Japan,JPN,372,Other,Other,NA,125286862,4998797547740.97,2,white,white,white,1,2,2
+lillehammer-1994,Winter,1994,Norway,Kazakhstan,KAZ,NA,NA,NA,NA,17043775,21250792886.1054,NA,NA,NA,NA,1,2,0
+lillehammer-1994,Winter,1994,Norway,Netherlands,NLD,41,Other,Christian,Europe,15485453,379130260322.073,3,red,red,blue,0,1,3
+lillehammer-1994,Winter,1994,Norway,Norway,NOR,324,Other,Christian,Europe,4336467,127131319428.701,3,red,red,red,10,11,5
+lillehammer-1994,Winter,1994,Norway,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,1
+lillehammer-1994,Winter,1994,Norway,Russian Federation,RUS,NA,NA,NA,NA,NA,395077301248.464,NA,NA,NA,NA,11,8,4
+lillehammer-1994,Winter,1994,Norway,Slovenia,SVN,NA,NA,NA,NA,1988260,16389101593.5269,NA,NA,NA,NA,0,0,3
+lillehammer-1994,Winter,1994,Norway,Sweden,SWE,450,Other,Christian,Europe,8780193,229033566614.826,2,blue,blue,blue,2,1,0
+lillehammer-1994,Winter,1994,Norway,Switzerland,CHE,41,German,Christian,Europe,6993594,301375055202.164,2,red,red,red,3,4,2
+lillehammer-1994,Winter,1994,Norway,Ukraine,UKR,NA,NA,NA,NA,52076000,52549580264.8064,NA,NA,NA,NA,1,0,1
+lillehammer-1994,Winter,1994,Norway,United Kingdom,GBR,NA,NA,NA,NA,58003200,1140489745944.29,NA,NA,NA,NA,0,0,2
+lillehammer-1994,Winter,1994,Norway,United States,USA,NA,NA,NA,NA,265474811,7287236000000,NA,NA,NA,NA,6,5,2
+lillehammer-1994,Winter,1994,Norway,Uzbekistan,UZB,NA,NA,NA,NA,22463293,12899156990.6156,NA,NA,NA,NA,1,0,0
+atlanta-1996,Summer,1996,United States,Algeria,DZA,2388,Arabic,Muslim,Asia,29033045,46941554225.3581,3,green,green,white,2,0,1
+atlanta-1996,Summer,1996,United States,Argentina,ARG,2777,Spanish,Christian,S.America,35513794,272149750000,2,blue,blue,blue,0,2,1
+atlanta-1996,Summer,1996,United States,Armenia,ARM,NA,NA,NA,NA,3278738,1596968946.23708,NA,NA,NA,NA,1,1,0
+atlanta-1996,Summer,1996,United States,Australia,AUS,7690,English,Christian,Oceania,18305299,401341880620.728,3,blue,white,blue,9,9,23
+atlanta-1996,Summer,1996,United States,Austria,AUT,84,German,Christian,Europe,7960918,237250948791.266,2,red,red,red,0,1,2
+atlanta-1996,Summer,1996,United States,Azerbaijan,AZE,NA,NA,NA,NA,7830982,3176507376.31836,NA,NA,NA,NA,0,1,0
+atlanta-1996,Summer,1996,United States,Bahamas,NA,19,English,Christian,N.America,306282,NA,3,blue,blue,blue,0,1,0
+atlanta-1996,Summer,1996,United States,Belarus,BLR,NA,NA,NA,NA,10164023,14756846153.8462,NA,NA,NA,NA,1,6,8
+atlanta-1996,Summer,1996,United States,Belgium,BEL,31,Other,Christian,Europe,10156973,279201433224.756,3,gold,black,red,2,2,2
+atlanta-1996,Summer,1996,United States,Brazil,BRA,8512,Other,Christian,S.America,164202549,850426432991.742,4,green,green,green,3,3,9
+atlanta-1996,Summer,1996,United States,Bulgaria,BGR,111,Other,Other,Europe,8291403,12294964837.6235,5,red,white,red,3,7,5
+atlanta-1996,Summer,1996,United States,Burundi,BDI,28,Other,Other,Asia,6070509,869033856.317093,3,red,white,white,1,0,0
+atlanta-1996,Summer,1996,United States,Canada,CAN,9976,English,Christian,N.America,29767210,630607994132.747,2,red,red,red,3,11,8
+atlanta-1996,Summer,1996,United States,China,CHN,9561,Chinese,Other,NA,1230944812,863749314718.538,2,red,red,red,16,22,12
+atlanta-1996,Summer,1996,United States,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+atlanta-1996,Summer,1996,United States,Costa Rica,CRI,NA,NA,NA,NA,3619014,11678424507.2457,NA,NA,NA,NA,1,0,0
+atlanta-1996,Summer,1996,United States,Croatia,HRV,NA,NA,NA,NA,4562291,24147533317.0613,NA,NA,NA,NA,1,1,0
+atlanta-1996,Summer,1996,United States,Cuba,CUB,115,Spanish,Other,N.America,10962011,25017368700,3,blue,blue,blue,9,8,8
+atlanta-1996,Summer,1996,United States,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4
+atlanta-1996,Summer,1996,United States,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+atlanta-1996,Summer,1996,United States,Denmark,DNK,43,Other,Christian,Europe,5263072,187632346387.983,2,red,red,red,4,1,1
+atlanta-1996,Summer,1996,United States,Ecuador,ECU,284,Spanish,Christian,S.America,11810954,25226393196.5983,3,gold,gold,red,1,0,0
+atlanta-1996,Summer,1996,United States,Ethiopia,ETH,1222,Other,Christian,Asia,59467640,8761215548.48614,3,green,green,red,2,0,1
+atlanta-1996,Summer,1996,United States,Finland,FIN,337,Other,Christian,Europe,5124716,132129174216.93,2,white,white,white,1,2,1
+atlanta-1996,Summer,1996,United States,France,FRA,547,French,Christian,Europe,58380637,1605675086549.56,3,white,blue,red,15,7,15
+atlanta-1996,Summer,1996,United States,Georgia,GEO,NA,NA,NA,NA,4812774,3095047603.8083,NA,NA,NA,NA,0,0,2
+atlanta-1996,Summer,1996,United States,Germany,DEU,NA,NA,NA,NA,82263195,2497244606186.64,NA,NA,NA,NA,20,18,27
+atlanta-1996,Summer,1996,United States,Greece,GRC,132,Other,Christian,Europe,10570081,145861612400.906,2,blue,blue,blue,4,4,0
+atlanta-1996,Summer,1996,United States,"Hong Kong, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0
+atlanta-1996,Summer,1996,United States,Hungary,HUN,93,Other,Other,Europe,10302236,46658755151.6017,3,red,red,green,7,4,10
+atlanta-1996,Summer,1996,United States,India,IND,3268,Other,Other,NA,979678464,392896866204.516,4,orange,orange,green,0,0,1
+atlanta-1996,Summer,1996,United States,Indonesia,IDN,1904,Other,Muslim,Oceania,203204352,227369679374.973,2,red,red,white,1,1,2
+atlanta-1996,Summer,1996,United States,Ireland,IRL,70,English,Christian,Europe,3638507,75790786290.3226,3,white,green,orange,3,0,1
+atlanta-1996,Summer,1996,United States,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+atlanta-1996,Summer,1996,United States,Israel,ISR,21,Other,Other,NA,5499554,114505860826.519,2,white,blue,blue,0,0,1
+atlanta-1996,Summer,1996,United States,Italy,ITA,301,Other,Christian,Europe,57162098,1312426527795.21,3,white,green,red,13,10,12
+atlanta-1996,Summer,1996,United States,Jamaica,JAM,11,English,Christian,N.America,2524471,7393891920.80358,3,green,gold,gold,1,3,2
+atlanta-1996,Summer,1996,United States,Japan,JPN,372,Other,Other,NA,125975305,4923391533851.63,2,white,white,white,3,6,5
+atlanta-1996,Summer,1996,United States,Kazakhstan,KAZ,NA,NA,NA,NA,16416036,21035357936.8796,NA,NA,NA,NA,3,4,4
+atlanta-1996,Summer,1996,United States,Kenya,KEN,583,Other,Other,Asia,27344212,12045865396.1323,4,red,black,green,1,4,3
+atlanta-1996,Summer,1996,United States,Latvia,LVA,NA,NA,NA,NA,2457910,5975248851.45482,NA,NA,NA,NA,0,1,0
+atlanta-1996,Summer,1996,United States,Lithuania,LTU,NA,NA,NA,NA,3599721,8382519637.46224,NA,NA,NA,NA,0,0,1
+atlanta-1996,Summer,1996,United States,Malaysia,MYS,333,Other,Muslim,NA,20850085,100855393910.486,4,red,blue,white,0,1,1
+atlanta-1996,Summer,1996,United States,Mexico,MEX,1973,Spanish,Christian,N.America,92452701,432157945024.428,4,green,green,red,0,0,1
+atlanta-1996,Summer,1996,United States,Mongolia,MNG,1566,Other,Other,NA,2363470,1345719472.35883,3,red,red,red,0,0,1
+atlanta-1996,Summer,1996,United States,Morocco,MAR,447,Arabic,Muslim,Asia,26808109,43161571527.6353,2,red,red,red,0,0,2
+atlanta-1996,Summer,1996,United States,Mozambique,MOZ,783,Other,Other,Asia,16492483,4030146134.5706,5,gold,green,gold,0,0,1
+atlanta-1996,Summer,1996,United States,Namibia,NAM,NA,NA,NA,NA,1646107,3989163196.56767,NA,NA,NA,NA,0,2,0
+atlanta-1996,Summer,1996,United States,Netherlands,NLD,41,Other,Christian,Europe,15640031,450490196078.431,3,red,red,blue,4,5,10
+atlanta-1996,Summer,1996,United States,New Zealand,NZL,NA,NA,NA,NA,3729383,70140835299.0148,NA,NA,NA,NA,3,2,1
+atlanta-1996,Summer,1996,United States,Nigeria,NGA,925,Other,Muslim,Asia,113754782,185730236700,2,green,green,green,2,1,3
+atlanta-1996,Summer,1996,United States,Norway,NOR,324,Other,Christian,Europe,4381137,163520109150.671,3,red,red,red,2,2,3
+atlanta-1996,Summer,1996,United States,Philippines,PHL,300,Other,Christian,Oceania,72190237,94648084429.0341,4,blue,blue,red,0,1,0
+atlanta-1996,Summer,1996,United States,Poland,POL,313,Other,Other,Europe,38359165,160193242090.427,2,white,white,red,7,5,5
+atlanta-1996,Summer,1996,United States,Portugal,PRT,92,Other,Christian,Europe,10067655,122630089680.27,5,red,green,red,1,0,1
+atlanta-1996,Summer,1996,United States,Puerto Rico,PRI,NA,NA,NA,NA,3719954,45340835000,NA,NA,NA,NA,0,0,1
+atlanta-1996,Summer,1996,United States,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,15,5
+atlanta-1996,Summer,1996,United States,Republic of Moldova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1
+atlanta-1996,Summer,1996,United States,Romania,ROU,237,Other,Other,Europe,22541912,36937074278.3004,7,red,blue,red,4,7,8
+atlanta-1996,Summer,1996,United States,Russian Federation,RUS,NA,NA,NA,NA,NA,391724890744.498,NA,NA,NA,NA,26,21,16
+atlanta-1996,Summer,1996,United States,Serbia and Montenegro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+atlanta-1996,Summer,1996,United States,Slovakia,NA,NA,NA,NA,NA,5362429,NA,NA,NA,NA,NA,1,1,1
+atlanta-1996,Summer,1996,United States,Slovenia,SVN,NA,NA,NA,NA,1986792,21507232648.7252,NA,NA,NA,NA,0,2,0
+atlanta-1996,Summer,1996,United States,South Africa,ZAF,NA,NA,NA,NA,45123022,163234925380.563,NA,NA,NA,NA,3,1,1
+atlanta-1996,Summer,1996,United States,Spain,ESP,505,Spanish,Christian,Europe,40237375,642588992512.807,2,red,red,red,5,6,6
+atlanta-1996,Summer,1996,United States,Sweden,SWE,450,Other,Christian,Europe,8840329,291743811512.079,2,blue,blue,blue,2,4,2
+atlanta-1996,Summer,1996,United States,Switzerland,CHE,41,German,Christian,Europe,7071884,340103959546.926,2,red,red,red,4,3,0
+atlanta-1996,Summer,1996,United States,Syrian Arab Republic,SYR,NA,NA,NA,NA,NA,13789560878.2435,NA,NA,NA,NA,1,0,0
+atlanta-1996,Summer,1996,United States,Thailand,THA,514,Other,Other,NA,59920058,183035237429.281,3,red,red,red,1,0,1
+atlanta-1996,Summer,1996,United States,Tonga,TON,1,Other,Christian,Oceania,100294,222100576.345483,2,red,white,red,0,1,0
+atlanta-1996,Summer,1996,United States,Trinidad and Tobago,TTO,NA,NA,NA,NA,1300937,5759537726.26601,NA,NA,NA,NA,0,0,2
+atlanta-1996,Summer,1996,United States,Tunisia,TUN,164,Arabic,Muslim,Asia,9294433,19587161806.7655,2,red,red,red,0,0,1
+atlanta-1996,Summer,1996,United States,Turkey,NA,781,Other,Muslim,NA,61951134,NA,2,red,red,red,4,1,1
+atlanta-1996,Summer,1996,United States,Uganda,UGA,236,Other,Other,Asia,21231553,6044585326.938,5,gold,black,red,0,0,1
+atlanta-1996,Summer,1996,United States,Ukraine,UKR,NA,NA,NA,NA,51226110,44558831005.0621,NA,NA,NA,NA,9,2,12
+atlanta-1996,Summer,1996,United States,United Kingdom,GBR,NA,NA,NA,NA,58298563,1419645865834.63,NA,NA,NA,NA,1,8,6
+atlanta-1996,Summer,1996,United States,United States,USA,NA,NA,NA,NA,270860696,8073122000000,NA,NA,NA,NA,44,32,25
+atlanta-1996,Summer,1996,United States,Uzbekistan,UZB,NA,NA,NA,NA,23351981,13948892215.5689,NA,NA,NA,NA,0,1,1
+atlanta-1996,Summer,1996,United States,Zambia,ZMB,753,Other,Other,Asia,9004058,3597220962.00017,4,green,green,brown,0,1,0
+nagano-1998,Winter,1998,Japan,Australia,AUS,7690,English,Christian,Oceania,18701707,399674421759.479,3,blue,white,blue,0,0,1
+nagano-1998,Winter,1998,Japan,Austria,AUT,84,German,Christian,Europe,7978465,218259904401.956,2,red,red,red,3,5,9
+nagano-1998,Winter,1998,Japan,Belarus,BLR,NA,NA,NA,NA,10080580,15221352698.8944,NA,NA,NA,NA,0,0,2
+nagano-1998,Winter,1998,Japan,Belgium,BEL,31,Other,Christian,Europe,10203186,258528339631.029,3,gold,black,red,0,0,1
+nagano-1998,Winter,1998,Japan,Bulgaria,BGR,111,Other,Other,Europe,8138192,15031055046.7575,5,red,white,red,1,0,0
+nagano-1998,Winter,1998,Japan,Canada,CAN,9976,English,Christian,N.America,30329968,634000000000,2,red,red,red,6,5,4
+nagano-1998,Winter,1998,Japan,China,CHN,9561,Chinese,Other,NA,1250847121,1029060747620.65,2,red,red,red,0,6,2
+nagano-1998,Winter,1998,Japan,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+nagano-1998,Winter,1998,Japan,Denmark,DNK,43,Other,Christian,Europe,5304264,176991934992.837,2,red,red,red,0,1,0
+nagano-1998,Winter,1998,Japan,Finland,FIN,337,Other,Christian,Europe,5153548,134038718291.055,2,white,white,white,2,4,6
+nagano-1998,Winter,1998,Japan,France,FRA,547,French,Christian,Europe,58778817,1503108739159.44,3,white,blue,red,2,1,5
+nagano-1998,Winter,1998,Japan,Germany,DEU,NA,NA,NA,NA,82011933,2238990774702.68,NA,NA,NA,NA,12,9,8
+nagano-1998,Winter,1998,Japan,Italy,ITA,301,Other,Christian,Europe,57215190,1270052525928.4,3,white,green,red,2,6,2
+nagano-1998,Winter,1998,Japan,Japan,JPN,372,Other,Other,NA,126549181,4098362709531.24,2,white,white,white,5,1,4
+nagano-1998,Winter,1998,Japan,Kazakhstan,KAZ,NA,NA,NA,NA,15647789,22135245507.3656,NA,NA,NA,NA,0,0,2
+nagano-1998,Winter,1998,Japan,Netherlands,NLD,41,Other,Christian,Europe,15827109,438008220395.468,3,red,red,blue,5,4,2
+nagano-1998,Winter,1998,Japan,Norway,NOR,324,Other,Christian,Europe,4431307,154230295158.447,3,red,red,red,10,10,5
+nagano-1998,Winter,1998,Japan,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,2
+nagano-1998,Winter,1998,Japan,Russian Federation,RUS,NA,NA,NA,NA,NA,270955486862.442,NA,NA,NA,NA,9,6,3
+nagano-1998,Winter,1998,Japan,Sweden,SWE,450,Other,Christian,Europe,8850606,270809066780.714,2,blue,blue,blue,0,2,1
+nagano-1998,Winter,1998,Japan,Switzerland,CHE,41,German,Christian,Europe,7110294,303459014346.806,2,red,red,red,2,2,3
+nagano-1998,Winter,1998,Japan,Ukraine,UKR,NA,NA,NA,NA,50379728,41882523345.1804,NA,NA,NA,NA,0,1,0
+nagano-1998,Winter,1998,Japan,United Kingdom,GBR,NA,NA,NA,NA,58626822,1653694932096.72,NA,NA,NA,NA,0,0,1
+nagano-1998,Winter,1998,Japan,United States,USA,NA,NA,NA,NA,276119323,9062817000000,NA,NA,NA,NA,6,3,4
+sydney-2000,Summer,2000,Australia,Algeria,DZA,2388,Arabic,Muslim,Asia,30903895,54790398570.3282,3,green,green,white,1,1,3
+sydney-2000,Summer,2000,Australia,Argentina,ARG,2777,Spanish,Christian,S.America,37213985,284203750000,2,blue,blue,blue,0,2,2
+sydney-2000,Summer,2000,Australia,Armenia,ARM,NA,NA,NA,NA,3125630,1911563668.85006,NA,NA,NA,NA,0,0,1
+sydney-2000,Summer,2000,Australia,Australia,AUS,7690,English,Christian,Oceania,19132473,416167815092.908,3,blue,white,blue,16,25,17
+sydney-2000,Summer,2000,Australia,Austria,AUT,84,German,Christian,Europe,8012929,197289625479.906,2,red,red,red,2,1,0
+sydney-2000,Summer,2000,Australia,Azerbaijan,AZE,NA,NA,NA,NA,8174783,5272615722.96892,NA,NA,NA,NA,2,0,1
+sydney-2000,Summer,2000,Australia,Bahamas,NA,19,English,Christian,N.America,323846,NA,3,blue,blue,blue,2,0,1
+sydney-2000,Summer,2000,Australia,Barbados,BRB,0,English,Christian,N.America,262069,3059500000,3,blue,blue,blue,0,0,1
+sydney-2000,Summer,2000,Australia,Belarus,BLR,NA,NA,NA,NA,9991311,12736780455.1539,NA,NA,NA,NA,3,3,11
+sydney-2000,Summer,2000,Australia,Belgium,BEL,31,Other,Christian,Europe,10251719,236792460312.471,3,gold,black,red,0,2,3
+sydney-2000,Summer,2000,Australia,Brazil,BRA,8512,Other,Christian,S.America,174018276,655448231983.527,4,green,green,green,0,6,6
+sydney-2000,Summer,2000,Australia,Bulgaria,BGR,111,Other,Other,Europe,8000519,13245990274.4581,5,red,white,red,5,6,2
+sydney-2000,Summer,2000,Australia,Cameroon,CMR,474,French,Christian,Asia,14912633,10566579294.5159,3,gold,green,gold,1,0,0
+sydney-2000,Summer,2000,Australia,Canada,CAN,9976,English,Christian,N.America,30891800,744773415931.587,2,red,red,red,3,3,8
+sydney-2000,Summer,2000,Australia,Chile,CHL,757,Spanish,Christian,S.America,15503637,78339750721.7352,3,red,blue,red,0,0,1
+sydney-2000,Summer,2000,Australia,China,CHN,9561,Chinese,Other,NA,1269581164,1211331651866.09,2,red,red,red,28,16,14
+sydney-2000,Summer,2000,Australia,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,4
+sydney-2000,Summer,2000,Australia,Colombia,COL,1139,Spanish,Christian,S.America,39089939,99875074951.0278,3,gold,gold,red,1,0,0
+sydney-2000,Summer,2000,Australia,Costa Rica,CRI,NA,NA,NA,NA,3937737,15013629658.6521,NA,NA,NA,NA,0,0,2
+sydney-2000,Summer,2000,Australia,Croatia,HRV,NA,NA,NA,NA,4326105,22128414548.5444,NA,NA,NA,NA,1,0,1
+sydney-2000,Summer,2000,Australia,Cuba,CUB,115,Spanish,Other,N.America,11109111,30565400000,3,blue,blue,blue,11,11,7
+sydney-2000,Summer,2000,Australia,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3
+sydney-2000,Summer,2000,Australia,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,3
+sydney-2000,Summer,2000,Australia,Denmark,DNK,43,Other,Christian,Europe,5339660,164158739097.623,2,red,red,red,2,3,1
+sydney-2000,Summer,2000,Australia,Estonia,EST,NA,NA,NA,NA,1397001,5686579747.53524,NA,NA,NA,NA,1,0,2
+sydney-2000,Summer,2000,Australia,Ethiopia,ETH,1222,Other,Christian,Asia,67411495,8242349617.8638,3,green,green,red,4,1,3
+sydney-2000,Summer,2000,Australia,Finland,FIN,337,Other,Christian,Europe,5176198,126019543413.334,2,white,white,white,2,1,1
+sydney-2000,Summer,2000,Australia,France,FRA,547,French,Christian,Europe,59483716,1365639660792.16,3,white,blue,red,13,14,11
+sydney-2000,Summer,2000,Australia,Georgia,GEO,NA,NA,NA,NA,4328363,3057475335.18846,NA,NA,NA,NA,0,0,6
+sydney-2000,Summer,2000,Australia,Germany,DEU,NA,NA,NA,NA,81797255,1947981991011.77,NA,NA,NA,NA,13,17,26
+sydney-2000,Summer,2000,Australia,Greece,GRC,132,Other,Christian,Europe,10782638,130457756628.436,2,blue,blue,blue,4,6,3
+sydney-2000,Summer,2000,Australia,Hungary,HUN,93,Other,Other,Europe,10190596,47218405892.4258,3,red,red,green,8,6,3
+sydney-2000,Summer,2000,Australia,Iceland,ISL,103,Other,Christian,Europe,281294,9025660361.75842,3,blue,blue,blue,0,0,1
+sydney-2000,Summer,2000,Australia,India,IND,3268,Other,Other,NA,1057922728,468395521654.458,4,orange,orange,green,0,0,1
+sydney-2000,Summer,2000,Australia,Indonesia,IDN,1904,Other,Muslim,Oceania,216077791,165021012077.81,2,red,red,white,1,3,2
+sydney-2000,Summer,2000,Australia,Ireland,IRL,70,English,Christian,Europe,3802590,100207610429.909,3,white,green,orange,0,1,0
+sydney-2000,Summer,2000,Australia,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1
+sydney-2000,Summer,2000,Australia,Israel,ISR,21,Other,Other,NA,6111195,136035771711.672,2,white,blue,blue,0,0,1
+sydney-2000,Summer,2000,Australia,Italy,ITA,301,Other,Christian,Europe,57272200,1146676894209.73,3,white,green,red,13,8,13
+sydney-2000,Summer,2000,Australia,Jamaica,JAM,11,English,Christian,N.America,2607828,9005064474.93003,3,green,gold,gold,0,6,3
+sydney-2000,Summer,2000,Australia,Japan,JPN,372,Other,Other,NA,127027796,4968359075956.59,2,white,white,white,5,8,5
+sydney-2000,Summer,2000,Australia,Kazakhstan,KAZ,NA,NA,NA,NA,15501107,18291990662.0356,NA,NA,NA,NA,3,4,0
+sydney-2000,Summer,2000,Australia,Kenya,KEN,583,Other,Other,Asia,30642894,12705350097.8044,4,red,black,green,2,3,2
+sydney-2000,Summer,2000,Australia,Kuwait,KWT,18,Arabic,Muslim,NA,1954713,37718743480.0751,4,green,green,red,0,0,1
+sydney-2000,Summer,2000,Australia,Kyrgyzstan,NA,NA,NA,NA,NA,5025151,NA,NA,NA,NA,NA,0,0,1
+sydney-2000,Summer,2000,Australia,Latvia,LVA,NA,NA,NA,NA,2368321,7958852838.93395,NA,NA,NA,NA,1,1,1
+sydney-2000,Summer,2000,Australia,Lithuania,LTU,NA,NA,NA,NA,3500410,11524776866.6379,NA,NA,NA,NA,2,0,3
+sydney-2000,Summer,2000,Australia,Mexico,MEX,1973,Spanish,Christian,N.America,98625554,742061329643.37,4,green,green,red,1,2,3
+sydney-2000,Summer,2000,Australia,Morocco,MAR,447,Arabic,Muslim,Asia,28423439,43017455401.8445,2,red,red,red,0,1,4
+sydney-2000,Summer,2000,Australia,Mozambique,MOZ,783,Other,Other,Asia,18129652,5930685214.61595,5,gold,green,gold,1,0,0
+sydney-2000,Summer,2000,Australia,Netherlands,NLD,41,Other,Christian,Europe,16058758,417479337444.707,3,red,red,blue,12,9,4
+sydney-2000,Summer,2000,Australia,New Zealand,NZL,NA,NA,NA,NA,3857576,52623281956.7031,NA,NA,NA,NA,1,0,3
+sydney-2000,Summer,2000,Australia,Nigeria,NGA,925,Other,Muslim,Asia,126382491,69171451627.2465,2,green,green,green,1,2,0
+sydney-2000,Summer,2000,Australia,North Macedonia,MKD,NA,NA,NA,NA,2057255,3772859034.20508,NA,NA,NA,NA,0,0,1
+sydney-2000,Summer,2000,Australia,Norway,NOR,324,Other,Christian,Europe,4490866,171457201935.968,3,red,red,red,4,3,3
+sydney-2000,Summer,2000,Australia,Poland,POL,313,Other,Other,Europe,38258076,172220451786.957,2,white,white,red,6,5,3
+sydney-2000,Summer,2000,Australia,Portugal,PRT,92,Other,Christian,Europe,10283196,118605192877.388,5,red,green,red,0,0,2
+sydney-2000,Summer,2000,Australia,Qatar,QAT,11,Arabic,Muslim,NA,644993,17759890109.8901,2,brown,white,brown,0,0,1
+sydney-2000,Summer,2000,Australia,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10,10
+sydney-2000,Summer,2000,Australia,Republic of Moldova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1
+sydney-2000,Summer,2000,Australia,Romania,ROU,237,Other,Other,Europe,22046264,37253739511.1273,7,red,blue,red,11,6,9
+sydney-2000,Summer,2000,Australia,Russian Federation,RUS,NA,NA,NA,NA,NA,259710142196.943,NA,NA,NA,NA,32,28,29
+sydney-2000,Summer,2000,Australia,Saudi Arabia,SAU,NA,NA,NA,NA,16177733,189514933333.333,NA,NA,NA,NA,0,1,1
+sydney-2000,Summer,2000,Australia,Serbia and Montenegro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+sydney-2000,Summer,2000,Australia,Slovakia,NA,NA,NA,NA,NA,5380001,NA,NA,NA,NA,NA,1,3,1
+sydney-2000,Summer,2000,Australia,Slovenia,SVN,NA,NA,NA,NA,1986818,20289627636.6767,NA,NA,NA,NA,2,0,0
+sydney-2000,Summer,2000,Australia,South Africa,ZAF,NA,NA,NA,NA,47159714,151752757215.309,NA,NA,NA,NA,0,2,3
+sydney-2000,Summer,2000,Australia,Spain,ESP,505,Spanish,Christian,Europe,41019773,598363313494.903,2,red,red,red,3,3,5
+sydney-2000,Summer,2000,Australia,Sri Lanka,LKA,NA,NA,NA,NA,19293057,16330814179.9766,NA,NA,NA,NA,0,1,0
+sydney-2000,Summer,2000,Australia,Sweden,SWE,450,Other,Christian,Europe,8872100,262835454366.855,2,blue,blue,blue,4,5,3
+sydney-2000,Summer,2000,Australia,Switzerland,CHE,41,German,Christian,Europe,7184003,279216033870.204,2,red,red,red,1,6,2
+sydney-2000,Summer,2000,Australia,Thailand,THA,514,Other,Other,NA,63007813,126392224253.794,3,red,red,red,1,0,2
+sydney-2000,Summer,2000,Australia,Trinidad and Tobago,TTO,NA,NA,NA,NA,1319781,8154338232.95978,NA,NA,NA,NA,0,1,1
+sydney-2000,Summer,2000,Australia,Turkey,NA,781,Other,Muslim,NA,65425958,NA,2,red,red,red,3,0,2
+sydney-2000,Summer,2000,Australia,Ukraine,UKR,NA,NA,NA,NA,49556655,32375083934.8241,NA,NA,NA,NA,3,10,10
+sydney-2000,Summer,2000,Australia,United Kingdom,GBR,NA,NA,NA,NA,59057336,1665534876683.31,NA,NA,NA,NA,11,10,7
+sydney-2000,Summer,2000,Australia,United States,USA,NA,NA,NA,NA,281484127,10250952000000,NA,NA,NA,NA,36,24,31
+sydney-2000,Summer,2000,Australia,Uruguay,URY,178,Spanish,Christian,S.America,3266211,22823270892.1094,3,white,white,white,0,1,0
+sydney-2000,Summer,2000,Australia,Uzbekistan,UZB,NA,NA,NA,NA,24787051,13760513969.314,NA,NA,NA,NA,1,1,2
+sydney-2000,Summer,2000,Australia,Vietnam,NA,333,Other,Other,NA,77154015,NA,2,red,red,red,0,1,0
+salt-lake-city-2002,Winter,2002,United States,Australia,AUS,7690,English,Christian,Oceania,19595357,395788696012.059,3,blue,white,blue,2,0,0
+salt-lake-city-2002,Winter,2002,United States,Austria,AUT,84,German,Christian,Europe,8081638,214394866675.24,2,red,red,red,3,4,10
+salt-lake-city-2002,Winter,2002,United States,Belarus,BLR,NA,NA,NA,NA,9873451,14594900944.7658,NA,NA,NA,NA,0,0,1
+salt-lake-city-2002,Winter,2002,United States,Bulgaria,BGR,111,Other,Other,Europe,7861949,16403043849.8297,5,red,white,red,0,1,2
+salt-lake-city-2002,Winter,2002,United States,Canada,CAN,9976,English,Christian,N.America,31535580,760649334098.005,2,red,red,red,7,3,7
+salt-lake-city-2002,Winter,2002,United States,China,CHN,9561,Chinese,Other,NA,1286866839,1470557654799.95,2,red,red,red,2,2,4
+salt-lake-city-2002,Winter,2002,United States,Croatia,HRV,NA,NA,NA,NA,4305783,26757989560.5798,NA,NA,NA,NA,3,1,0
+salt-lake-city-2002,Winter,2002,United States,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0
+salt-lake-city-2002,Winter,2002,United States,Estonia,EST,NA,NA,NA,NA,1379438,7367975887.72723,NA,NA,NA,NA,1,1,1
+salt-lake-city-2002,Winter,2002,United States,Finland,FIN,337,Other,Christian,Europe,5200549,140404460203.138,2,white,white,white,4,2,1
+salt-lake-city-2002,Winter,2002,United States,France,FRA,547,French,Christian,Europe,60327247,1501409382971.38,3,white,blue,red,4,5,2
+salt-lake-city-2002,Winter,2002,United States,Germany,DEU,NA,NA,NA,NA,82068328,2078484517474.51,NA,NA,NA,NA,12,16,8
+salt-lake-city-2002,Winter,2002,United States,Italy,ITA,301,Other,Christian,Europe,57420635,1276769338449.3,3,white,green,red,4,4,5
+salt-lake-city-2002,Winter,2002,United States,Japan,JPN,372,Other,Other,NA,127484599,4182846045873.61,2,white,white,white,0,1,1
+salt-lake-city-2002,Winter,2002,United States,Netherlands,NLD,41,Other,Christian,Europe,16288060,473861980070.981,3,red,red,blue,3,5,0
+salt-lake-city-2002,Winter,2002,United States,Norway,NOR,324,Other,Christian,Europe,4538014,195914852576.467,3,red,red,red,12,5,7
+salt-lake-city-2002,Winter,2002,United States,Poland,POL,313,Other,Other,Europe,38229406,199070448694.9,2,white,white,red,0,1,1
+salt-lake-city-2002,Winter,2002,United States,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,0
+salt-lake-city-2002,Winter,2002,United States,Russian Federation,RUS,NA,NA,NA,NA,NA,345470494417.863,NA,NA,NA,NA,5,4,4
+salt-lake-city-2002,Winter,2002,United States,Slovenia,SVN,NA,NA,NA,NA,1991573,23489890274.3142,NA,NA,NA,NA,0,0,1
+salt-lake-city-2002,Winter,2002,United States,Sweden,SWE,450,Other,Christian,Europe,8925044,266849061835.659,2,blue,blue,blue,0,2,5
+salt-lake-city-2002,Winter,2002,United States,Switzerland,CHE,41,German,Christian,Europe,7278744,309301422430.386,2,red,red,red,3,2,6
+salt-lake-city-2002,Winter,2002,United States,United Kingdom,GBR,NA,NA,NA,NA,59540763,1785729916067.15,NA,NA,NA,NA,1,0,1
+salt-lake-city-2002,Winter,2002,United States,United States,USA,NA,NA,NA,NA,287084336,10929108000000,NA,NA,NA,NA,10,13,11
+athens-2004,Summer,2004,Greece,Argentina,ARG,2777,Spanish,Christian,S.America,38815915,164657930452.787,2,blue,blue,blue,2,0,4
+athens-2004,Summer,2004,Greece,Australia,AUS,7690,English,Christian,Oceania,20046680,614659980082.515,3,blue,white,blue,17,16,17
+athens-2004,Summer,2004,Greece,Austria,AUT,84,German,Christian,Europe,8173494,301457562038.541,2,red,red,red,2,4,1
+athens-2004,Summer,2004,Greece,Azerbaijan,AZE,NA,NA,NA,NA,8489875,8680405740.94125,NA,NA,NA,NA,1,0,4
+athens-2004,Summer,2004,Greece,Bahamas,NA,19,English,Christian,N.America,339794,NA,3,blue,blue,blue,1,0,1
+athens-2004,Summer,2004,Greece,Belarus,BLR,NA,NA,NA,NA,9735090,23141566292.9462,NA,NA,NA,NA,2,5,6
+athens-2004,Summer,2004,Greece,Belgium,BEL,31,Other,Christian,Europe,10421298,369214712443.206,3,gold,black,red,1,0,2
+athens-2004,Summer,2004,Greece,Brazil,BRA,8512,Other,Christian,S.America,182675143,669289424806.307,4,green,green,green,5,2,3
+athens-2004,Summer,2004,Greece,Bulgaria,BGR,111,Other,Other,Europe,7749431,26157743368.8716,5,red,white,red,2,1,9
+athens-2004,Summer,2004,Greece,Cameroon,CMR,474,French,Christian,Asia,16610487,18826214125.2317,3,gold,green,gold,1,0,0
+athens-2004,Summer,2004,Greece,Canada,CAN,9976,English,Christian,N.America,32132680,1026690238278.25,2,red,red,red,3,6,3
+athens-2004,Summer,2004,Greece,Chile,CHL,757,Spanish,Christian,S.America,16187322,99075985773.176,3,red,blue,red,2,0,1
+athens-2004,Summer,2004,Greece,China,CHN,9561,Chinese,Other,NA,1302100319,1955346768721.39,2,red,red,red,32,17,14
+athens-2004,Summer,2004,Greece,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1
+athens-2004,Summer,2004,Greece,Colombia,COL,1139,Spanish,Christian,S.America,41543177,117092416666.245,3,gold,gold,red,0,0,2
+athens-2004,Summer,2004,Greece,Croatia,HRV,NA,NA,NA,NA,4310054,41855195584.6518,NA,NA,NA,NA,1,2,2
+athens-2004,Summer,2004,Greece,Cuba,CUB,115,Spanish,Other,N.America,11238755,38203000000,3,blue,blue,blue,9,7,11
+athens-2004,Summer,2004,Greece,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,5
+athens-2004,Summer,2004,Greece,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,1
+athens-2004,Summer,2004,Greece,Denmark,DNK,43,Other,Christian,Europe,5404594,251373002954.382,2,red,red,red,2,1,5
+athens-2004,Summer,2004,Greece,Dominican Republic,DOM,NA,NA,NA,NA,9104889,22322387382.494,NA,NA,NA,NA,1,0,0
+athens-2004,Summer,2004,Greece,Egypt,NA,1001,Arabic,Muslim,Asia,79477439,NA,4,black,red,black,1,1,3
+athens-2004,Summer,2004,Greece,Eritrea,ERI,NA,NA,NA,NA,2598288,1109054005.43971,NA,NA,NA,NA,0,0,1
+athens-2004,Summer,2004,Greece,Estonia,EST,NA,NA,NA,NA,1362682,12145911801.2422,NA,NA,NA,NA,0,1,2
+athens-2004,Summer,2004,Greece,Ethiopia,ETH,1222,Other,Christian,Asia,76077212,10131187261.4421,3,green,green,red,2,3,2
+athens-2004,Summer,2004,Greece,Finland,FIN,337,Other,Christian,Europe,5228144,197479443979.151,2,white,white,white,0,2,0
+athens-2004,Summer,2004,Greece,France,FRA,547,French,Christian,Europe,61175243,2119633181634.37,3,white,blue,red,11,9,13
+athens-2004,Summer,2004,Greece,Georgia,GEO,NA,NA,NA,NA,4056076,5125365191.98664,NA,NA,NA,NA,2,2,0
+athens-2004,Summer,2004,Greece,Germany,DEU,NA,NA,NA,NA,82092706,2814353869359.08,NA,NA,NA,NA,13,16,20
+athens-2004,Summer,2004,Greece,Greece,GRC,132,Other,Christian,Europe,10947370,240963562236.127,2,blue,blue,blue,6,6,4
+athens-2004,Summer,2004,Greece,"Hong Kong, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+athens-2004,Summer,2004,Greece,Hungary,HUN,93,Other,Other,Europe,10085789,104120820258.669,3,red,red,green,8,6,3
+athens-2004,Summer,2004,Greece,India,IND,3268,Other,Other,NA,1135991510,709152728830.775,4,orange,orange,green,0,1,0
+athens-2004,Summer,2004,Greece,Indonesia,IDN,1904,Other,Muslim,Oceania,227926647,256836875295.452,2,red,red,white,1,1,2
+athens-2004,Summer,2004,Greece,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2
+athens-2004,Summer,2004,Greece,Israel,ISR,21,Other,Other,NA,6615084,139973148371.263,2,white,blue,blue,1,0,1
+athens-2004,Summer,2004,Greece,Italy,ITA,301,Other,Christian,Europe,58176735,1806542968545.56,3,white,green,red,10,11,11
+athens-2004,Summer,2004,Greece,Jamaica,JAM,11,English,Christian,N.America,2672226,10174664853.9476,3,green,gold,gold,2,1,2
+athens-2004,Summer,2004,Greece,Japan,JPN,372,Other,Other,NA,127815770,4893116005656.56,2,white,white,white,16,9,12
+athens-2004,Summer,2004,Greece,Kazakhstan,KAZ,NA,NA,NA,NA,15850164,43151647002.6096,NA,NA,NA,NA,1,4,3
+athens-2004,Summer,2004,Greece,Kenya,KEN,583,Other,Other,Asia,34713452,16095337093.8366,4,red,black,green,1,4,2
+athens-2004,Summer,2004,Greece,Latvia,LVA,NA,NA,NA,NA,2264178,14435700533.368,NA,NA,NA,NA,0,4,0
+athens-2004,Summer,2004,Greece,Lithuania,LTU,NA,NA,NA,NA,3376703,22627507451.5648,NA,NA,NA,NA,1,2,0
+athens-2004,Summer,2004,Greece,Mexico,MEX,1973,Spanish,Christian,N.America,104394132,819459227375.022,4,green,green,red,0,3,1
+athens-2004,Summer,2004,Greece,Mongolia,MNG,1566,Other,Other,NA,2542800,1992066808.09598,3,red,red,red,0,0,1
+athens-2004,Summer,2004,Greece,Morocco,MAR,447,Arabic,Muslim,Asia,29953021,66114145451.0067,2,red,red,red,2,1,0
+athens-2004,Summer,2004,Greece,Netherlands,NLD,41,Other,Christian,Europe,16425561,658380081545.175,3,red,red,blue,4,9,9
+athens-2004,Summer,2004,Greece,New Zealand,NZL,NA,NA,NA,NA,4083911,103905210084.034,NA,NA,NA,NA,3,2,0
+athens-2004,Summer,2004,Greece,Nigeria,NGA,925,Other,Muslim,Asia,141057046,135764731645.611,2,green,green,green,0,0,2
+athens-2004,Summer,2004,Greece,Norway,NOR,324,Other,Christian,Europe,4591740,265268662473.297,3,red,red,red,5,0,1
+athens-2004,Summer,2004,Greece,Paraguay,PRY,NA,NA,NA,NA,5388181,9624440836.29309,NA,NA,NA,NA,0,1,0
+athens-2004,Summer,2004,Greece,Poland,POL,313,Other,Other,Europe,38167567,255107252158.631,2,white,white,red,3,2,5
+athens-2004,Summer,2004,Greece,Portugal,PRT,92,Other,Christian,Europe,10481384,189382122532.169,5,red,green,red,0,2,1
+athens-2004,Summer,2004,Greece,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,12,9
+athens-2004,Summer,2004,Greece,Romania,ROU,237,Other,Other,Europe,21403214,74973656851.8076,7,red,blue,red,8,5,6
+athens-2004,Summer,2004,Greece,Russian Federation,RUS,NA,NA,NA,NA,NA,591016690732.385,NA,NA,NA,NA,28,26,36
+athens-2004,Summer,2004,Greece,Serbia and Montenegro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0
+athens-2004,Summer,2004,Greece,Slovakia,NA,NA,NA,NA,NA,5376039,NA,NA,NA,NA,NA,2,2,2
+athens-2004,Summer,2004,Greece,Slovenia,SVN,NA,NA,NA,NA,1993549,34414784504.2352,NA,NA,NA,NA,0,1,3
+athens-2004,Summer,2004,Greece,South Africa,ZAF,NA,NA,NA,NA,48991420,255806908594.573,NA,NA,NA,NA,1,3,2
+athens-2004,Summer,2004,Greece,Spain,ESP,505,Spanish,Christian,Europe,43234563,1069055675273.75,2,red,red,red,3,11,6
+athens-2004,Summer,2004,Greece,Sweden,SWE,450,Other,Christian,Europe,8993806,385118044877.465,2,blue,blue,blue,4,2,1
+athens-2004,Summer,2004,Greece,Switzerland,CHE,41,German,Christian,Europe,7384196,403912891033.374,2,red,red,red,1,1,3
+athens-2004,Summer,2004,Greece,Syrian Arab Republic,SYR,NA,NA,NA,NA,NA,25086950495.0495,NA,NA,NA,NA,0,0,1
+athens-2004,Summer,2004,Greece,Thailand,THA,514,Other,Other,NA,65452051,172895685154.658,3,red,red,red,3,1,4
+athens-2004,Summer,2004,Greece,Trinidad and Tobago,TTO,NA,NA,NA,NA,1345386,13280275123.0354,NA,NA,NA,NA,0,0,1
+athens-2004,Summer,2004,Greece,Turkey,NA,781,Other,Muslim,NA,68592621,NA,2,red,red,red,3,3,4
+athens-2004,Summer,2004,Greece,Ukraine,UKR,NA,NA,NA,NA,47979502,67220154164.3166,NA,NA,NA,NA,8,5,9
+athens-2004,Summer,2004,Greece,United Arab Emirates,ARE,NA,NA,NA,NA,4428966,147824370319.946,NA,NA,NA,NA,1,0,0
+athens-2004,Summer,2004,Greece,United Kingdom,GBR,NA,NA,NA,NA,60169964,2421525082387.4,NA,NA,NA,NA,9,9,12
+athens-2004,Summer,2004,Greece,United States,USA,NA,NA,NA,NA,292786247,12217196000000,NA,NA,NA,NA,36,39,26
+athens-2004,Summer,2004,Greece,Uzbekistan,UZB,NA,NA,NA,NA,26029350,12030023547.8807,NA,NA,NA,NA,2,1,2
+athens-2004,Summer,2004,Greece,Venezuela,NA,912,Spanish,Christian,S.America,26340843,NA,7,red,gold,red,0,0,2
+athens-2004,Summer,2004,Greece,Zimbabwe,ZWE,391,Other,Other,Asia,12365901,5805598400,5,green,green,green,1,1,1
+turin-2006,Winter,2006,Italy,Australia,AUS,7690,English,Christian,Oceania,20590565,748417562769.636,3,blue,white,blue,1,0,1
+turin-2006,Winter,2006,Italy,Austria,AUT,84,German,Christian,Europe,8269902,336280064332.411,2,red,red,red,9,7,7
+turin-2006,Winter,2006,Italy,Belarus,BLR,NA,NA,NA,NA,9608041,36961894281.3444,NA,NA,NA,NA,0,1,0
+turin-2006,Winter,2006,Italy,Bulgaria,BGR,111,Other,Other,Europe,7640290,34380536495.6739,5,red,white,red,0,1,0
+turin-2006,Winter,2006,Italy,Canada,CAN,9976,English,Christian,N.America,32759174,1319264809590.97,2,red,red,red,7,10,7
+turin-2006,Winter,2006,Italy,China,CHN,9561,Chinese,Other,NA,1318054037,2752118657184.02,2,red,red,red,2,4,5
+turin-2006,Winter,2006,Italy,Croatia,HRV,NA,NA,NA,NA,4315802,49601653625.1683,NA,NA,NA,NA,1,2,0
+turin-2006,Winter,2006,Italy,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1
+turin-2006,Winter,2006,Italy,Estonia,EST,NA,NA,NA,NA,1346884,17022870405.2189,NA,NA,NA,NA,3,0,0
+turin-2006,Winter,2006,Italy,Finland,FIN,337,Other,Christian,Europe,5266247,217089269791.764,2,white,white,white,0,6,3
+turin-2006,Winter,2006,Italy,France,FRA,547,French,Christian,Europe,62049831,2320536221304.7,3,white,blue,red,3,2,4
+turin-2006,Winter,2006,Italy,Germany,DEU,NA,NA,NA,NA,81701971,2994703642023.53,NA,NA,NA,NA,11,12,6
+turin-2006,Winter,2006,Italy,Italy,ITA,301,Other,Christian,Europe,58754433,1949551719389.64,3,white,green,red,5,0,6
+turin-2006,Winter,2006,Italy,Japan,JPN,372,Other,Other,NA,127997248,4601663122649.92,2,white,white,white,1,0,0
+turin-2006,Winter,2006,Italy,Latvia,LVA,NA,NA,NA,NA,2219038,21570076498.6205,NA,NA,NA,NA,0,0,1
+turin-2006,Winter,2006,Italy,Netherlands,NLD,41,Other,Christian,Europe,16493851,733955269898.823,3,red,red,blue,3,2,4
+turin-2006,Winter,2006,Italy,Norway,NOR,324,Other,Christian,Europe,4660485,346915160681.708,3,red,red,red,2,8,9
+turin-2006,Winter,2006,Italy,Poland,POL,313,Other,Other,Europe,38071170,344626667414.292,2,white,white,red,0,1,1
+turin-2006,Winter,2006,Italy,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3,2
+turin-2006,Winter,2006,Italy,Russian Federation,RUS,NA,NA,NA,NA,NA,989932071352.543,NA,NA,NA,NA,8,6,8
+turin-2006,Winter,2006,Italy,Slovakia,NA,NA,NA,NA,NA,5376847,NA,NA,NA,NA,NA,0,1,0
+turin-2006,Winter,2006,Italy,Sweden,SWE,450,Other,Christian,Europe,9080626,423093437423.762,2,blue,blue,blue,7,2,5
+turin-2006,Winter,2006,Italy,Switzerland,CHE,41,German,Christian,Europe,7478514,441634672196.523,2,red,red,red,5,4,5
+turin-2006,Winter,2006,Italy,Ukraine,UKR,NA,NA,NA,NA,47278690,111884752475.248,NA,NA,NA,NA,0,0,2
+turin-2006,Winter,2006,Italy,United Kingdom,GBR,NA,NA,NA,NA,61051093,2708441582336.71,NA,NA,NA,NA,0,1,0
+turin-2006,Winter,2006,Italy,United States,USA,NA,NA,NA,NA,298730210,13815583000000,NA,NA,NA,NA,9,9,7
+beijing-2008,Summer,2008,China,Afghanistan,AFG,648,Other,Muslim,NA,26482629,10109297047.5432,5,green,black,green,0,0,1
+beijing-2008,Summer,2008,China,Algeria,DZA,2388,Arabic,Muslim,Asia,34816962,180383848331.135,3,green,green,white,0,1,1
+beijing-2008,Summer,2008,China,Argentina,ARG,2777,Spanish,Christian,S.America,40424149,361558037110.419,2,blue,blue,blue,2,0,4
+beijing-2008,Summer,2008,China,Armenia,ARM,NA,NA,NA,NA,2959996,11662040713.8753,NA,NA,NA,NA,0,1,4
+beijing-2008,Summer,2008,China,Australia,AUS,7690,English,Christian,Oceania,21370595,1056112427190.38,3,blue,white,blue,14,15,17
+beijing-2008,Summer,2008,China,Austria,AUT,84,German,Christian,Europe,8323250,432051935642.945,2,red,red,red,0,1,2
+beijing-2008,Summer,2008,China,Azerbaijan,AZE,NA,NA,NA,NA,8942637,48851293785.4483,NA,NA,NA,NA,1,1,4
+beijing-2008,Summer,2008,China,Bahamas,NA,19,English,Christian,N.America,358133,NA,3,blue,blue,blue,0,1,1
+beijing-2008,Summer,2008,China,Belarus,BLR,NA,NA,NA,NA,9529357,60752106347.126,NA,NA,NA,NA,3,4,7
+beijing-2008,Summer,2008,China,Belgium,BEL,31,Other,Christian,Europe,10709710,517328087920.078,3,gold,black,red,2,0,0
+beijing-2008,Summer,2008,China,Brazil,BRA,8512,Other,Christian,S.America,190367297,1695855083552.05,4,green,green,green,3,4,10
+beijing-2008,Summer,2008,China,Bulgaria,BGR,111,Other,Other,Europe,7535590,54480684188.4442,5,red,white,red,1,1,3
+beijing-2008,Summer,2008,China,Cameroon,CMR,474,French,Christian,Asia,18574054,27715142006.0181,3,gold,green,gold,1,0,0
+beijing-2008,Summer,2008,China,Canada,CAN,9976,English,Christian,N.America,33449089,1552989690721.65,2,red,red,red,3,9,8
+beijing-2008,Summer,2008,China,Chile,CHL,757,Spanish,Christian,S.America,16838987,179894594475.98,3,red,blue,red,0,1,0
+beijing-2008,Summer,2008,China,China,CHN,9561,Chinese,Other,NA,1333821009,4594336785737.67,2,red,red,red,48,22,30
+beijing-2008,Summer,2008,China,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+beijing-2008,Summer,2008,China,Colombia,COL,1139,Spanish,Christian,S.America,43758804,242504150472.931,3,gold,gold,red,0,2,1
+beijing-2008,Summer,2008,China,Croatia,HRV,NA,NA,NA,NA,4314634,68526332324.3644,NA,NA,NA,NA,0,2,3
+beijing-2008,Summer,2008,China,Cuba,CUB,115,Spanish,Other,N.America,11291764,56302129629.6296,3,blue,blue,blue,3,10,17
+beijing-2008,Summer,2008,China,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,1
+beijing-2008,Summer,2008,China,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2
+beijing-2008,Summer,2008,China,Denmark,DNK,43,Other,Christian,Europe,5493766,353361038818.383,2,red,red,red,2,2,3
+beijing-2008,Summer,2008,China,Dominican Republic,DOM,NA,NA,NA,NA,9573136,48122601530.3324,NA,NA,NA,NA,1,1,0
+beijing-2008,Summer,2008,China,Ecuador,ECU,284,Spanish,Christian,S.America,14575202,61139438000,3,gold,gold,red,0,1,0
+beijing-2008,Summer,2008,China,Egypt,NA,1001,Arabic,Muslim,Asia,85864791,NA,4,black,red,black,0,0,2
+beijing-2008,Summer,2008,China,Estonia,EST,NA,NA,NA,NA,1337078,24341678628.9732,NA,NA,NA,NA,1,1,0
+beijing-2008,Summer,2008,China,Ethiopia,ETH,1222,Other,Christian,Asia,85543671,27066912635.2228,3,green,green,red,4,2,1
+beijing-2008,Summer,2008,China,Finland,FIN,337,Other,Christian,Europe,5313381,285716311136.719,2,white,white,white,1,1,2
+beijing-2008,Summer,2008,China,France,FRA,547,French,Christian,Europe,62780187,2930303780828.12,3,white,blue,red,7,16,20
+beijing-2008,Summer,2008,China,Georgia,GEO,NA,NA,NA,NA,3941193,12795145130.9103,NA,NA,NA,NA,3,2,2
+beijing-2008,Summer,2008,China,Germany,DEU,NA,NA,NA,NA,81110781,3745264093617.19,NA,NA,NA,NA,16,11,14
+beijing-2008,Summer,2008,China,Greece,GRC,132,Other,Christian,Europe,11076873,355908689477.445,2,blue,blue,blue,0,2,1
+beijing-2008,Summer,2008,China,Hungary,HUN,93,Other,Other,Europe,10016655,158325614580.628,3,red,red,green,3,5,2
+beijing-2008,Summer,2008,China,Iceland,ISL,103,Other,Christian,Europe,317519,18074622987.0185,3,blue,blue,blue,0,1,0
+beijing-2008,Summer,2008,China,India,IND,3268,Other,Other,NA,1207930962,1198895139005.92,4,orange,orange,green,1,0,2
+beijing-2008,Summer,2008,China,Indonesia,IDN,1904,Other,Muslim,Oceania,240157901,510228634990.598,2,red,red,white,1,1,4
+beijing-2008,Summer,2008,China,Ireland,IRL,70,English,Christian,Europe,4485992,275447471451.063,3,white,green,orange,0,1,2
+beijing-2008,Summer,2008,China,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1
+beijing-2008,Summer,2008,China,Israel,ISR,21,Other,Other,NA,7082621,220531065217.391,2,white,blue,blue,0,0,1
+beijing-2008,Summer,2008,China,Italy,ITA,301,Other,Christian,Europe,59561686,2408655348718.59,3,white,green,red,8,9,10
+beijing-2008,Summer,2008,China,Jamaica,JAM,11,English,Christian,N.America,2725632,13709401520.0326,3,green,gold,gold,5,3,1
+beijing-2008,Summer,2008,China,Japan,JPN,372,Other,Other,NA,128155991,5106679115127.3,2,white,white,white,9,8,8
+beijing-2008,Summer,2008,China,Kazakhstan,KAZ,NA,NA,NA,NA,16426527,133441648851.982,NA,NA,NA,NA,2,3,4
+beijing-2008,Summer,2008,China,Kenya,KEN,583,Other,Other,Asia,39206349,35895153327.8497,4,red,black,green,6,4,6
+beijing-2008,Summer,2008,China,Kyrgyzstan,NA,NA,NA,NA,NA,5342531,NA,NA,NA,NA,NA,0,1,2
+beijing-2008,Summer,2008,China,Latvia,LVA,NA,NA,NA,NA,2177711,35854274228.9139,NA,NA,NA,NA,1,1,1
+beijing-2008,Summer,2008,China,Lithuania,LTU,NA,NA,NA,NA,3198483,47797551587.8823,NA,NA,NA,NA,0,3,2
+beijing-2008,Summer,2008,China,Malaysia,MYS,333,Other,Muslim,NA,27570054,230811614370.384,4,red,blue,white,0,1,0
+beijing-2008,Summer,2008,China,Mauritius,MUS,2,English,Other,Asia,1274634,9990356673.73497,4,red,red,green,0,0,1
+beijing-2008,Summer,2008,China,Mexico,MEX,1973,Spanish,Christian,N.America,110374285,1161553459715.1,4,green,green,red,2,0,2
+beijing-2008,Summer,2008,China,Mongolia,MNG,1566,Other,Other,NA,2634431,5623216608.04288,3,red,red,red,2,2,0
+beijing-2008,Summer,2008,China,Morocco,MAR,447,Arabic,Muslim,Asia,31606768,101822906949.063,2,red,red,red,0,1,1
+beijing-2008,Summer,2008,China,Netherlands,NLD,41,Other,Christian,Europe,16597257,951869997864.062,3,red,red,blue,7,5,4
+beijing-2008,Summer,2008,China,New Zealand,NZL,NA,NA,NA,NA,4261819,133131369930.414,NA,NA,NA,NA,3,2,4
+beijing-2008,Summer,2008,China,Nigeria,NGA,925,Other,Muslim,Asia,157595017,339476276257.793,2,green,green,green,0,2,3
+beijing-2008,Summer,2008,China,Norway,NOR,324,Other,Christian,Europe,4768099,464917553191.489,3,red,red,red,3,5,1
+beijing-2008,Summer,2008,China,Panama,PAN,76,Spanish,Christian,S.America,3500643,25155888600,3,red,white,white,1,0,0
+beijing-2008,Summer,2008,China,Poland,POL,313,Other,Other,Europe,37995902,533599779515.715,2,white,white,red,4,5,2
+beijing-2008,Summer,2008,China,Portugal,PRT,92,Other,Christian,Europe,10564085,263416394624.084,5,red,green,red,1,1,0
+beijing-2008,Summer,2008,China,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,11,8
+beijing-2008,Summer,2008,China,Republic of Moldova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+beijing-2008,Summer,2008,China,Romania,ROU,237,Other,Other,Europe,20718744,214317202478.266,7,red,blue,red,4,1,4
+beijing-2008,Summer,2008,China,Russian Federation,RUS,NA,NA,NA,NA,NA,1660848058303.11,NA,NA,NA,NA,24,13,23
+beijing-2008,Summer,2008,China,Samoa,WSM,NA,NA,NA,NA,190118,641346191.664776,NA,NA,NA,NA,0,1,0
+beijing-2008,Summer,2008,China,Serbia,SRB,NA,NA,NA,NA,7454285,52194221468.5007,NA,NA,NA,NA,0,1,2
+beijing-2008,Summer,2008,China,Singapore,SGP,1,Chinese,Other,NA,4806742,193617323539.203,2,white,red,white,0,1,0
+beijing-2008,Summer,2008,China,Slovakia,NA,NA,NA,NA,NA,5379125,NA,NA,NA,NA,NA,3,3,0
+beijing-2008,Summer,2008,China,Slovenia,SVN,NA,NA,NA,NA,2025090,55779427739.6609,NA,NA,NA,NA,1,2,2
+beijing-2008,Summer,2008,China,South Africa,ZAF,NA,NA,NA,NA,51114595,316131258616.309,NA,NA,NA,NA,0,1,0
+beijing-2008,Summer,2008,China,Spain,ESP,505,Spanish,Christian,Europe,46235055,1631863493552.34,2,red,red,red,5,11,3
+beijing-2008,Summer,2008,China,Sudan,SDN,2506,Arabic,Muslim,Asia,33623981,64833083257.1431,4,red,red,black,0,1,0
+beijing-2008,Summer,2008,China,Sweden,SWE,450,Other,Christian,Europe,9219903,517706149201.196,2,blue,blue,blue,0,4,1
+beijing-2008,Summer,2008,China,Switzerland,CHE,41,German,Christian,Europe,7641729,567267767519.158,2,red,red,red,2,1,4
+beijing-2008,Summer,2008,China,Tajikistan,TJK,NA,NA,NA,NA,7338403,5161299725.27673,NA,NA,NA,NA,0,1,1
+beijing-2008,Summer,2008,China,Thailand,THA,514,Other,Other,NA,67619834,291382982430.951,3,red,red,red,2,2,2
+beijing-2008,Summer,2008,China,Togo,TGO,57,French,Other,Asia,6368821,4578849658.06066,4,green,red,green,0,0,1
+beijing-2008,Summer,2008,China,Trinidad and Tobago,TTO,NA,NA,NA,NA,1372090,27871587349.5413,NA,NA,NA,NA,1,1,0
+beijing-2008,Summer,2008,China,Tunisia,TUN,164,Arabic,Muslim,Asia,10542637,44859439902.2191,2,red,red,red,1,0,0
+beijing-2008,Summer,2008,China,Turkey,NA,781,Other,Muslim,NA,71562344,NA,2,red,red,red,1,1,3
+beijing-2008,Summer,2008,China,Ukraine,UKR,NA,NA,NA,NA,46819168,188110390659.515,NA,NA,NA,NA,7,4,11
+beijing-2008,Summer,2008,China,United Kingdom,GBR,NA,NA,NA,NA,62027303,2929411764705.88,NA,NA,NA,NA,19,13,19
+beijing-2008,Summer,2008,China,United States,USA,NA,NA,NA,NA,304970328,14769862000000,NA,NA,NA,NA,36,39,37
+beijing-2008,Summer,2008,China,Uzbekistan,UZB,NA,NA,NA,NA,27494779,29549438883.8338,NA,NA,NA,NA,0,1,3
+beijing-2008,Summer,2008,China,Venezuela,NA,912,Spanish,Christian,S.America,28053694,NA,7,red,gold,red,0,0,1
+beijing-2008,Summer,2008,China,Vietnam,NA,333,Other,Other,NA,85175789,NA,2,red,red,red,0,1,0
+beijing-2008,Summer,2008,China,Zimbabwe,ZWE,391,Other,Other,Asia,12959154,4415702800,5,green,green,green,1,3,0
+vancouver-2010,Winter,2010,Canada,Australia,AUS,7690,English,Christian,Oceania,22141583,1148890200292.42,3,blue,white,blue,2,1,0
+vancouver-2010,Winter,2010,Canada,Austria,AUT,84,German,Christian,Europe,8365087,392275107258.667,2,red,red,red,4,6,6
+vancouver-2010,Winter,2010,Canada,Belarus,BLR,NA,NA,NA,NA,9490752,57231904542.8755,NA,NA,NA,NA,1,1,1
+vancouver-2010,Winter,2010,Canada,Canada,CAN,9976,English,Christian,N.America,34196901,1617343367486.26,2,red,red,red,14,7,5
+vancouver-2010,Winter,2010,Canada,China,CHN,9561,Chinese,Other,NA,1351561511,6087191746679.49,2,red,red,red,5,2,4
+vancouver-2010,Winter,2010,Canada,Croatia,HRV,NA,NA,NA,NA,4301152,58836405998.5311,NA,NA,NA,NA,0,2,1
+vancouver-2010,Winter,2010,Canada,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,4
+vancouver-2010,Winter,2010,Canada,Estonia,EST,NA,NA,NA,NA,1331450,19523477325.6235,NA,NA,NA,NA,0,1,0
+vancouver-2010,Winter,2010,Canada,Finland,FIN,337,Other,Christian,Europe,5363347,249424310816.667,2,white,white,white,0,1,4
+vancouver-2010,Winter,2010,Canada,France,FRA,547,French,Christian,Europe,63417366,2645187882116.67,3,white,blue,red,2,3,6
+vancouver-2010,Winter,2010,Canada,Germany,DEU,NA,NA,NA,NA,80830917,3399667820000.01,NA,NA,NA,NA,10,13,7
+vancouver-2010,Winter,2010,Canada,Italy,ITA,301,Other,Christian,Europe,60164212,2136099955236.67,3,white,green,red,1,1,3
+vancouver-2010,Winter,2010,Canada,Japan,JPN,372,Other,Other,NA,128185273,5759071769013.11,2,white,white,white,0,3,2
+vancouver-2010,Winter,2010,Canada,Kazakhstan,KAZ,NA,NA,NA,NA,16836809,148047348240.643,NA,NA,NA,NA,0,1,0
+vancouver-2010,Winter,2010,Canada,Latvia,LVA,NA,NA,NA,NA,2097834,23956163076.5575,NA,NA,NA,NA,0,2,0
+vancouver-2010,Winter,2010,Canada,Netherlands,NLD,41,Other,Christian,Europe,16771232,847380859016.668,3,red,red,blue,4,1,3
+vancouver-2010,Winter,2010,Canada,Norway,NOR,324,Other,Christian,Europe,4889160,431052143940.438,3,red,red,red,9,8,6
+vancouver-2010,Winter,2010,Canada,Poland,POL,313,Other,Other,Europe,38095356,475696613935.595,2,white,white,red,1,3,2
+vancouver-2010,Winter,2010,Canada,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,2
+vancouver-2010,Winter,2010,Canada,Russian Federation,RUS,NA,NA,NA,NA,NA,1524916715223.95,NA,NA,NA,NA,3,5,7
+vancouver-2010,Winter,2010,Canada,Slovakia,NA,NA,NA,NA,NA,5391857,NA,NA,NA,NA,NA,1,1,1
+vancouver-2010,Winter,2010,Canada,Slovenia,SVN,NA,NA,NA,NA,2044612,48208240226.4501,NA,NA,NA,NA,0,2,1
+vancouver-2010,Winter,2010,Canada,Sweden,SWE,450,Other,Christian,Europe,9378234,495812558843.31,2,blue,blue,blue,5,2,4
+vancouver-2010,Winter,2010,Canada,Switzerland,CHE,41,German,Christian,Europe,7825751,598851028906.58,2,red,red,red,6,0,3
+vancouver-2010,Winter,2010,Canada,United Kingdom,GBR,NA,NA,NA,NA,63006484,2485482596184.71,NA,NA,NA,NA,1,0,0
+vancouver-2010,Winter,2010,Canada,United States,USA,NA,NA,NA,NA,311062786,15048971000000,NA,NA,NA,NA,9,15,13
+london-2012,Summer,2012,Great Britain,Afghanistan,AFG,648,Other,Muslim,NA,30560036,19907329777.5872,5,green,black,green,0,0,1
+london-2012,Summer,2012,Great Britain,Algeria,DZA,2388,Arabic,Muslim,Asia,37646164,227143746075.934,3,green,green,white,1,0,0
+london-2012,Summer,2012,Great Britain,Argentina,ARG,2777,Spanish,Christian,S.America,42161718,545982375701.128,2,blue,blue,blue,1,1,2
+london-2012,Summer,2012,Great Britain,Armenia,ARM,NA,NA,NA,NA,2922528,10619320682.9474,NA,NA,NA,NA,0,1,1
+london-2012,Summer,2012,Great Britain,Australia,AUS,7690,English,Christian,Oceania,22852649,1547649835732.89,3,blue,white,blue,8,15,12
+london-2012,Summer,2012,Great Britain,Azerbaijan,AZE,NA,NA,NA,NA,9376181,69679944504.1972,NA,NA,NA,NA,2,2,6
+london-2012,Summer,2012,Great Britain,Bahamas,NA,19,English,Christian,N.America,375474,NA,3,blue,blue,blue,1,0,0
+london-2012,Summer,2012,Great Britain,Bahrain,BHR,1,Arabic,Muslim,NA,1216308,30749308510.6383,2,red,white,red,1,0,0
+london-2012,Summer,2012,Great Britain,Belarus,BLR,NA,NA,NA,NA,9463075,65685890438.8922,NA,NA,NA,NA,2,5,3
+london-2012,Summer,2012,Great Britain,Belgium,BEL,31,Other,Christian,Europe,11107524,496152879924.727,3,gold,black,red,0,1,2
+london-2012,Summer,2012,Great Britain,Botswana,BWA,600,Other,Other,Asia,2108614,13907464500.1489,3,blue,blue,blue,0,1,0
+london-2012,Summer,2012,Great Britain,Brazil,BRA,8512,Other,Christian,S.America,196876114,2465227803011.57,4,green,green,green,3,5,9
+london-2012,Summer,2012,Great Britain,Bulgaria,BGR,111,Other,Other,Europe,7317021,54288135058.7926,5,red,white,red,0,2,1
+london-2012,Summer,2012,Great Britain,Cameroon,CMR,474,French,Christian,Asia,20809531,30155062302.4497,3,gold,green,gold,0,0,1
+london-2012,Summer,2012,Great Britain,Canada,CAN,9976,English,Christian,N.America,34922512,1828366481521.6,2,red,red,red,2,6,10
+london-2012,Summer,2012,Great Britain,China,CHN,9561,Chinese,Other,NA,1369520865,8532185381680.59,2,red,red,red,38,31,22
+london-2012,Summer,2012,Great Britain,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1
+london-2012,Summer,2012,Great Britain,Colombia,COL,1139,Spanish,Christian,S.America,45715807,370691143018.039,3,gold,gold,red,1,3,5
+london-2012,Summer,2012,Great Britain,Croatia,HRV,NA,NA,NA,NA,4259234,57411354937.6808,NA,NA,NA,NA,3,1,2
+london-2012,Summer,2012,Great Britain,Cuba,CUB,115,Spanish,Other,N.America,11303173,73141000000,3,blue,blue,blue,5,3,7
+london-2012,Summer,2012,Great Britain,Cyprus,CYP,9,Other,Christian,Europe,1165402,25047433100.1301,3,white,white,white,0,1,0
+london-2012,Summer,2012,Great Britain,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4
+london-2012,Summer,2012,Great Britain,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,3
+london-2012,Summer,2012,Great Britain,Denmark,DNK,43,Other,Christian,Europe,5591912,327148943812.137,2,red,red,red,2,4,3
+london-2012,Summer,2012,Great Britain,Dominican Republic,DOM,NA,NA,NA,NA,10070410,60681535652.5373,NA,NA,NA,NA,1,1,0
+london-2012,Summer,2012,Great Britain,Egypt,NA,1001,Arabic,Muslim,Asia,93161001,NA,4,black,red,black,0,3,1
+london-2012,Summer,2012,Great Britain,Estonia,EST,NA,NA,NA,NA,1322616,23019150071.1867,NA,NA,NA,NA,0,1,1
+london-2012,Summer,2012,Great Britain,Ethiopia,ETH,1222,Other,Christian,Asia,95798770,43310721414.0829,3,green,green,red,3,2,2
+london-2012,Summer,2012,Great Britain,Finland,FIN,337,Other,Christian,Europe,5413978,258290060227.734,2,white,white,white,0,2,1
+london-2012,Summer,2012,Great Britain,France,FRA,547,French,Christian,Europe,64058465,2683671716967.19,3,white,blue,red,11,11,13
+london-2012,Summer,2012,Great Britain,Gabon,GAB,268,Other,Other,Asia,1846893,17170464016.0593,3,green,green,blue,0,1,0
+london-2012,Summer,2012,Great Britain,Georgia,GEO,NA,NA,NA,NA,3839208,16894392033.2256,NA,NA,NA,NA,1,2,3
+london-2012,Summer,2012,Great Britain,Germany,DEU,NA,NA,NA,NA,80916393,3527143188785.16,NA,NA,NA,NA,11,20,13
+london-2012,Summer,2012,Great Britain,Greece,GRC,132,Other,Christian,Europe,11048294,242029307133.408,2,blue,blue,blue,0,0,2
+london-2012,Summer,2012,Great Britain,Grenada,GRD,0,English,Christian,N.America,112791,799881481.481481,3,gold,red,red,1,0,0
+london-2012,Summer,2012,Great Britain,Guatemala,GTM,109,Spanish,Christian,N.America,15089639,49593929487.1263,2,blue,blue,blue,0,1,0
+london-2012,Summer,2012,Great Britain,"Hong Kong, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+london-2012,Summer,2012,Great Britain,Hungary,HUN,93,Other,Other,Europe,9916620,128814279315.132,3,red,red,green,8,4,6
+london-2012,Summer,2012,Great Britain,India,IND,3268,Other,Other,NA,1278674506,1827637590410.95,4,orange,orange,green,0,2,4
+london-2012,Summer,2012,Great Britain,Indonesia,IDN,1904,Other,Muslim,Oceania,252698526,917869913332.649,2,red,red,white,0,2,1
+london-2012,Summer,2012,Great Britain,Ireland,IRL,70,English,Christian,Europe,4600137,225118718207.156,3,white,green,orange,1,1,4
+london-2012,Summer,2012,Great Britain,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,1
+london-2012,Summer,2012,Great Britain,Italy,ITA,301,Other,Christian,Europe,60531522,2086957656821.6,3,white,green,red,8,9,11
+london-2012,Summer,2012,Great Britain,Jamaica,JAM,11,English,Christian,N.America,2772431,14807086555.5283,3,green,gold,gold,4,5,3
+london-2012,Summer,2012,Great Britain,Japan,JPN,372,Other,Other,NA,127928283,6272362996105.03,2,white,white,white,7,14,17
+london-2012,Summer,2012,Great Britain,Kazakhstan,KAZ,NA,NA,NA,NA,17306114,207998568865.789,NA,NA,NA,NA,3,2,6
+london-2012,Summer,2012,Great Britain,Kenya,KEN,583,Other,Other,Asia,43888306,56396704671.5777,4,red,black,green,2,4,6
+london-2012,Summer,2012,Great Britain,Kuwait,KWT,18,Arabic,Muslim,NA,3337025,174047695598.686,4,green,green,red,0,0,1
+london-2012,Summer,2012,Great Britain,Latvia,LVA,NA,NA,NA,NA,2034639,28169902669.3784,NA,NA,NA,NA,1,0,1
+london-2012,Summer,2012,Great Britain,Lithuania,LTU,NA,NA,NA,NA,2988334,42927454291.478,NA,NA,NA,NA,2,0,3
+london-2012,Summer,2012,Great Britain,Malaysia,MYS,333,Other,Muslim,NA,29662835,314443047642.111,4,red,blue,white,0,1,1
+london-2012,Summer,2012,Great Britain,Mexico,MEX,1973,Spanish,Christian,N.America,116818209,1255110424817.79,4,green,green,red,1,3,4
+london-2012,Summer,2012,Great Britain,Mongolia,MNG,1566,Other,Other,NA,2795463,12292770631.565,3,red,red,red,0,2,3
+london-2012,Summer,2012,Great Britain,Montenegro,MNE,NA,NA,NA,NA,633549,4087526241.81268,NA,NA,NA,NA,0,1,0
+london-2012,Summer,2012,Great Britain,Morocco,MAR,447,Arabic,Muslim,Asia,33355247,106937392311.129,2,red,red,red,0,0,1
+london-2012,Summer,2012,Great Britain,Netherlands,NLD,41,Other,Christian,Europe,16915191,838923319919.531,3,red,red,blue,6,6,8
+london-2012,Summer,2012,Great Britain,New Zealand,NZL,NA,NA,NA,NA,4411682,176210710655.208,NA,NA,NA,NA,6,2,5
+london-2012,Summer,2012,Great Britain,Norway,NOR,324,Other,Christian,Europe,5018456,512777309840.997,3,red,red,red,2,1,1
+london-2012,Summer,2012,Great Britain,Poland,POL,313,Other,Other,Europe,38247868,495230523665.901,2,white,white,red,3,1,7
+london-2012,Summer,2012,Great Britain,Portugal,PRT,92,Other,Christian,Europe,10513154,216224240577.957,5,red,green,red,0,1,0
+london-2012,Summer,2012,Great Britain,Puerto Rico,PRI,NA,NA,NA,NA,3646422,101564800000,NA,NA,NA,NA,0,1,1
+london-2012,Summer,2012,Great Britain,Qatar,QAT,11,Arabic,Muslim,NA,1907121,186833502362.637,2,brown,white,brown,0,1,1
+london-2012,Summer,2012,Great Britain,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,9,8
+london-2012,Summer,2012,Great Britain,Romania,ROU,237,Other,Other,Europe,20158452,179132893143.417,7,red,blue,red,2,4,1
+london-2012,Summer,2012,Great Britain,Russian Federation,RUS,NA,NA,NA,NA,NA,2208293553878.42,NA,NA,NA,NA,20,20,27
+london-2012,Summer,2012,Great Britain,Saudi Arabia,SAU,NA,NA,NA,NA,27062447,741849866666.667,NA,NA,NA,NA,0,0,1
+london-2012,Summer,2012,Great Britain,Serbia,SRB,NA,NA,NA,NA,7324624,43309252921.0567,NA,NA,NA,NA,1,1,2
+london-2012,Summer,2012,Great Britain,Singapore,SGP,1,Chinese,Other,NA,5293344,295092888076.589,2,white,red,white,0,0,2
+london-2012,Summer,2012,Great Britain,Slovakia,NA,NA,NA,NA,NA,5404877,NA,NA,NA,NA,NA,0,1,3
+london-2012,Summer,2012,Great Britain,Slovenia,SVN,NA,NA,NA,NA,2053321,46577793184.0031,NA,NA,NA,NA,1,1,2
+london-2012,Summer,2012,Great Britain,South Africa,ZAF,NA,NA,NA,NA,53782569,434400545085.811,NA,NA,NA,NA,4,1,1
+london-2012,Summer,2012,Great Britain,Spain,ESP,505,Spanish,Christian,Europe,47018321,1324750738725,2,red,red,red,4,10,6
+london-2012,Summer,2012,Great Britain,Sweden,SWE,450,Other,Christian,Europe,9519479,552483727282.802,2,blue,blue,blue,1,4,3
+london-2012,Summer,2012,Great Britain,Switzerland,CHE,41,German,Christian,Europe,7998927,686420221557.99,2,red,red,red,2,2,0
+london-2012,Summer,2012,Great Britain,Tajikistan,TJK,NA,NA,NA,NA,8014087,7633036903.07634,NA,NA,NA,NA,0,0,1
+london-2012,Summer,2012,Great Britain,Thailand,THA,514,Other,Other,NA,69436091,397558325278.579,3,red,red,red,0,2,2
+london-2012,Summer,2012,Great Britain,Trinidad and Tobago,TTO,NA,NA,NA,NA,1403815,27334581560.2837,NA,NA,NA,NA,1,1,2
+london-2012,Summer,2012,Great Britain,Tunisia,TUN,164,Arabic,Muslim,Asia,11009650,47311401812.6733,2,red,red,red,2,0,1
+london-2012,Summer,2012,Great Britain,Turkey,NA,781,Other,Muslim,NA,75197195,NA,2,red,red,red,1,1,1
+london-2012,Summer,2012,Great Britain,Uganda,UGA,236,Other,Other,Asia,34337433,27305915910.7877,5,gold,black,red,1,0,0
+london-2012,Summer,2012,Great Britain,Ukraine,UKR,NA,NA,NA,NA,46210051,182591753827.949,NA,NA,NA,NA,5,4,10
+london-2012,Summer,2012,Great Britain,United Kingdom,GBR,NA,NA,NA,NA,63960487,2707089726614.64,NA,NA,NA,NA,29,18,18
+london-2012,Summer,2012,Great Britain,United States,USA,NA,NA,NA,NA,317115348,16253970000000,NA,NA,NA,NA,47,27,30
+london-2012,Summer,2012,Great Britain,Uzbekistan,UZB,NA,NA,NA,NA,29261908,67517349212.0609,NA,NA,NA,NA,0,0,2
+london-2012,Summer,2012,Great Britain,Venezuela,NA,912,Spanish,Christian,S.America,29553828,NA,7,red,gold,red,1,0,0
+sochi-2014,Winter,2014,Russian Federation,Australia,AUS,7690,English,Christian,Oceania,23595599,1468597690006.22,3,blue,white,blue,0,2,1
+sochi-2014,Winter,2014,Russian Federation,Austria,AUT,84,German,Christian,Europe,8547812,442584815286.034,2,red,red,red,4,8,5
+sochi-2014,Winter,2014,Russian Federation,Belarus,BLR,NA,NA,NA,NA,9472704,78812805039.0743,NA,NA,NA,NA,5,0,1
+sochi-2014,Winter,2014,Russian Federation,Canada,CAN,9976,English,Christian,N.America,35634265,1805749878439.94,2,red,red,red,10,10,5
+sochi-2014,Winter,2014,Russian Federation,China,CHN,9561,Chinese,Other,NA,1387951973,10475624944355.2,2,red,red,red,3,4,2
+sochi-2014,Winter,2014,Russian Federation,Croatia,HRV,NA,NA,NA,NA,4219485,59489433514.5849,NA,NA,NA,NA,0,1,0
+sochi-2014,Winter,2014,Russian Federation,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,2
+sochi-2014,Winter,2014,Russian Federation,Finland,FIN,337,Other,Christian,Europe,5461686,274862826772.156,2,white,white,white,1,3,1
+sochi-2014,Winter,2014,Russian Federation,France,FRA,547,French,Christian,Europe,64692495,2855964488590.19,3,white,blue,red,4,4,7
+sochi-2014,Winter,2014,Russian Federation,Germany,DEU,NA,NA,NA,NA,81376078,3889093051023.52,NA,NA,NA,NA,8,6,5
+sochi-2014,Winter,2014,Russian Federation,Italy,ITA,301,Other,Christian,Europe,60664169,2162009615996.54,3,white,green,red,0,2,6
+sochi-2014,Winter,2014,Russian Federation,Japan,JPN,372,Other,Other,NA,127486600,4896994405353.29,2,white,white,white,1,4,3
+sochi-2014,Winter,2014,Russian Federation,Kazakhstan,KAZ,NA,NA,NA,NA,17816285,221415613595.469,NA,NA,NA,NA,0,0,1
+sochi-2014,Winter,2014,Russian Federation,Latvia,LVA,NA,NA,NA,NA,1994153,31386896487.0407,NA,NA,NA,NA,1,1,3
+sochi-2014,Winter,2014,Russian Federation,Netherlands,NLD,41,Other,Christian,Europe,17030087,892167986713.722,3,red,red,blue,8,7,9
+sochi-2014,Winter,2014,Russian Federation,Norway,NOR,324,Other,Christian,Europe,5137397,501736471832.848,3,red,red,red,11,5,10
+sochi-2014,Winter,2014,Russian Federation,Poland,POL,313,Other,Other,Europe,38265113,539080475073.719,2,white,white,red,4,1,1
+sochi-2014,Winter,2014,Russian Federation,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,2
+sochi-2014,Winter,2014,Russian Federation,Russian Federation,RUS,NA,NA,NA,NA,NA,2059241589895.01,NA,NA,NA,NA,11,9,9
+sochi-2014,Winter,2014,Russian Federation,Slovakia,NA,NA,NA,NA,NA,5415237,NA,NA,NA,NA,NA,1,0,0
+sochi-2014,Winter,2014,Russian Federation,Slovenia,SVN,NA,NA,NA,NA,2058396,49997186439.0916,NA,NA,NA,NA,2,2,4
+sochi-2014,Winter,2014,Russian Federation,Sweden,SWE,450,Other,Christian,Europe,9696437,581964017237.095,2,blue,blue,blue,2,7,6
+sochi-2014,Winter,2014,Russian Federation,Switzerland,CHE,41,German,Christian,Europe,8190238,726537808338,2,red,red,red,7,2,2
+sochi-2014,Winter,2014,Russian Federation,Ukraine,UKR,NA,NA,NA,NA,45972378,133503871861.723,NA,NA,NA,NA,1,0,1
+sochi-2014,Winter,2014,Russian Federation,United Kingdom,GBR,NA,NA,NA,NA,64865914,3064708247921.43,NA,NA,NA,NA,1,1,3
+sochi-2014,Winter,2014,Russian Federation,United States,USA,NA,NA,NA,NA,323115378,17608138000000,NA,NA,NA,NA,9,9,10
+rio-2016,Summer,2016,Brazil,Algeria,DZA,2388,Arabic,Muslim,Asia,40850720,180763839522.151,3,green,green,white,0,2,0
+rio-2016,Summer,2016,Brazil,Argentina,ARG,2777,Spanish,Christian,S.America,43900312,557532320662.955,2,blue,blue,blue,3,1,0
+rio-2016,Summer,2016,Brazil,Armenia,ARM,NA,NA,NA,NA,2918795,10546136235.5219,NA,NA,NA,NA,1,3,0
+rio-2016,Summer,2016,Brazil,Australia,AUS,7690,English,Christian,Oceania,24329961,1207580901578.72,3,blue,white,blue,8,11,10
+rio-2016,Summer,2016,Brazil,Austria,AUT,84,German,Christian,Europe,8737920,395837353031.499,2,red,red,red,0,0,1
+rio-2016,Summer,2016,Brazil,Azerbaijan,AZE,NA,NA,NA,NA,9868434,37866996882.9157,NA,NA,NA,NA,1,7,10
+rio-2016,Summer,2016,Brazil,Bahamas,NA,19,English,Christian,N.America,388060,NA,3,blue,blue,blue,1,0,1
+rio-2016,Summer,2016,Brazil,Bahrain,BHR,1,Arabic,Muslim,NA,1429609,32250132978.7234,2,red,white,red,1,1,0
+rio-2016,Summer,2016,Brazil,Belarus,BLR,NA,NA,NA,NA,9499067,47723545321.259,NA,NA,NA,NA,1,4,4
+rio-2016,Summer,2016,Brazil,Belgium,BEL,31,Other,Christian,Europe,11332704,476062757356.927,3,gold,black,red,2,2,2
+rio-2016,Summer,2016,Brazil,Brazil,BRA,8512,Other,Christian,S.America,203218108,1795693482652.52,4,green,green,green,7,6,6
+rio-2016,Summer,2016,Brazil,Bulgaria,BGR,111,Other,Other,Europe,7127436,53964253211.84,5,red,white,red,0,1,2
+rio-2016,Summer,2016,Brazil,Burundi,BDI,28,Other,Other,Asia,11239458,2644487776.50077,3,red,white,white,0,1,0
+rio-2016,Summer,2016,Brazil,Canada,CAN,9976,English,Christian,N.America,36353345,1527994741907.43,2,red,red,red,4,3,15
+rio-2016,Summer,2016,Brazil,China,CHN,9561,Chinese,Other,NA,1404052626,11233313730348.7,2,red,red,red,26,18,26
+rio-2016,Summer,2016,Brazil,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,2
+rio-2016,Summer,2016,Brazil,Colombia,COL,1139,Spanish,Christian,S.America,47437513,282720100286.228,3,gold,gold,red,3,2,3
+rio-2016,Summer,2016,Brazil,Croatia,HRV,NA,NA,NA,NA,4136438,52740059263.4245,NA,NA,NA,NA,5,3,2
+rio-2016,Summer,2016,Brazil,Cuba,CUB,115,Spanish,Other,N.America,11265614,91370407863.7,3,blue,blue,blue,5,2,4
+rio-2016,Summer,2016,Brazil,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,7
+rio-2016,Summer,2016,Brazil,Côte d'Ivoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1
+rio-2016,Summer,2016,Brazil,Democratic People's Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2
+rio-2016,Summer,2016,Brazil,Denmark,DNK,43,Other,Christian,Europe,5728198,313115929314.339,2,red,red,red,2,6,7
+rio-2016,Summer,2016,Brazil,Dominican Republic,DOM,NA,NA,NA,NA,10551430,75704647877.6559,NA,NA,NA,NA,0,0,1
+rio-2016,Summer,2016,Brazil,Egypt,NA,1001,Arabic,Muslim,Asia,101644586,NA,4,black,red,black,0,0,3
+rio-2016,Summer,2016,Brazil,Estonia,EST,NA,NA,NA,NA,1315850,24072829276.7744,NA,NA,NA,NA,0,0,1
+rio-2016,Summer,2016,Brazil,Ethiopia,ETH,1222,Other,Christian,Asia,106718161,74296745207.8721,3,green,green,red,1,2,5
+rio-2016,Summer,2016,Brazil,Fiji,FJI,18,English,Christian,Oceania,919167,4930213644.36653,7,blue,white,blue,1,0,0
+rio-2016,Summer,2016,Brazil,Finland,FIN,337,Other,Christian,Europe,5495469,240771351298.833,2,white,white,white,0,0,1
+rio-2016,Summer,2016,Brazil,France,FRA,547,French,Christian,Europe,65086852,2472964344587.17,3,white,blue,red,10,18,14
+rio-2016,Summer,2016,Brazil,Georgia,GEO,NA,NA,NA,NA,3792061,15444548901.9637,NA,NA,NA,NA,2,1,4
+rio-2016,Summer,2016,Brazil,Germany,DEU,NA,NA,NA,NA,82760100,3469853463945.53,NA,NA,NA,NA,17,10,15
+rio-2016,Summer,2016,Brazil,Greece,GRC,132,Other,Christian,Europe,10775506,193148146586.933,2,blue,blue,blue,3,1,2
+rio-2016,Summer,2016,Brazil,Grenada,GRD,0,English,Christian,N.America,115148,1061640740.74074,3,gold,red,red,0,1,0
+rio-2016,Summer,2016,Brazil,Hungary,HUN,93,Other,Other,Europe,9810530,128609822750.039,3,red,red,green,8,3,4
+rio-2016,Summer,2016,Brazil,Independent Olympic Athletes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1
+rio-2016,Summer,2016,Brazil,India,IND,3268,Other,Other,NA,1343944293,2294796885663.67,4,orange,orange,green,0,1,1
+rio-2016,Summer,2016,Brazil,Indonesia,IDN,1904,Other,Muslim,Oceania,264627428,931877364037.698,2,red,red,white,1,2,0
+rio-2016,Summer,2016,Brazil,Ireland,IRL,70,English,Christian,Europe,4753505,298559265006.398,3,white,green,orange,0,2,0
+rio-2016,Summer,2016,Brazil,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,4
+rio-2016,Summer,2016,Brazil,Israel,ISR,21,Other,Other,NA,8210005,322102790386.835,2,white,blue,blue,0,0,2
+rio-2016,Summer,2016,Brazil,Italy,ITA,301,Other,Christian,Europe,60478103,1877071687633.78,3,white,green,red,8,12,8
+rio-2016,Summer,2016,Brazil,Jamaica,JAM,11,English,Christian,N.America,2809919,14077096676.6213,3,green,gold,gold,6,3,2
+rio-2016,Summer,2016,Brazil,Japan,JPN,372,Other,Other,NA,127159949,5003677627544.24,2,white,white,white,12,8,21
+rio-2016,Summer,2016,Brazil,Jordan,JOR,98,Arabic,Muslim,NA,10006368,39892551126.7606,4,black,black,green,1,0,0
+rio-2016,Summer,2016,Brazil,Kazakhstan,KAZ,NA,NA,NA,NA,18363601,137278320084.171,NA,NA,NA,NA,3,5,10
+rio-2016,Summer,2016,Brazil,Kenya,KEN,583,Other,Other,Asia,48139682,74815144163.8931,4,red,black,green,6,6,1
+rio-2016,Summer,2016,Brazil,Kosovo,XKX,NA,NA,NA,NA,1761766,6682677289.98994,NA,NA,NA,NA,1,0,0
+rio-2016,Summer,2016,Brazil,Lithuania,LTU,NA,NA,NA,NA,2869108,43047309305.7363,NA,NA,NA,NA,0,1,3
+rio-2016,Summer,2016,Brazil,Malaysia,MYS,333,Other,Muslim,NA,31789694,301256033870.334,4,red,blue,white,0,4,1
+rio-2016,Summer,2016,Brazil,Mexico,MEX,1973,Spanish,Christian,N.America,122251345,1112233497452.7,4,green,green,red,0,3,2
+rio-2016,Summer,2016,Brazil,Mongolia,MNG,1566,Other,Other,NA,3040815,11181350649.3573,3,red,red,red,0,1,1
+rio-2016,Summer,2016,Brazil,Morocco,MAR,447,Arabic,Muslim,Asia,35023460,111572947004.917,2,red,red,red,0,0,1
+rio-2016,Summer,2016,Brazil,Netherlands,NLD,41,Other,Christian,Europe,17204694,784060430240.08,3,red,red,blue,8,7,4
+rio-2016,Summer,2016,Brazil,New Zealand,NZL,NA,NA,NA,NA,4714768,188898209220.167,NA,NA,NA,NA,4,9,5
+rio-2016,Summer,2016,Brazil,Niger,NER,1267,French,Muslim,Asia,20685760,10398861981.7583,3,orange,orange,green,0,1,0
+rio-2016,Summer,2016,Brazil,Nigeria,NGA,925,Other,Muslim,Asia,195443699,404649125252.16,2,green,green,green,0,0,1
+rio-2016,Summer,2016,Brazil,Norway,NOR,324,Other,Christian,Europe,5235977,370956547619.048,3,red,red,red,0,0,4
+rio-2016,Summer,2016,Brazil,Philippines,PHL,300,Other,Christian,Oceania,106735723,318627003012.52,4,blue,blue,red,0,1,0
+rio-2016,Summer,2016,Brazil,Poland,POL,313,Other,Other,Europe,38263259,470024599375.619,2,white,white,red,2,3,6
+rio-2016,Summer,2016,Brazil,Portugal,PRT,92,Other,Christian,Europe,10346377,206426152308.931,5,red,green,red,0,0,1
+rio-2016,Summer,2016,Brazil,Puerto Rico,PRI,NA,NA,NA,NA,3476008,104336700000,NA,NA,NA,NA,1,0,0
+rio-2016,Summer,2016,Brazil,Qatar,QAT,11,Arabic,Muslim,NA,2599382,151732181868.132,2,brown,white,brown,0,1,0
+rio-2016,Summer,2016,Brazil,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,3,9
+rio-2016,Summer,2016,Brazil,Romania,ROU,237,Other,Other,Europe,19777049,185287630540.431,7,red,blue,red,1,1,2
+rio-2016,Summer,2016,Brazil,Russian Federation,RUS,NA,NA,NA,NA,NA,1276786350881.14,NA,NA,NA,NA,19,17,20
+rio-2016,Summer,2016,Brazil,Serbia,SRB,NA,NA,NA,NA,7126083,40692661657.284,NA,NA,NA,NA,2,4,2
+rio-2016,Summer,2016,Brazil,Singapore,SGP,1,Chinese,Other,NA,5577937,319053943915.005,2,white,red,white,1,0,0
+rio-2016,Summer,2016,Brazil,Slovakia,NA,NA,NA,NA,NA,5427262,NA,NA,NA,NA,NA,2,2,0
+rio-2016,Summer,2016,Brazil,Slovenia,SVN,NA,NA,NA,NA,2061379,44766722790.5826,NA,NA,NA,NA,1,2,1
+rio-2016,Summer,2016,Brazil,South Africa,ZAF,NA,NA,NA,NA,57259550,323585509674.481,NA,NA,NA,NA,2,6,2
+rio-2016,Summer,2016,Brazil,Spain,ESP,505,Spanish,Christian,Europe,46732766,1233554967011.68,2,red,red,red,7,4,6
+rio-2016,Summer,2016,Brazil,Sweden,SWE,450,Other,Christian,Europe,9923281,515654671469.547,2,blue,blue,blue,2,6,3
+rio-2016,Summer,2016,Brazil,Switzerland,CHE,41,German,Christian,Europe,8374902,687895460902.713,2,red,red,red,3,2,2
+rio-2016,Summer,2016,Brazil,Tajikistan,TJK,NA,NA,NA,NA,8865622,6992416096.89018,NA,NA,NA,NA,1,0,0
+rio-2016,Summer,2016,Brazil,Thailand,THA,514,Other,Other,NA,70859837,413366349747.508,3,red,red,red,2,2,2
+rio-2016,Summer,2016,Brazil,Trinidad and Tobago,TTO,NA,NA,NA,NA,1437030,23713671528.1421,NA,NA,NA,NA,0,0,1
+rio-2016,Summer,2016,Brazil,Tunisia,TUN,164,Arabic,Muslim,Asia,11528676,44360072680.4476,2,red,red,red,0,0,3
+rio-2016,Summer,2016,Brazil,Turkey,NA,781,Other,Muslim,NA,81652086,NA,2,red,red,red,1,3,4
+rio-2016,Summer,2016,Brazil,Ukraine,UKR,NA,NA,NA,NA,45616831,93355869403.9223,NA,NA,NA,NA,2,5,4
+rio-2016,Summer,2016,Brazil,United Arab Emirates,ARE,NA,NA,NA,NA,9030873,369255326235.534,NA,NA,NA,NA,0,0,1
+rio-2016,Summer,2016,Brazil,United Kingdom,GBR,NA,NA,NA,NA,65893359,2689106566899.61,NA,NA,NA,NA,27,23,17
+rio-2016,Summer,2016,Brazil,United States,USA,NA,NA,NA,NA,329179421,18804913000000,NA,NA,NA,NA,46,37,38
+rio-2016,Summer,2016,Brazil,Uzbekistan,UZB,NA,NA,NA,NA,31284565,86138288644.171,NA,NA,NA,NA,4,2,7
+rio-2016,Summer,2016,Brazil,Venezuela,NA,912,Spanish,Christian,S.America,30765718,NA,7,red,gold,red,0,2,1
+rio-2016,Summer,2016,Brazil,Vietnam,NA,333,Other,Other,NA,94000115,NA,2,red,red,red,1,1,0
+pyeongchang-2018,Winter,2018,Republic of Korea,Australia,AUS,7690,English,Christian,Oceania,25119700,1429733668185.91,3,blue,white,blue,0,2,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Austria,AUT,84,German,Christian,Europe,8841652,454991174096.102,2,red,red,red,5,3,6
+pyeongchang-2018,Winter,2018,Republic of Korea,Belarus,BLR,NA,NA,NA,NA,9480033,60031173807.7196,NA,NA,NA,NA,2,1,0
+pyeongchang-2018,Winter,2018,Republic of Korea,Belgium,BEL,31,Other,Christian,Europe,11428609,543299066998.902,3,gold,black,red,0,1,0
+pyeongchang-2018,Winter,2018,Republic of Korea,Canada,CAN,9976,English,Christian,N.America,37294997,1725329192783.02,2,red,red,red,11,8,10
+pyeongchang-2018,Winter,2018,Republic of Korea,China,CHN,9561,Chinese,Other,NA,1419008963,13894907857880.6,2,red,red,red,1,6,2
+pyeongchang-2018,Winter,2018,Republic of Korea,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3
+pyeongchang-2018,Winter,2018,Republic of Korea,Finland,FIN,337,Other,Christian,Europe,5515732,275708001767.843,2,white,white,white,1,1,4
+pyeongchang-2018,Winter,2018,Republic of Korea,France,FRA,547,French,Christian,Europe,65519539,2790956878746.66,3,white,blue,red,5,4,6
+pyeongchang-2018,Winter,2018,Republic of Korea,Germany,DEU,NA,NA,NA,NA,83368506,3974443355019.6,NA,NA,NA,NA,14,10,7
+pyeongchang-2018,Winter,2018,Republic of Korea,Hungary,HUN,93,Other,Other,Europe,9774395,160565642983.587,3,red,red,green,1,0,0
+pyeongchang-2018,Winter,2018,Republic of Korea,Italy,ITA,301,Other,Christian,Europe,60277496,2091932426266.98,3,white,green,red,3,2,5
+pyeongchang-2018,Winter,2018,Republic of Korea,Japan,JPN,372,Other,Other,NA,126913433,5040880939324.86,2,white,white,white,4,5,4
+pyeongchang-2018,Winter,2018,Republic of Korea,Kazakhstan,KAZ,NA,NA,NA,NA,18932725,179339977690.485,NA,NA,NA,NA,0,0,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Latvia,LVA,NA,NA,NA,NA,1927586,34429023435.0211,NA,NA,NA,NA,0,0,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Liechtenstein,LIE,0,German,Christian,Europe,38157,6692620691.84146,3,red,blue,red,0,0,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Netherlands,NLD,41,Other,Christian,Europe,17421284,914043438179.607,3,red,red,blue,8,6,6
+pyeongchang-2018,Winter,2018,Republic of Korea,New Zealand,NZL,NA,NA,NA,NA,4900844,211846555690.736,NA,NA,NA,NA,0,0,2
+pyeongchang-2018,Winter,2018,Republic of Korea,Norway,NOR,324,Other,Christian,Europe,5311751,439788625883.8,3,red,red,red,14,14,11
+pyeongchang-2018,Winter,2018,Republic of Korea,Olympic Athletes from Russia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,6,9
+pyeongchang-2018,Winter,2018,Republic of Korea,Poland,POL,313,Other,Other,Europe,38241070,588779796423.695,2,white,white,red,1,0,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8,4
+pyeongchang-2018,Winter,2018,Republic of Korea,Slovakia,NA,NA,NA,NA,NA,5443230,NA,NA,NA,NA,NA,1,2,0
+pyeongchang-2018,Winter,2018,Republic of Korea,Slovenia,SVN,NA,NA,NA,NA,2069484,54177882425.8431,NA,NA,NA,NA,0,1,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Spain,ESP,505,Spanish,Christian,Europe,47092817,1421702715218.04,2,red,red,red,0,0,2
+pyeongchang-2018,Winter,2018,Republic of Korea,Sweden,SWE,450,Other,Christian,Europe,10175401,555455371487.089,2,blue,blue,blue,7,6,1
+pyeongchang-2018,Winter,2018,Republic of Korea,Switzerland,CHE,41,German,Christian,Europe,8516339,725568717468.001,2,red,red,red,5,6,4
+pyeongchang-2018,Winter,2018,Republic of Korea,Ukraine,UKR,NA,NA,NA,NA,45208903,130891088293.55,NA,NA,NA,NA,1,0,0
+pyeongchang-2018,Winter,2018,Republic of Korea,United Kingdom,GBR,NA,NA,NA,NA,66752473,2871340347581.79,NA,NA,NA,NA,1,0,4
+pyeongchang-2018,Winter,2018,Republic of Korea,United States,USA,NA,NA,NA,NA,335056495,20656516000000,NA,NA,NA,NA,9,8,6
+tokyo-2020,Summer,2020,Japan,Argentina,ARG,2777,Spanish,Christian,S.America,45191960,385740508436.965,2,blue,blue,blue,0,1,2
+tokyo-2020,Summer,2020,Japan,Armenia,ARM,NA,NA,NA,NA,2890894,12641698583.2152,NA,NA,NA,NA,0,2,2
+tokyo-2020,Summer,2020,Japan,Australia,AUS,7690,English,Christian,Oceania,25743787,1330381544909.3,3,blue,white,blue,17,7,22
+tokyo-2020,Summer,2020,Japan,Austria,AUT,84,German,Christian,Europe,8921402,435049316955.737,2,red,red,red,1,1,5
+tokyo-2020,Summer,2020,Japan,Azerbaijan,AZE,NA,NA,NA,NA,10181736,42693000000,NA,NA,NA,NA,0,3,4
+tokyo-2020,Summer,2020,Japan,Bahamas,NA,19,English,Christian,N.America,395874,NA,3,blue,blue,blue,2,0,0
+tokyo-2020,Summer,2020,Japan,Bahrain,BHR,1,Arabic,Muslim,NA,1483081,34621807712.766,2,red,white,red,0,1,0
+tokyo-2020,Summer,2020,Japan,Belarus,BLR,NA,NA,NA,NA,9350943,61371755326.2351,NA,NA,NA,NA,1,3,3
+tokyo-2020,Summer,2020,Japan,Belgium,BEL,31,Other,Christian,Europe,11540103,526021513474.243,3,gold,black,red,3,1,3
+tokyo-2020,Summer,2020,Japan,Bermuda,BMU,0,English,Christian,N.America,64405,6887147000,6,red,white,red,1,0,0
+tokyo-2020,Summer,2020,Japan,Botswana,BWA,600,Other,Other,Asia,2365895,14960291105.9316,3,blue,blue,blue,0,0,1
+tokyo-2020,Summer,2020,Japan,Brazil,BRA,8512,Other,Christian,S.America,208660845,1476107231194.11,4,green,green,green,7,6,8
+tokyo-2020,Summer,2020,Japan,Bulgaria,BGR,111,Other,Other,Europe,6933654,70368758395.141,5,red,white,red,3,1,2
+tokyo-2020,Summer,2020,Japan,Burkina Faso,BFA,NA,NA,NA,NA,21478692,17725010530.7894,NA,NA,NA,NA,0,0,1
+tokyo-2020,Summer,2020,Japan,Canada,CAN,9976,English,Christian,N.America,38171901,1655684730000.19,2,red,red,red,7,6,11
+tokyo-2020,Summer,2020,Japan,China,CHN,9561,Chinese,Other,NA,1426106083,14687744162801,2,red,red,red,38,32,18
+tokyo-2020,Summer,2020,Japan,Chinese Taipei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,6
+tokyo-2020,Summer,2020,Japan,Colombia,COL,1139,Spanish,Christian,S.America,50629997,270348342541.465,3,gold,gold,red,0,4,1
+tokyo-2020,Summer,2020,Japan,Croatia,HRV,NA,NA,NA,NA,3953957,58221300897.8838,NA,NA,NA,NA,3,3,2
+tokyo-2020,Summer,2020,Japan,Cuba,CUB,115,Spanish,Other,N.America,11176349,107351800000,3,blue,blue,blue,7,3,5
+tokyo-2020,Summer,2020,Japan,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,3
+tokyo-2020,Summer,2020,Japan,Côte d'Ivoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+tokyo-2020,Summer,2020,Japan,Denmark,DNK,43,Other,Christian,Europe,5831530,354762748338.661,2,red,red,red,3,4,4
+tokyo-2020,Summer,2020,Japan,Dominican Republic,DOM,NA,NA,NA,NA,11008297,78844656298.1776,NA,NA,NA,NA,0,3,2
+tokyo-2020,Summer,2020,Japan,Ecuador,ECU,284,Spanish,Christian,S.America,17546058,95865472000,3,gold,gold,red,2,1,0
+tokyo-2020,Summer,2020,Japan,Egypt,NA,1001,Arabic,Muslim,Asia,109315119,NA,4,black,red,black,1,1,4
+tokyo-2020,Summer,2020,Japan,Estonia,EST,NA,NA,NA,NA,1329674,31330419851.1487,NA,NA,NA,NA,1,0,1
+tokyo-2020,Summer,2020,Japan,Ethiopia,ETH,1222,Other,Christian,Asia,118917671,107657734392.446,3,green,green,red,1,1,2
+tokyo-2020,Summer,2020,Japan,Fiji,FJI,18,English,Christian,Oceania,914970,4432466219.87685,7,blue,white,blue,1,0,1
+tokyo-2020,Summer,2020,Japan,Finland,FIN,337,Other,Christian,Europe,5529617,271886077382.102,2,white,white,white,0,0,2
+tokyo-2020,Summer,2020,Japan,France,FRA,547,French,Christian,Europe,65905273,2647418691598.45,3,white,blue,red,10,12,11
+tokyo-2020,Summer,2020,Japan,Georgia,GEO,NA,NA,NA,NA,3795680,16010869215.68,NA,NA,NA,NA,2,5,1
+tokyo-2020,Summer,2020,Japan,Germany,DEU,NA,NA,NA,NA,83628711,3887727161914.41,NA,NA,NA,NA,10,11,16
+tokyo-2020,Summer,2020,Japan,Ghana,GHA,239,English,Other,Asia,31887801,70043095503.6675,4,red,red,green,0,0,1
+tokyo-2020,Summer,2020,Japan,Greece,GRC,132,Other,Christian,Europe,10699370,188480337285.605,2,blue,blue,blue,2,1,1
+tokyo-2020,Summer,2020,Japan,Grenada,GRD,0,English,Christian,N.America,116353,1043411111.11111,3,gold,red,red,0,0,1
+tokyo-2020,Summer,2020,Japan,"Hong Kong, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3
+tokyo-2020,Summer,2020,Japan,Hungary,HUN,93,Other,Other,Europe,9749460,157288955508.176,3,red,red,green,6,7,7
+tokyo-2020,Summer,2020,Japan,India,IND,3268,Other,Other,NA,1402617692,2674851578586.86,4,orange,orange,green,1,2,4
+tokyo-2020,Summer,2020,Japan,Indonesia,IDN,1904,Other,Muslim,Oceania,274814864,1059054842698.48,2,red,red,white,1,1,3
+tokyo-2020,Summer,2020,Japan,Ireland,IRL,70,English,Christian,Europe,4982604,428608687830.239,3,white,green,orange,2,0,2
+tokyo-2020,Summer,2020,Japan,Islamic Republic of Iran,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2
+tokyo-2020,Summer,2020,Japan,Israel,ISR,21,Other,Other,NA,8800379,413267669231.522,2,white,blue,blue,2,0,2
+tokyo-2020,Summer,2020,Japan,Italy,ITA,301,Other,Christian,Europe,59912763,1897461635591.91,3,white,green,red,10,10,20
+tokyo-2020,Summer,2020,Japan,Jamaica,JAM,11,English,Christian,N.America,2830746,13812421835.7369,3,green,gold,gold,4,1,4
+tokyo-2020,Summer,2020,Japan,Japan,JPN,372,Other,Other,NA,126304536,5055587093501.59,2,white,white,white,27,14,17
+tokyo-2020,Summer,2020,Japan,Jordan,JOR,98,Arabic,Muslim,NA,10865231,43700383098.5916,4,black,black,green,0,1,1
+tokyo-2020,Summer,2020,Japan,Kazakhstan,KAZ,NA,NA,NA,NA,19482117,171082365861.423,NA,NA,NA,NA,0,0,8
+tokyo-2020,Summer,2020,Japan,Kenya,KEN,583,Other,Other,Asia,52217327,100657505750.545,4,red,black,green,4,4,2
+tokyo-2020,Summer,2020,Japan,Kosovo,XKX,NA,NA,NA,NA,1751415,7717145217.81247,NA,NA,NA,NA,2,0,0
+tokyo-2020,Summer,2020,Japan,Kuwait,KWT,18,Arabic,Muslim,NA,4400146,107512998447.021,4,green,green,red,0,0,1
+tokyo-2020,Summer,2020,Japan,Kyrgyzstan,NA,NA,NA,NA,NA,6664142,NA,NA,NA,NA,NA,0,2,1
+tokyo-2020,Summer,2020,Japan,Latvia,LVA,NA,NA,NA,NA,1901119,34390910338.9604,NA,NA,NA,NA,1,0,1
+tokyo-2020,Summer,2020,Japan,Lithuania,LTU,NA,NA,NA,NA,2795766,56964942999.3651,NA,NA,NA,NA,0,1,0
+tokyo-2020,Summer,2020,Japan,Malaysia,MYS,333,Other,Muslim,NA,33889555,337456163961.211,4,red,blue,white,0,1,1
+tokyo-2020,Summer,2020,Japan,Mexico,MEX,1973,Spanish,Christian,N.America,126799052,1120832412468.85,4,green,green,red,0,0,4
+tokyo-2020,Summer,2020,Japan,Mongolia,MNG,1566,Other,Other,NA,3290788,13312981429.0891,3,red,red,red,0,1,3
+tokyo-2020,Summer,2020,Japan,Morocco,MAR,447,Arabic,Muslim,Asia,36584208,121353645057.144,2,red,red,red,1,0,0
+tokyo-2020,Summer,2020,Japan,Namibia,NAM,NA,NA,NA,NA,2728763,10583748541.5258,NA,NA,NA,NA,0,1,0
+tokyo-2020,Summer,2020,Japan,Netherlands,NLD,41,Other,Christian,Europe,17636732,909793466661.481,3,red,red,blue,10,12,14
+tokyo-2020,Summer,2020,Japan,New Zealand,NZL,NA,NA,NA,NA,5069893,212697530897.56,NA,NA,NA,NA,7,6,7
+tokyo-2020,Summer,2020,Japan,Nigeria,NGA,925,Other,Muslim,Asia,213996186,432198898467.795,2,green,green,green,0,1,1
+tokyo-2020,Summer,2020,Japan,North Macedonia,MKD,NA,NA,NA,NA,1872021,12361036913.8409,NA,NA,NA,NA,0,1,0
+tokyo-2020,Summer,2020,Japan,Norway,NOR,324,Other,Christian,Europe,5379274,367633418886.627,3,red,red,red,4,2,2
+tokyo-2020,Summer,2020,Japan,Philippines,PHL,300,Other,Christian,Oceania,112081271,361751145451.597,4,blue,blue,red,1,2,1
+tokyo-2020,Summer,2020,Japan,Poland,POL,313,Other,Other,Europe,38171005,599442732365.372,2,white,white,red,4,5,5
+tokyo-2020,Summer,2020,Japan,Portugal,PRT,92,Other,Christian,Europe,10370519,229031860520.777,5,red,green,red,1,1,2
+tokyo-2020,Summer,2020,Japan,Puerto Rico,PRI,NA,NA,NA,NA,3275801,103130900000,NA,NA,NA,NA,1,0,0
+tokyo-2020,Summer,2020,Japan,Qatar,QAT,11,Arabic,Muslim,NA,2803373,144411363351.648,2,brown,white,brown,2,0,1
+tokyo-2020,Summer,2020,Japan,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,4,10
+tokyo-2020,Summer,2020,Japan,Republic of Moldova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1
+tokyo-2020,Summer,2020,Japan,Romania,ROU,237,Other,Other,Europe,19392469,251362514349.697,7,red,blue,red,1,3,0
+tokyo-2020,Summer,2020,Japan,Russia,NA,NA,NA,NA,NA,146371293,NA,NA,NA,NA,NA,20,28,23
+tokyo-2020,Summer,2020,Japan,San Marino,SMR,NA,NA,NA,NA,34796,1541247883.99351,NA,NA,NA,NA,0,1,2
+tokyo-2020,Summer,2020,Japan,Saudi Arabia,SAU,NA,NA,NA,NA,30991205,734271200000,NA,NA,NA,NA,0,1,0
+tokyo-2020,Summer,2020,Japan,Serbia,SRB,NA,NA,NA,NA,6907817,53356484591.4378,NA,NA,NA,NA,3,1,5
+tokyo-2020,Summer,2020,Japan,Slovakia,NA,NA,NA,NA,NA,5455028,NA,NA,NA,NA,NA,1,2,1
+tokyo-2020,Summer,2020,Japan,Slovenia,SVN,NA,NA,NA,NA,2102419,53734526854.2289,NA,NA,NA,NA,3,1,1
+tokyo-2020,Summer,2020,Japan,South Africa,ZAF,NA,NA,NA,NA,60562374,338291396026.698,NA,NA,NA,NA,1,2,0
+tokyo-2020,Summer,2020,Japan,Spain,ESP,505,Spanish,Christian,Europe,47679482,1278128867875.49,2,red,red,red,3,8,6
+tokyo-2020,Summer,2020,Japan,Sweden,SWE,450,Other,Christian,Europe,10353680,547054174235.876,2,blue,blue,blue,3,6,0
+tokyo-2020,Summer,2020,Japan,Switzerland,CHE,41,German,Christian,Europe,8640582,741999406005.627,2,red,red,red,3,4,6
+tokyo-2020,Summer,2020,Japan,Syrian Arab Republic,SYR,NA,NA,NA,NA,NA,11155888304.0023,NA,NA,NA,NA,0,0,1
+tokyo-2020,Summer,2020,Japan,Thailand,THA,514,Other,Other,NA,71641484,500461898480.246,3,red,red,red,1,0,1
+tokyo-2020,Summer,2020,Japan,Tunisia,TUN,164,Arabic,Muslim,Asia,11974058,42491816475.7118,2,red,red,red,1,1,0
+tokyo-2020,Summer,2020,Japan,Turkey,NA,781,Other,Muslim,NA,86091691,NA,2,red,red,red,2,2,9
+tokyo-2020,Summer,2020,Japan,Turkmenistan,TKM,NA,NA,NA,NA,6949915,45818000000,NA,NA,NA,NA,0,1,0
+tokyo-2020,Summer,2020,Japan,Uganda,UGA,236,Other,Other,Asia,44457149,37600368239.8824,5,gold,black,red,2,1,1
+tokyo-2020,Summer,2020,Japan,Ukraine,UKR,NA,NA,NA,NA,44680009,156617722013.342,NA,NA,NA,NA,1,6,12
+tokyo-2020,Summer,2020,Japan,United Kingdom,GBR,NA,NA,NA,NA,67351860,2697806592293.86,NA,NA,NA,NA,22,21,22
+tokyo-2020,Summer,2020,Japan,United States,USA,NA,NA,NA,NA,339436157,21322950000000,NA,NA,NA,NA,39,41,33
+tokyo-2020,Summer,2020,Japan,Uzbekistan,UZB,NA,NA,NA,NA,33586372,60224701296.7885,NA,NA,NA,NA,3,0,2
+tokyo-2020,Summer,2020,Japan,Venezuela,NA,912,Spanish,Christian,S.America,28444078,NA,7,red,gold,red,1,3,0
+beijing-2022,Winter,2022,China,Australia,AUS,7690,English,Christian,Oceania,26200987,1692956646855.7,3,blue,white,blue,1,2,1
+beijing-2022,Winter,2022,China,Austria,AUT,84,German,Christian,Europe,9064679,470941926750.741,2,red,red,red,7,7,4
+beijing-2022,Winter,2022,China,Belarus,BLR,NA,NA,NA,NA,9173241,73775179924.603,NA,NA,NA,NA,0,2,0
+beijing-2022,Winter,2022,China,Belgium,BEL,31,Other,Christian,Europe,11641813,583613982019.263,3,gold,black,red,1,0,1
+beijing-2022,Winter,2022,China,Canada,CAN,9976,English,Christian,N.America,38821260,2161483369422.01,2,red,red,red,4,8,14
+beijing-2022,Winter,2022,China,China,CHN,9561,Chinese,Other,NA,1425179562,17881783387000.9,2,red,red,red,9,4,2
+beijing-2022,Winter,2022,China,Czech Republic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1
+beijing-2022,Winter,2022,China,Estonia,EST,NA,NA,NA,NA,1350092,37921480881.5429,NA,NA,NA,NA,0,0,1
+beijing-2022,Winter,2022,China,Finland,FIN,337,Other,Christian,Europe,5569299,281887430795.721,2,white,white,white,2,2,4
+beijing-2022,Winter,2022,China,France,FRA,547,French,Christian,Europe,66277412,2779092236505.85,3,white,blue,red,5,7,2
+beijing-2022,Winter,2022,China,Germany,DEU,NA,NA,NA,NA,84086228,4082469490797.68,NA,NA,NA,NA,12,10,5
+beijing-2022,Winter,2022,China,Hungary,HUN,93,Other,Other,Europe,9684306,177006128624.627,3,red,red,green,1,0,2
+beijing-2022,Winter,2022,China,Italy,ITA,301,Other,Christian,Europe,59619106,2066972096553.7,3,white,green,red,2,7,8
+beijing-2022,Winter,2022,China,Japan,JPN,372,Other,Other,NA,124997586,4256410760723.75,2,white,white,white,3,6,9
+beijing-2022,Winter,2022,China,Latvia,LVA,NA,NA,NA,NA,1881058,40422521943.4418,NA,NA,NA,NA,0,0,1
+beijing-2022,Winter,2022,China,Netherlands,NLD,41,Other,Christian,Europe,17904422,1009398719033.08,3,red,red,blue,8,5,4
+beijing-2022,Winter,2022,China,New Zealand,NZL,NA,NA,NA,NA,5131733,246733522841.353,NA,NA,NA,NA,2,1,0
+beijing-2022,Winter,2022,China,Norway,NOR,324,Other,Christian,Europe,5456795,593726965415.619,3,red,red,red,16,8,13
+beijing-2022,Winter,2022,China,Poland,POL,313,Other,Other,Europe,38385734,689763329458.441,2,white,white,red,0,0,1
+beijing-2022,Winter,2022,China,Republic of Korea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,2
+beijing-2022,Winter,2022,China,Russia,NA,NA,NA,NA,NA,145579890,NA,NA,NA,NA,NA,6,12,14
+beijing-2022,Winter,2022,China,Slovakia,NA,NA,NA,NA,NA,5473194,NA,NA,NA,NA,NA,1,0,1
+beijing-2022,Winter,2022,China,Slovenia,SVN,NA,NA,NA,NA,2115230,60063475466.3446,NA,NA,NA,NA,2,3,2
+beijing-2022,Winter,2022,China,Spain,ESP,505,Spanish,Christian,Europe,47828386,1417800466262.65,2,red,red,red,0,1,0
+beijing-2022,Winter,2022,China,Sweden,SWE,450,Other,Christian,Europe,10487333,590409594949.102,2,blue,blue,blue,8,5,5
+beijing-2022,Winter,2022,China,Switzerland,CHE,41,German,Christian,Europe,8792180,818426550206.45,2,red,red,red,7,2,5
+beijing-2022,Winter,2022,China,Ukraine,UKR,NA,NA,NA,NA,41048767,161989520721.19,NA,NA,NA,NA,0,1,0
+beijing-2022,Winter,2022,China,United Kingdom,GBR,NA,NA,NA,NA,68179315,3088839763445.02,NA,NA,NA,NA,1,1,0
+beijing-2022,Winter,2022,China,United States,USA,NA,NA,NA,NA,341534041,25744108000000,NA,NA,NA,NA,8,10,7
