@@ -1,0 +1,6 @@
+---
+title: "R Markdown"
+author: "Andreas Alfons"
+date: "October 21, 2016"
+output: html_document
+---

@@ -1,0 +1,28 @@
+---
+title: "Motor Trend 1974"
+author: "Andreas Alfons"
+date: "October 21, 2016"
+output: ioslides_presentation
+---
+
+```{r, include = FALSE}
+library("ggplot2")
+library("knitr")
+data("mtcars")
+```
+
+## Data
+
+We use data on `r nrow(mtcars)` cars featured in the magazine *Motor Trend* 
+in 1974.  This it what the data look like:
+```{r, echo = FALSE}
+kable(head(mtcars, 5))
+```
+
+## Miles per gallon vs weight
+
+Now we look at how fuel consumption is related to weight.
+```{r, echo = FALSE, fig.align = "center"}
+ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl), size = qsec)) + 
+  geom_point()
+```

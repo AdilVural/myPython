@@ -1,0 +1,8 @@
+pandas 
+matplotlib 
+seaborn
+numpy 
+datetime 
+pytz
+ipykernel
+nycflights13
