@@ -1,0 +1,1333 @@
+entity,code,year,population
+Africa (UN),,1950,227776419
+Africa (UN),,1951,232556971
+Africa (UN),,1952,237539544
+Africa (UN),,1953,242685066
+Africa (UN),,1954,248005818
+Africa (UN),,1955,253537850
+Africa (UN),,1956,259271439
+Africa (UN),,1957,265128663
+Africa (UN),,1958,271041739
+Africa (UN),,1959,277271607
+Africa (UN),,1960,283921952
+Africa (UN),,1961,290813750
+Africa (UN),,1962,297959631
+Africa (UN),,1963,305371042
+Africa (UN),,1964,313060398
+Africa (UN),,1965,321013250
+Africa (UN),,1966,329251993
+Africa (UN),,1967,337850713
+Africa (UN),,1968,346800643
+Africa (UN),,1969,356032260
+Africa (UN),,1970,365551874
+Africa (UN),,1971,375326099
+Africa (UN),,1972,385311883
+Africa (UN),,1973,395821648
+Africa (UN),,1974,406869977
+Africa (UN),,1975,418433160
+Africa (UN),,1976,430496629
+Africa (UN),,1977,442660133
+Africa (UN),,1978,455538925
+Africa (UN),,1979,469198175
+Africa (UN),,1980,483051387
+Africa (UN),,1981,497620643
+Africa (UN),,1982,512958551
+Africa (UN),,1983,528232408
+Africa (UN),,1984,543637781
+Africa (UN),,1985,559663771
+Africa (UN),,1986,575967004
+Africa (UN),,1987,592601033
+Africa (UN),,1988,609387393
+Africa (UN),,1989,626358876
+Africa (UN),,1990,643775030
+Africa (UN),,1991,661103507
+Africa (UN),,1992,678557822
+Africa (UN),,1993,696621490
+Africa (UN),,1994,714502385
+Africa (UN),,1995,732695149
+Africa (UN),,1996,751473491
+Africa (UN),,1997,770384412
+Africa (UN),,1998,789981456
+Africa (UN),,1999,810079553
+Africa (UN),,2000,830582527
+Africa (UN),,2001,851690082
+Africa (UN),,2002,873411063
+Africa (UN),,2003,895734225
+Africa (UN),,2004,918778215
+Africa (UN),,2005,942546391
+Africa (UN),,2006,966932135
+Africa (UN),,2007,992055602
+Africa (UN),,2008,1018065273
+Africa (UN),,2009,1044777532
+Africa (UN),,2010,1072216499
+Africa (UN),,2011,1100148605
+Africa (UN),,2012,1128843456
+Africa (UN),,2013,1158780288
+Africa (UN),,2014,1189220347
+Africa (UN),,2015,1220075494
+Africa (UN),,2016,1251208463
+Africa (UN),,2017,1282902108
+Africa (UN),,2018,1315409781
+Africa (UN),,2019,1348005491
+Africa (UN),,2020,1380821159
+Africa (UN),,2021,1413753053
+Africa (UN),,2022,1446883651
+Africa (UN),,2023,1480770527
+Americas (UN),,1950,335791493
+Americas (UN),,1951,342809280
+Americas (UN),,1952,350086865
+Americas (UN),,1953,357599607
+Americas (UN),,1954,365377092
+Americas (UN),,1955,373407277
+Americas (UN),,1956,381692163
+Americas (UN),,1957,390249080
+Americas (UN),,1958,398992349
+Americas (UN),,1959,408077037
+Americas (UN),,1960,417520522
+Americas (UN),,1961,427225741
+Americas (UN),,1962,437118235
+Americas (UN),,1963,447027460
+Americas (UN),,1964,456963601
+Americas (UN),,1965,466843178
+Americas (UN),,1966,476580531
+Americas (UN),,1967,486190006
+Americas (UN),,1968,495698218
+Americas (UN),,1969,505217478
+Americas (UN),,1970,515080522
+Americas (UN),,1971,525203246
+Americas (UN),,1972,535104027
+Americas (UN),,1973,544799459
+Americas (UN),,1974,554515598
+Americas (UN),,1975,564296858
+Americas (UN),,1976,574121361
+Americas (UN),,1977,584093311
+Americas (UN),,1978,594231922
+Americas (UN),,1979,604509080
+Americas (UN),,1980,614995559
+Americas (UN),,1981,625567978
+Americas (UN),,1982,636207174
+Americas (UN),,1983,646988452
+Americas (UN),,1984,657807334
+Americas (UN),,1985,668598299
+Americas (UN),,1986,679322518
+Americas (UN),,1987,690036435
+Americas (UN),,1988,700864741
+Americas (UN),,1989,711800736
+Americas (UN),,1990,723167029
+Americas (UN),,1991,734827528
+Americas (UN),,1992,746446435
+Americas (UN),,1993,757897506
+Americas (UN),,1994,769066720
+Americas (UN),,1995,780097788
+Americas (UN),,1996,790984090
+Americas (UN),,1997,801748681
+Americas (UN),,1998,812545221
+Americas (UN),,1999,823277581
+Americas (UN),,2000,833823329
+Americas (UN),,2001,844243627
+Americas (UN),,2002,854486140
+Americas (UN),,2003,864557890
+Americas (UN),,2004,874538475
+Americas (UN),,2005,884494787
+Americas (UN),,2006,894470072
+Americas (UN),,2007,904530238
+Americas (UN),,2008,914594516
+Americas (UN),,2009,924521281
+Americas (UN),,2010,934293894
+Americas (UN),,2011,944029797
+Americas (UN),,2012,953741209
+Americas (UN),,2013,963367755
+Americas (UN),,2014,972890540
+Americas (UN),,2015,982256772
+Americas (UN),,2016,991580859
+Americas (UN),,2017,1000714164
+Americas (UN),,2018,1009489473
+Americas (UN),,2019,1017894602
+Americas (UN),,2020,1024463737
+Americas (UN),,2021,1029207261
+Americas (UN),,2022,1034848562
+Americas (UN),,2023,1041794259
+Asia (UN),,1950,1368075411
+Asia (UN),,1951,1394810949
+Asia (UN),,1952,1424440987
+Asia (UN),,1953,1456150768
+Asia (UN),,1954,1488943455
+Asia (UN),,1955,1523680044
+Asia (UN),,1956,1558805650
+Asia (UN),,1957,1595227779
+Asia (UN),,1958,1632429840
+Asia (UN),,1959,1665271765
+Asia (UN),,1960,1692348915
+Asia (UN),,1961,1718751809
+Asia (UN),,1962,1753920101
+Asia (UN),,1963,1799912159
+Asia (UN),,1964,1848054069
+Asia (UN),,1965,1894647591
+Asia (UN),,1966,1940809582
+Asia (UN),,1967,1986937252
+Asia (UN),,1968,2035404656
+Asia (UN),,1969,2086069569
+Asia (UN),,1970,2137559048
+Asia (UN),,1971,2188326576
+Asia (UN),,1972,2238486523
+Asia (UN),,1973,2289518342
+Asia (UN),,1974,2340061189
+Asia (UN),,1975,2389170024
+Asia (UN),,1976,2437129378
+Asia (UN),,1977,2484896158
+Asia (UN),,1978,2532509773
+Asia (UN),,1979,2581432946
+Asia (UN),,1980,2632326534
+Asia (UN),,1981,2684687855
+Asia (UN),,1982,2739365858
+Asia (UN),,1983,2794764059
+Asia (UN),,1984,2850199037
+Asia (UN),,1985,2906963725
+Asia (UN),,1986,2965641162
+Asia (UN),,1987,3026396349
+Asia (UN),,1988,3087408996
+Asia (UN),,1989,3148471009
+Asia (UN),,1990,3209882591
+Asia (UN),,1991,3269006373
+Asia (UN),,1992,3325622591
+Asia (UN),,1993,3380865819
+Asia (UN),,1994,3434524779
+Asia (UN),,1995,3487680513
+Asia (UN),,1996,3540729989
+Asia (UN),,1997,3593265328
+Asia (UN),,1998,3645256154
+Asia (UN),,1999,3696551685
+Asia (UN),,2000,3747780316
+Asia (UN),,2001,3798918117
+Asia (UN),,2002,3848340943
+Asia (UN),,2003,3896798937
+Asia (UN),,2004,3945396131
+Asia (UN),,2005,3993926571
+Asia (UN),,2006,4042825697
+Asia (UN),,2007,4091636910
+Asia (UN),,2008,4140358378
+Asia (UN),,2009,4189938692
+Asia (UN),,2010,4239822679
+Asia (UN),,2011,4289496392
+Asia (UN),,2012,4339608796
+Asia (UN),,2013,4388941163
+Asia (UN),,2014,4436946301
+Asia (UN),,2015,4483307887
+Asia (UN),,2016,4528415170
+Asia (UN),,2017,4572478790
+Asia (UN),,2018,4613623524
+Asia (UN),,2019,4652385277
+Asia (UN),,2020,4688113349
+Asia (UN),,2021,4718316356
+Asia (UN),,2022,4747661012
+Asia (UN),,2023,4778004495
+Europe (UN),,1950,548867469
+Europe (UN),,1951,553834803
+Europe (UN),,1952,558789986
+Europe (UN),,1953,564143731
+Europe (UN),,1954,569744202
+Europe (UN),,1955,575443526
+Europe (UN),,1956,581156297
+Europe (UN),,1957,587187573
+Europe (UN),,1958,593619871
+Europe (UN),,1959,599820048
+Europe (UN),,1960,605817189
+Europe (UN),,1961,611861858
+Europe (UN),,1962,617815761
+Europe (UN),,1963,623592899
+Europe (UN),,1964,629154959
+Europe (UN),,1965,634412816
+Europe (UN),,1966,639413303
+Europe (UN),,1967,644103047
+Europe (UN),,1968,648613871
+Europe (UN),,1969,653138813
+Europe (UN),,1970,656998550
+Europe (UN),,1971,660956210
+Europe (UN),,1972,665521464
+Europe (UN),,1973,669799765
+Europe (UN),,1974,673741422
+Europe (UN),,1975,677279664
+Europe (UN),,1976,680656878
+Europe (UN),,1977,684099950
+Europe (UN),,1978,687433738
+Europe (UN),,1979,690745946
+Europe (UN),,1980,694278653
+Europe (UN),,1981,697593694
+Europe (UN),,1982,700451496
+Europe (UN),,1983,703278523
+Europe (UN),,1984,706110631
+Europe (UN),,1985,708940406
+Europe (UN),,1986,711992643
+Europe (UN),,1987,715168352
+Europe (UN),,1988,718375298
+Europe (UN),,1989,721424433
+Europe (UN),,1990,724139400
+Europe (UN),,1991,726483509
+Europe (UN),,1992,727616693
+Europe (UN),,1993,728005909
+Europe (UN),,1994,728884651
+Europe (UN),,1995,729380598
+Europe (UN),,1996,729369831
+Europe (UN),,1997,729425133
+Europe (UN),,1998,728864105
+Europe (UN),,1999,728217680
+Europe (UN),,2000,728164203
+Europe (UN),,2001,728237719
+Europe (UN),,2002,729126513
+Europe (UN),,2003,730376377
+Europe (UN),,2004,731246189
+Europe (UN),,2005,732046513
+Europe (UN),,2006,732684066
+Europe (UN),,2007,733896327
+Europe (UN),,2008,735549442
+Europe (UN),,2009,736935723
+Europe (UN),,2010,738145317
+Europe (UN),,2011,739359202
+Europe (UN),,2012,740458840
+Europe (UN),,2013,741470776
+Europe (UN),,2014,742640639
+Europe (UN),,2015,744237034
+Europe (UN),,2016,746003106
+Europe (UN),,2017,747429208
+Europe (UN),,2018,748564859
+Europe (UN),,2019,749504129
+Europe (UN),,2020,749524039
+Europe (UN),,2021,748613503
+Europe (UN),,2022,746964589
+Europe (UN),,2023,745602869
+High-income countries,,1950,692711430
+High-income countries,,1951,700623676
+High-income countries,,1952,708716899
+High-income countries,,1953,717304261
+High-income countries,,1954,726124751
+High-income countries,,1955,735073315
+High-income countries,,1956,744048989
+High-income countries,,1957,753254092
+High-income countries,,1958,762789205
+High-income countries,,1959,772471863
+High-income countries,,1960,782236784
+High-income countries,,1961,791968959
+High-income countries,,1962,801664774
+High-income countries,,1963,811255644
+High-income countries,,1964,821495476
+High-income countries,,1965,831811246
+High-income countries,,1966,841155573
+High-income countries,,1967,849524523
+High-income countries,,1968,857986036
+High-income countries,,1969,867236896
+High-income countries,,1970,876449244
+High-income countries,,1971,885949675
+High-income countries,,1972,895431161
+High-income countries,,1973,904291169
+High-income countries,,1974,912705444
+High-income countries,,1975,920485040
+High-income countries,,1976,927867083
+High-income countries,,1977,935281713
+High-income countries,,1978,942637134
+High-income countries,,1979,950084821
+High-income countries,,1980,957870125
+High-income countries,,1981,965477507
+High-income countries,,1982,972586020
+High-income countries,,1983,979396832
+High-income countries,,1984,985985145
+High-income countries,,1985,992559423
+High-income countries,,1986,999312487
+High-income countries,,1987,1006224559
+High-income countries,,1988,1013379301
+High-income countries,,1989,1020861878
+High-income countries,,1990,1028284455
+High-income countries,,1991,1036169648
+High-income countries,,1992,1044505527
+High-income countries,,1993,1052086402
+High-income countries,,1994,1059188927
+High-income countries,,1995,1065736173
+High-income countries,,1996,1071920124
+High-income countries,,1997,1078237701
+High-income countries,,1998,1084071427
+High-income countries,,1999,1090028855
+High-income countries,,2000,1096764306
+High-income countries,,2001,1103946188
+High-income countries,,2002,1111450256
+High-income countries,,2003,1119083316
+High-income countries,,2004,1126798832
+High-income countries,,2005,1134613531
+High-income countries,,2006,1142539578
+High-income countries,,2007,1151382226
+High-income countries,,2008,1160658982
+High-income countries,,2009,1169055745
+High-income countries,,2010,1176862152
+High-income countries,,2011,1184863414
+High-income countries,,2012,1192847652
+High-income countries,,2013,1200506754
+High-income countries,,2014,1208317577
+High-income countries,,2015,1216633392
+High-income countries,,2016,1224780422
+High-income countries,,2017,1231575719
+High-income countries,,2018,1237400303
+High-income countries,,2019,1243293724
+High-income countries,,2020,1246978178
+High-income countries,,2021,1248780604
+High-income countries,,2022,1254316684
+High-income countries,,2023,1261155613
+Land-locked developing countries (LLDC),,1950,104396344
+Land-locked developing countries (LLDC),,1951,106630100
+Land-locked developing countries (LLDC),,1952,108934617
+Land-locked developing countries (LLDC),,1953,111300263
+Land-locked developing countries (LLDC),,1954,113736568
+Land-locked developing countries (LLDC),,1955,116267279
+Land-locked developing countries (LLDC),,1956,118907136
+Land-locked developing countries (LLDC),,1957,121597420
+Land-locked developing countries (LLDC),,1958,124314809
+Land-locked developing countries (LLDC),,1959,127237215
+Land-locked developing countries (LLDC),,1960,130398985
+Land-locked developing countries (LLDC),,1961,133721662
+Land-locked developing countries (LLDC),,1962,137173487
+Land-locked developing countries (LLDC),,1963,140711419
+Land-locked developing countries (LLDC),,1964,144375169
+Land-locked developing countries (LLDC),,1965,148133298
+Land-locked developing countries (LLDC),,1966,151923680
+Land-locked developing countries (LLDC),,1967,155810122
+Land-locked developing countries (LLDC),,1968,159819490
+Land-locked developing countries (LLDC),,1969,163870445
+Land-locked developing countries (LLDC),,1970,167940511
+Land-locked developing countries (LLDC),,1971,172050046
+Land-locked developing countries (LLDC),,1972,176139430
+Land-locked developing countries (LLDC),,1973,180348910
+Land-locked developing countries (LLDC),,1974,184771649
+Land-locked developing countries (LLDC),,1975,189262138
+Land-locked developing countries (LLDC),,1976,193925194
+Land-locked developing countries (LLDC),,1977,198580071
+Land-locked developing countries (LLDC),,1978,203217744
+Land-locked developing countries (LLDC),,1979,207478634
+Land-locked developing countries (LLDC),,1980,211076394
+Land-locked developing countries (LLDC),,1981,214780011
+Land-locked developing countries (LLDC),,1982,219422184
+Land-locked developing countries (LLDC),,1983,224757207
+Land-locked developing countries (LLDC),,1984,230303187
+Land-locked developing countries (LLDC),,1985,235994793
+Land-locked developing countries (LLDC),,1986,241767393
+Land-locked developing countries (LLDC),,1987,247971017
+Land-locked developing countries (LLDC),,1988,254598522
+Land-locked developing countries (LLDC),,1989,261455044
+Land-locked developing countries (LLDC),,1990,268153621
+Land-locked developing countries (LLDC),,1991,275286216
+Land-locked developing countries (LLDC),,1992,283262466
+Land-locked developing countries (LLDC),,1993,290731417
+Land-locked developing countries (LLDC),,1994,296136821
+Land-locked developing countries (LLDC),,1995,301744209
+Land-locked developing countries (LLDC),,1996,309365826
+Land-locked developing countries (LLDC),,1997,316921407
+Land-locked developing countries (LLDC),,1998,323883842
+Land-locked developing countries (LLDC),,1999,331036124
+Land-locked developing countries (LLDC),,2000,338056990
+Land-locked developing countries (LLDC),,2001,345163242
+Land-locked developing countries (LLDC),,2002,353522172
+Land-locked developing countries (LLDC),,2003,362511508
+Land-locked developing countries (LLDC),,2004,371251752
+Land-locked developing countries (LLDC),,2005,380169042
+Land-locked developing countries (LLDC),,2006,389461254
+Land-locked developing countries (LLDC),,2007,398488172
+Land-locked developing countries (LLDC),,2008,407885392
+Land-locked developing countries (LLDC),,2009,417913443
+Land-locked developing countries (LLDC),,2010,428110898
+Land-locked developing countries (LLDC),,2011,438841184
+Land-locked developing countries (LLDC),,2012,449724501
+Land-locked developing countries (LLDC),,2013,460534123
+Land-locked developing countries (LLDC),,2014,471366381
+Land-locked developing countries (LLDC),,2015,482099632
+Land-locked developing countries (LLDC),,2016,492884702
+Land-locked developing countries (LLDC),,2017,503808945
+Land-locked developing countries (LLDC),,2018,515439801
+Land-locked developing countries (LLDC),,2019,528050257
+Land-locked developing countries (LLDC),,2020,541140668
+Land-locked developing countries (LLDC),,2021,553891679
+Land-locked developing countries (LLDC),,2022,566128949
+Land-locked developing countries (LLDC),,2023,579184957
+Latin America and the Caribbean (UN),,1950,167782163
+Latin America and the Caribbean (UN),,1951,172178663
+Latin America and the Caribbean (UN),,1952,176742747
+Latin America and the Caribbean (UN),,1953,181465137
+Latin America and the Caribbean (UN),,1954,186352241
+Latin America and the Caribbean (UN),,1955,191408097
+Latin America and the Caribbean (UN),,1956,196635244
+Latin America and the Caribbean (UN),,1957,202034638
+Latin America and the Caribbean (UN),,1958,207597407
+Latin America and the Caribbean (UN),,1959,213338421
+Latin America and the Caribbean (UN),,1960,219267875
+Latin America and the Caribbean (UN),,1961,225391661
+Latin America and the Caribbean (UN),,1962,231696479
+Latin America and the Caribbean (UN),,1963,238151654
+Latin America and the Caribbean (UN),,1964,244733711
+Latin America and the Caribbean (UN),,1965,251412633
+Latin America and the Caribbean (UN),,1966,258167632
+Latin America and the Caribbean (UN),,1967,264985010
+Latin America and the Caribbean (UN),,1968,271854378
+Latin America and the Caribbean (UN),,1969,278778840
+Latin America and the Caribbean (UN),,1970,285740932
+Latin America and the Caribbean (UN),,1971,292776290
+Latin America and the Caribbean (UN),,1972,299924708
+Latin America and the Caribbean (UN),,1973,307173854
+Latin America and the Caribbean (UN),,1974,314507392
+Latin America and the Caribbean (UN),,1975,321910242
+Latin America and the Caribbean (UN),,1976,329387958
+Latin America and the Caribbean (UN),,1977,336994366
+Latin America and the Caribbean (UN),,1978,344747765
+Latin America and the Caribbean (UN),,1979,352587364
+Latin America and the Caribbean (UN),,1980,360493169
+Latin America and the Caribbean (UN),,1981,368410523
+Latin America and the Caribbean (UN),,1982,376371991
+Latin America and the Caribbean (UN),,1983,384476546
+Latin America and the Caribbean (UN),,1984,392668981
+Latin America and the Caribbean (UN),,1985,400865350
+Latin America and the Caribbean (UN),,1986,409041727
+Latin America and the Caribbean (UN),,1987,417217346
+Latin America and the Caribbean (UN),,1988,425425705
+Latin America and the Caribbean (UN),,1989,433640825
+Latin America and the Caribbean (UN),,1990,441884653
+Latin America and the Caribbean (UN),,1991,450078869
+Latin America and the Caribbean (UN),,1992,458219791
+Latin America and the Caribbean (UN),,1993,466312640
+Latin America and the Caribbean (UN),,1994,474323146
+Latin America and the Caribbean (UN),,1995,482311057
+Latin America and the Caribbean (UN),,1996,490233947
+Latin America and the Caribbean (UN),,1997,498098883
+Latin America and the Caribbean (UN),,1998,505972763
+Latin America and the Caribbean (UN),,1999,513769072
+Latin America and the Caribbean (UN),,2000,521323341
+Latin America and the Caribbean (UN),,2001,528625862
+Latin America and the Caribbean (UN),,2002,535741246
+Latin America and the Caribbean (UN),,2003,542687946
+Latin America and the Caribbean (UN),,2004,549493921
+Latin America and the Caribbean (UN),,2005,556212183
+Latin America and the Caribbean (UN),,2006,562854898
+Latin America and the Caribbean (UN),,2007,569468004
+Latin America and the Caribbean (UN),,2008,576049108
+Latin America and the Caribbean (UN),,2009,582545347
+Latin America and the Caribbean (UN),,2010,588907846
+Latin America and the Caribbean (UN),,2011,595242691
+Latin America and the Caribbean (UN),,2012,601576914
+Latin America and the Caribbean (UN),,2013,607837505
+Latin America and the Caribbean (UN),,2014,614015230
+Latin America and the Caribbean (UN),,2015,620042604
+Latin America and the Caribbean (UN),,2016,625922639
+Latin America and the Caribbean (UN),,2017,631575440
+Latin America and the Caribbean (UN),,2018,637012157
+Latin America and the Caribbean (UN),,2019,642195533
+Latin America and the Caribbean (UN),,2020,646729386
+Latin America and the Caribbean (UN),,2021,650465295
+Latin America and the Caribbean (UN),,2022,654366789
+Latin America and the Caribbean (UN),,2023,658891516
+Least developed countries,,1950,198760112
+Least developed countries,,1951,202652090
+Least developed countries,,1952,206709145
+Least developed countries,,1953,210878822
+Least developed countries,,1954,215203497
+Least developed countries,,1955,219741328
+Least developed countries,,1956,224471915
+Least developed countries,,1957,229334117
+Least developed countries,,1958,234249678
+Least developed countries,,1959,239467803
+Least developed countries,,1960,245116605
+Least developed countries,,1961,251053626
+Least developed countries,,1962,257242814
+Least developed countries,,1963,263627881
+Least developed countries,,1964,270265531
+Least developed countries,,1965,277173655
+Least developed countries,,1966,284294159
+Least developed countries,,1967,291716409
+Least developed countries,,1968,299449335
+Least developed countries,,1969,307336650
+Least developed countries,,1970,315180145
+Least developed countries,,1971,322596731
+Least developed countries,,1972,330325411
+Least developed countries,,1973,339083632
+Least developed countries,,1974,348129342
+Least developed countries,,1975,356932380
+Least developed countries,,1976,365647056
+Least developed countries,,1977,374384507
+Least developed countries,,1978,383761021
+Least developed countries,,1979,393811590
+Least developed countries,,1980,403106102
+Least developed countries,,1981,412147406
+Least developed countries,,1982,422663428
+Least developed countries,,1983,434246511
+Least developed countries,,1984,446053989
+Least developed countries,,1985,457975602
+Least developed countries,,1986,469954787
+Least developed countries,,1987,482189714
+Least developed countries,,1988,494517101
+Least developed countries,,1989,507111455
+Least developed countries,,1990,519816814
+Least developed countries,,1991,532721211
+Least developed countries,,1992,547033343
+Least developed countries,,1993,562620351
+Least developed countries,,1994,578161672
+Least developed countries,,1995,593744533
+Least developed countries,,1996,609544655
+Least developed countries,,1997,625406727
+Least developed countries,,1998,641541778
+Least developed countries,,1999,657759365
+Least developed countries,,2000,673774120
+Least developed countries,,2001,690025172
+Least developed countries,,2002,707416726
+Least developed countries,,2003,725265583
+Least developed countries,,2004,742875657
+Least developed countries,,2005,760903253
+Least developed countries,,2006,779395670
+Least developed countries,,2007,797685699
+Least developed countries,,2008,816441915
+Least developed countries,,2009,835864959
+Least developed countries,,2010,855529922
+Least developed countries,,2011,875870721
+Least developed countries,,2012,896874390
+Least developed countries,,2013,918462775
+Least developed countries,,2014,940480898
+Least developed countries,,2015,962708552
+Least developed countries,,2016,985618621
+Least developed countries,,2017,1009200436
+Least developed countries,,2018,1033320501
+Least developed countries,,2019,1058226909
+Least developed countries,,2020,1083853564
+Least developed countries,,2021,1109397235
+Least developed countries,,2022,1134811919
+Least developed countries,,2023,1161055556
+Less developed regions,,1950,1679684748
+Less developed regions,,1951,1714241875
+Less developed regions,,1952,1752188646
+Less developed regions,,1953,1792640028
+Less developed regions,,1954,1834623627
+Less developed regions,,1955,1879000745
+Less developed regions,,1956,1924245260
+Less developed regions,,1957,1971234863
+Less developed regions,,1958,2019255259
+Less developed regions,,1959,2063375198
+Less developed regions,,1960,2102340988
+Less developed regions,,1961,2141025957
+Less developed regions,,1962,2188868755
+Less developed regions,,1963,2247929526
+Less developed regions,,1964,2309495284
+Less developed regions,,1965,2369780367
+Less developed regions,,1966,2430052037
+Less developed regions,,1967,2490605381
+Less developed regions,,1968,2553707506
+Less developed regions,,1969,2619382178
+Less developed regions,,1970,2686211687
+Less developed regions,,1971,2752647538
+Less developed regions,,1972,2818753779
+Less developed regions,,1973,2886267292
+Less developed regions,,1974,2953896050
+Less developed regions,,1975,3020759775
+Less developed regions,,1976,3087179912
+Less developed regions,,1977,3153746989
+Less developed regions,,1978,3221093320
+Less developed regions,,1979,3290675641
+Less developed regions,,1980,3362598736
+Less developed regions,,1981,3436923071
+Less developed regions,,1982,3514523351
+Less developed regions,,1983,3592954015
+Less developed regions,,1984,3671671639
+Less developed regions,,1985,3752334172
+Less developed regions,,1986,3835081539
+Less developed regions,,1987,3920193656
+Less developed regions,,1988,4005791149
+Less developed regions,,1989,4091696829
+Less developed regions,,1990,4178458306
+Less developed regions,,1991,4262779751
+Less developed regions,,1992,4344681246
+Less developed regions,,1993,4425817557
+Less developed regions,,1994,4505117738
+Less developed regions,,1995,4584269233
+Less developed regions,,1996,4663925776
+Less developed regions,,1997,4743165102
+Less developed regions,,1998,4822567874
+Less developed regions,,1999,4901733083
+Less developed regions,,2000,4981020962
+Less developed regions,,2001,5060563605
+Less developed regions,,2002,5138827842
+Less developed regions,,2003,5216602046
+Less developed regions,,2004,5295140641
+Less developed regions,,2005,5374298182
+Less developed regions,,2006,5454383040
+Less developed regions,,2007,5535084749
+Less developed regions,,2008,5616574422
+Less developed regions,,2009,5699574947
+Less developed regions,,2010,5783526130
+Less developed regions,,2011,5867818565
+Less developed regions,,2012,5953386682
+Less developed regions,,2013,6039378808
+Less developed regions,,2014,6124495119
+Less developed regions,,2015,6208202801
+Less developed regions,,2016,6290688527
+Less developed regions,,2017,6372441555
+Less developed regions,,2018,6451926601
+Less developed regions,,2019,6528919013
+Less developed regions,,2020,6602624618
+Less developed regions,,2021,6670349457
+Less developed regions,,2022,6737630544
+Less developed regions,,2023,6807234405
+"Less developed regions, excluding China",,1950,1125868863
+"Less developed regions, excluding China",,1951,1150351237
+"Less developed regions, excluding China",,1952,1176543038
+"Less developed regions, excluding China",,1953,1204167595
+"Less developed regions, excluding China",,1954,1233175513
+"Less developed regions, excluding China",,1955,1263675966
+"Less developed regions, excluding China",,1956,1295434518
+"Less developed regions, excluding China",,1957,1328122764
+"Less developed regions, excluding China",,1958,1361760461
+"Less developed regions, excluding China",,1959,1396869828
+"Less developed regions, excluding China",,1960,1433224545
+"Less developed regions, excluding China",,1961,1470548979
+"Less developed regions, excluding China",,1962,1508861488
+"Less developed regions, excluding China",,1963,1548246426
+"Less developed regions, excluding China",,1964,1588628671
+"Less developed regions, excluding China",,1965,1629118764
+"Less developed regions, excluding China",,1966,1669833858
+"Less developed regions, excluding China",,1967,1711943329
+"Less developed regions, excluding China",,1968,1755157648
+"Less developed regions, excluding China",,1969,1799067415
+"Less developed regions, excluding China",,1970,1844089672
+"Less developed regions, excluding China",,1971,1889203869
+"Less developed regions, excluding China",,1972,1935235043
+"Less developed regions, excluding China",,1973,1983444072
+"Less developed regions, excluding China",,1974,2032954015
+"Less developed regions, excluding China",,1975,2083615392
+"Less developed regions, excluding China",,1976,2135363614
+"Less developed regions, excluding China",,1977,2188298488
+"Less developed regions, excluding China",,1978,2242567843
+"Less developed regions, excluding China",,1979,2298553004
+"Less developed regions, excluding China",,1980,2356140136
+"Less developed regions, excluding China",,1981,2415475699
+"Less developed regions, excluding China",,1982,2476800040
+"Less developed regions, excluding China",,1983,2539360825
+"Less developed regions, excluding China",,1984,2602918734
+"Less developed regions, excluding China",,1985,2667270277
+"Less developed regions, excluding China",,1986,2732287837
+"Less developed regions, excluding China",,1987,2798159408
+"Less developed regions, excluding China",,1988,2864481511
+"Less developed regions, excluding China",,1989,2931407094
+"Less developed regions, excluding China",,1990,2998368927
+"Less developed regions, excluding China",,1991,3065219086
+"Less developed regions, excluding China",,1992,3132993135
+"Less developed regions, excluding China",,1993,3201050469
+"Less developed regions, excluding China",,1994,3268325107
+"Less developed regions, excluding China",,1995,3336024996
+"Less developed regions, excluding China",,1996,3404562179
+"Less developed regions, excluding China",,1997,3473308404
+"Less developed regions, excluding China",,1998,3542727357
+"Less developed regions, excluding China",,1999,3612305858
+"Less developed regions, excluding China",,2000,3681964937
+"Less developed regions, excluding China",,2001,3752172931
+"Less developed regions, excluding China",,2002,3822116694
+"Less developed regions, excluding China",,2003,3892092646
+"Less developed regions, excluding China",,2004,3962924574
+"Less developed regions, excluding China",,2005,4034042193
+"Less developed regions, excluding China",,2006,4105974515
+"Less developed regions, excluding China",,2007,4178770578
+"Less developed regions, excluding China",,2008,4252110587
+"Less developed regions, excluding China",,2009,4326273936
+"Less developed regions, excluding China",,2010,4401076148
+"Less developed regions, excluding China",,2011,4476576145
+"Less developed regions, excluding China",,2012,4552731439
+"Less developed regions, excluding China",,2013,4629090773
+"Less developed regions, excluding China",,2014,4705140525
+"Less developed regions, excluding China",,2015,4780550756
+"Less developed regions, excluding China",,2016,4855007388
+"Less developed regions, excluding China",,2017,4928362452
+"Less developed regions, excluding China",,2018,5001128397
+"Less developed regions, excluding China",,2019,5073567699
+"Less developed regions, excluding China",,2020,5144681850
+"Less developed regions, excluding China",,2021,5212174883
+"Less developed regions, excluding China",,2022,5280860580
+"Less developed regions, excluding China",,2023,5353175687
+"Less developed regions, excluding least developed countries",,1950,1480924641
+"Less developed regions, excluding least developed countries",,1951,1511589776
+"Less developed regions, excluding least developed countries",,1952,1545479508
+"Less developed regions, excluding least developed countries",,1953,1581761175
+"Less developed regions, excluding least developed countries",,1954,1619420140
+"Less developed regions, excluding least developed countries",,1955,1659259427
+"Less developed regions, excluding least developed countries",,1956,1699773348
+"Less developed regions, excluding least developed countries",,1957,1741900747
+"Less developed regions, excluding least developed countries",,1958,1785005576
+"Less developed regions, excluding least developed countries",,1959,1823907388
+"Less developed regions, excluding least developed countries",,1960,1857224413
+"Less developed regions, excluding least developed countries",,1961,1889972330
+"Less developed regions, excluding least developed countries",,1962,1931625925
+"Less developed regions, excluding least developed countries",,1963,1984301662
+"Less developed regions, excluding least developed countries",,1964,2039229756
+"Less developed regions, excluding least developed countries",,1965,2092606700
+"Less developed regions, excluding least developed countries",,1966,2145757880
+"Less developed regions, excluding least developed countries",,1967,2198888967
+"Less developed regions, excluding least developed countries",,1968,2254258178
+"Less developed regions, excluding least developed countries",,1969,2312045510
+"Less developed regions, excluding least developed countries",,1970,2371031548
+"Less developed regions, excluding least developed countries",,1971,2430050831
+"Less developed regions, excluding least developed countries",,1972,2488428378
+"Less developed regions, excluding least developed countries",,1973,2547183640
+"Less developed regions, excluding least developed countries",,1974,2605766713
+"Less developed regions, excluding least developed countries",,1975,2663827396
+"Less developed regions, excluding least developed countries",,1976,2721532875
+"Less developed regions, excluding least developed countries",,1977,2779362487
+"Less developed regions, excluding least developed countries",,1978,2837332286
+"Less developed regions, excluding least developed countries",,1979,2896864097
+"Less developed regions, excluding least developed countries",,1980,2959492653
+"Less developed regions, excluding least developed countries",,1981,3024775652
+"Less developed regions, excluding least developed countries",,1982,3091859910
+"Less developed regions, excluding least developed countries",,1983,3158707502
+"Less developed regions, excluding least developed countries",,1984,3225617638
+"Less developed regions, excluding least developed countries",,1985,3294358549
+"Less developed regions, excluding least developed countries",,1986,3365126760
+"Less developed regions, excluding least developed countries",,1987,3438003921
+"Less developed regions, excluding least developed countries",,1988,3511274062
+"Less developed regions, excluding least developed countries",,1989,3584585358
+"Less developed regions, excluding least developed countries",,1990,3658641493
+"Less developed regions, excluding least developed countries",,1991,3730058514
+"Less developed regions, excluding least developed countries",,1992,3797647895
+"Less developed regions, excluding least developed countries",,1993,3863197224
+"Less developed regions, excluding least developed countries",,1994,3926956026
+"Less developed regions, excluding least developed countries",,1995,3990524679
+"Less developed regions, excluding least developed countries",,1996,4054381093
+"Less developed regions, excluding least developed countries",,1997,4117758338
+"Less developed regions, excluding least developed countries",,1998,4181026073
+"Less developed regions, excluding least developed countries",,1999,4243973704
+"Less developed regions, excluding least developed countries",,2000,4307246827
+"Less developed regions, excluding least developed countries",,2001,4370538445
+"Less developed regions, excluding least developed countries",,2002,4431411114
+"Less developed regions, excluding least developed countries",,2003,4491336486
+"Less developed regions, excluding least developed countries",,2004,4552264990
+"Less developed regions, excluding least developed countries",,2005,4613394930
+"Less developed regions, excluding least developed countries",,2006,4674987347
+"Less developed regions, excluding least developed countries",,2007,4737399061
+"Less developed regions, excluding least developed countries",,2008,4800132449
+"Less developed regions, excluding least developed countries",,2009,4863710004
+"Less developed regions, excluding least developed countries",,2010,4927996232
+"Less developed regions, excluding least developed countries",,2011,4991947799
+"Less developed regions, excluding least developed countries",,2012,5056512363
+"Less developed regions, excluding least developed countries",,2013,5120916002
+"Less developed regions, excluding least developed countries",,2014,5184014220
+"Less developed regions, excluding least developed countries",,2015,5245494208
+"Less developed regions, excluding least developed countries",,2016,5305069892
+"Less developed regions, excluding least developed countries",,2017,5363241083
+"Less developed regions, excluding least developed countries",,2018,5418606082
+"Less developed regions, excluding least developed countries",,2019,5470692036
+"Less developed regions, excluding least developed countries",,2020,5518771103
+"Less developed regions, excluding least developed countries",,2021,5560952242
+"Less developed regions, excluding least developed countries",,2022,5602818604
+"Less developed regions, excluding least developed countries",,2023,5646178846
+Low-income countries,,1950,112417078
+Low-income countries,,1951,113855994
+Low-income countries,,1952,115581774
+Low-income countries,,1953,117615242
+Low-income countries,,1954,119859620
+Low-income countries,,1955,122293768
+Low-income countries,,1956,124856179
+Low-income countries,,1957,127501487
+Low-income countries,,1958,130192506
+Low-income countries,,1959,133046149
+Low-income countries,,1960,136125729
+Low-income countries,,1961,139355316
+Low-income countries,,1962,142712624
+Low-income countries,,1963,146205482
+Low-income countries,,1964,149870081
+Low-income countries,,1965,153698829
+Low-income countries,,1966,157659983
+Low-income countries,,1967,161829470
+Low-income countries,,1968,166200262
+Low-income countries,,1969,170666200
+Low-income countries,,1970,175246428
+Low-income countries,,1971,179913367
+Low-income countries,,1972,184581585
+Low-income countries,,1973,189471302
+Low-income countries,,1974,194562671
+Low-income countries,,1975,199687437
+Low-income countries,,1976,204927699
+Low-income countries,,1977,210124419
+Low-income countries,,1978,215869461
+Low-income countries,,1979,221894964
+Low-income countries,,1980,226852933
+Low-income countries,,1981,231334693
+Low-income countries,,1982,236940781
+Low-income countries,,1983,243386819
+Low-income countries,,1984,249991059
+Low-income countries,,1985,256719414
+Low-income countries,,1986,263482136
+Low-income countries,,1987,270539136
+Low-income countries,,1988,277807416
+Low-income countries,,1989,285400398
+Low-income countries,,1990,292948245
+Low-income countries,,1991,300652924
+Low-income countries,,1992,309670855
+Low-income countries,,1993,319597138
+Low-income countries,,1994,329120053
+Low-income countries,,1995,338706480
+Low-income countries,,1996,348800129
+Low-income countries,,1997,358821530
+Low-income countries,,1998,369081908
+Low-income countries,,1999,379700535
+Low-income countries,,2000,390079727
+Low-income countries,,2001,400757281
+Low-income countries,,2002,412670851
+Low-income countries,,2003,425077104
+Low-income countries,,2004,437382847
+Low-income countries,,2005,450155671
+Low-income countries,,2006,463744492
+Low-income countries,,2007,477551566
+Low-income countries,,2008,491406377
+Low-income countries,,2009,505585024
+Low-income countries,,2010,520054114
+Low-income countries,,2011,534808724
+Low-income countries,,2012,549451660
+Low-income countries,,2013,563526633
+Low-income countries,,2014,577586378
+Low-income countries,,2015,592175408
+Low-income countries,,2016,607867480
+Low-income countries,,2017,624556994
+Low-income countries,,2018,642186193
+Low-income countries,,2019,660718368
+Low-income countries,,2020,679560751
+Low-income countries,,2021,698215211
+Low-income countries,,2022,716865787
+Low-income countries,,2023,736466397
+Lower-middle-income countries,,1950,710724740
+Lower-middle-income countries,,1951,726051988
+Lower-middle-income countries,,1952,742174260
+Lower-middle-income countries,,1953,758887070
+Lower-middle-income countries,,1954,776342553
+Lower-middle-income countries,,1955,794696328
+Lower-middle-income countries,,1956,813718531
+Lower-middle-income countries,,1957,833154942
+Lower-middle-income countries,,1958,853227840
+Lower-middle-income countries,,1959,874216587
+Lower-middle-income countries,,1960,895787401
+Lower-middle-income countries,,1961,917845506
+Lower-middle-income countries,,1962,940367983
+Lower-middle-income countries,,1963,963442380
+Lower-middle-income countries,,1964,987059692
+Lower-middle-income countries,,1965,1010777295
+Lower-middle-income countries,,1966,1034514233
+Lower-middle-income countries,,1967,1058899355
+Lower-middle-income countries,,1968,1083851551
+Lower-middle-income countries,,1969,1109131272
+Lower-middle-income countries,,1970,1135199025
+Lower-middle-income countries,,1971,1161123747
+Lower-middle-income countries,,1972,1187788437
+Lower-middle-income countries,,1973,1216172485
+Lower-middle-income countries,,1974,1245525849
+Lower-middle-income countries,,1975,1275969483
+Lower-middle-income countries,,1976,1307169122
+Lower-middle-income countries,,1977,1339194099
+Lower-middle-income countries,,1978,1371695390
+Lower-middle-income countries,,1979,1405616510
+Lower-middle-income countries,,1980,1442021652
+Lower-middle-income countries,,1981,1480251812
+Lower-middle-income countries,,1982,1519038556
+Lower-middle-income countries,,1983,1557936430
+Lower-middle-income countries,,1984,1597489396
+Lower-middle-income countries,,1985,1637845037
+Lower-middle-income countries,,1986,1678895522
+Lower-middle-income countries,,1987,1720354976
+Lower-middle-income countries,,1988,1762049066
+Lower-middle-income countries,,1989,1803962255
+Lower-middle-income countries,,1990,1846874679
+Lower-middle-income countries,,1991,1889866212
+Lower-middle-income countries,,1992,1932221209
+Lower-middle-income countries,,1993,1973881954
+Lower-middle-income countries,,1994,2015221808
+Lower-middle-income countries,,1995,2057289707
+Lower-middle-income countries,,1996,2099561783
+Lower-middle-income countries,,1997,2142190177
+Lower-middle-income countries,,1998,2185367176
+Lower-middle-income countries,,1999,2228456143
+Lower-middle-income countries,,2000,2271915129
+Lower-middle-income countries,,2001,2315757634
+Lower-middle-income countries,,2002,2358300843
+Lower-middle-income countries,,2003,2400690746
+Lower-middle-income countries,,2004,2444268137
+Lower-middle-income countries,,2005,2487466881
+Lower-middle-income countries,,2006,2531007296
+Lower-middle-income countries,,2007,2575224861
+Lower-middle-income countries,,2008,2618897847
+Lower-middle-income countries,,2009,2662972450
+Lower-middle-income countries,,2010,2707862957
+Lower-middle-income countries,,2011,2752879900
+Lower-middle-income countries,,2012,2797701849
+Lower-middle-income countries,,2013,2842798868
+Lower-middle-income countries,,2014,2887643105
+Lower-middle-income countries,,2015,2931203438
+Lower-middle-income countries,,2016,2974455464
+Lower-middle-income countries,,2017,3017492210
+Lower-middle-income countries,,2018,3059616816
+Lower-middle-income countries,,2019,3101052514
+Lower-middle-income countries,,2020,3141910133
+Lower-middle-income countries,,2021,3180608692
+Lower-middle-income countries,,2022,3216231043
+Lower-middle-income countries,,2023,3253459066
+More developed regions,,1950,813408099
+More developed regions,,1951,822685167
+More developed regions,,1952,831897688
+More developed regions,,1953,841466221
+More developed regions,,1954,851271235
+More developed regions,,1955,861213047
+More developed regions,,1956,871164729
+More developed regions,,1957,881383471
+More developed regions,,1958,891994408
+More developed regions,,1959,902575170
+More developed regions,,1960,913129880
+More developed regions,,1961,923843721
+More developed regions,,1962,934505563
+More developed regions,,1963,944878298
+More developed regions,,1964,954992054
+More developed regions,,1965,964753349
+More developed regions,,1966,973989094
+More developed regions,,1967,982807502
+More developed regions,,1968,991479727
+More developed regions,,1969,1000109403
+More developed regions,,1970,1008472099
+More developed regions,,1971,1017200322
+More developed regions,,1972,1026163902
+More developed regions,,1973,1034537770
+More developed regions,,1974,1042520059
+More developed regions,,1975,1049975495
+More developed regions,,1976,1057066465
+More developed regions,,1977,1064116815
+More developed regions,,1978,1071004186
+More developed regions,,1979,1077863864
+More developed regions,,1980,1085007464
+More developed regions,,1981,1091854246
+More developed regions,,1982,1098150073
+More developed regions,,1983,1104373545
+More developed regions,,1984,1110503868
+More developed regions,,1985,1116609296
+More developed regions,,1986,1122991291
+More developed regions,,1987,1129552742
+More developed regions,,1988,1136201412
+More developed regions,,1989,1142734939
+More developed regions,,1990,1149344813
+More developed regions,,1991,1155956161
+More developed regions,,1992,1161308568
+More developed regions,,1993,1165727259
+More developed regions,,1994,1170433545
+More developed regions,,1995,1174609762
+More developed regions,,1996,1178129953
+More developed regions,,1997,1181622720
+More developed regions,,1998,1184498830
+More developed regions,,1999,1187273287
+More developed regions,,2000,1190682031
+More developed regions,,2001,1194372836
+More developed regions,,2002,1198902475
+More developed regions,,2003,1203759602
+More developed regions,,2004,1208237107
+More developed regions,,2005,1212671953
+More developed regions,,2006,1217068975
+More developed regions,,2007,1222224054
+More developed regions,,2008,1227883250
+More developed regions,,2009,1233191439
+More developed regions,,2010,1238205994
+More developed regions,,2011,1243105221
+More developed regions,,2012,1247815738
+More developed regions,,2013,1252414793
+More developed regions,,2014,1257121132
+More developed regions,,2015,1262289100
+More developed regions,,2016,1267865997
+More developed regions,,2017,1273176413
+More developed regions,,2018,1277976169
+More developed regions,,2019,1282374735
+More developed regions,,2020,1284376622
+More developed regions,,2021,1284098923
+More developed regions,,2022,1283776661
+More developed regions,,2023,1284500519
+Northern America (UN),,1950,168009342
+Northern America (UN),,1951,170630615
+Northern America (UN),,1952,173344109
+Northern America (UN),,1953,176134466
+Northern America (UN),,1954,179024840
+Northern America (UN),,1955,181999181
+Northern America (UN),,1956,185056921
+Northern America (UN),,1957,188214453
+Northern America (UN),,1958,191394937
+Northern America (UN),,1959,194738618
+Northern America (UN),,1960,198252643
+Northern America (UN),,1961,201834084
+Northern America (UN),,1962,205421754
+Northern America (UN),,1963,208875795
+Northern America (UN),,1964,212229899
+Northern America (UN),,1965,215430538
+Northern America (UN),,1966,218412895
+Northern America (UN),,1967,221204999
+Northern America (UN),,1968,223843851
+Northern America (UN),,1969,226438641
+Northern America (UN),,1970,229339589
+Northern America (UN),,1971,232426951
+Northern America (UN),,1972,235179331
+Northern America (UN),,1973,237625604
+Northern America (UN),,1974,240008219
+Northern America (UN),,1975,242386622
+Northern America (UN),,1976,244733405
+Northern America (UN),,1977,247098937
+Northern America (UN),,1978,249484156
+Northern America (UN),,1979,251921717
+Northern America (UN),,1980,254502384
+Northern America (UN),,1981,257157456
+Northern America (UN),,1982,259835188
+Northern America (UN),,1983,262511903
+Northern America (UN),,1984,265138354
+Northern America (UN),,1985,267732945
+Northern America (UN),,1986,270280783
+Northern America (UN),,1987,272819088
+Northern America (UN),,1988,275439032
+Northern America (UN),,1989,278159891
+Northern America (UN),,1990,281282376
+Northern America (UN),,1991,284748665
+Northern America (UN),,1992,288226636
+Northern America (UN),,1993,291584860
+Northern America (UN),,1994,294743557
+Northern America (UN),,1995,297786726
+Northern America (UN),,1996,300750141
+Northern America (UN),,1997,303649788
+Northern America (UN),,1998,306572453
+Northern America (UN),,1999,309508500
+Northern America (UN),,2000,312499983
+Northern America (UN),,2001,315617769
+Northern America (UN),,2002,318744894
+Northern America (UN),,2003,321869948
+Northern America (UN),,2004,325044559
+Northern America (UN),,2005,328282608
+Northern America (UN),,2006,331615162
+Northern America (UN),,2007,335062239
+Northern America (UN),,2008,338545414
+Northern America (UN),,2009,341975945
+Northern America (UN),,2010,345386050
+Northern America (UN),,2011,348787110
+Northern America (UN),,2012,352164285
+Northern America (UN),,2013,355530259
+Northern America (UN),,2014,358875295
+Northern America (UN),,2015,362214162
+Northern America (UN),,2016,365658209
+Northern America (UN),,2017,369138724
+Northern America (UN),,2018,372477318
+Northern America (UN),,2019,375699069
+Northern America (UN),,2020,377734350
+Northern America (UN),,2021,378741971
+Northern America (UN),,2022,380481767
+Northern America (UN),,2023,382902740
+Oceania (UN),,1950,12582041
+Oceania (UN),,1951,12915026
+Oceania (UN),,1952,13228957
+Oceania (UN),,1953,13527050
+Oceania (UN),,1954,13824307
+Oceania (UN),,1955,14145100
+Oceania (UN),,1956,14484448
+Oceania (UN),,1957,14825230
+Oceania (UN),,1958,15165875
+Oceania (UN),,1959,15509891
+Oceania (UN),,1960,15862304
+Oceania (UN),,1961,16216514
+Oceania (UN),,1962,16560587
+Oceania (UN),,1963,16904250
+Oceania (UN),,1964,17254315
+Oceania (UN),,1965,17616872
+Oceania (UN),,1966,17985711
+Oceania (UN),,1967,18331859
+Oceania (UN),,1968,18669865
+Oceania (UN),,1969,19033436
+Oceania (UN),,1970,19493815
+Oceania (UN),,1971,20035734
+Oceania (UN),,1972,20493793
+Oceania (UN),,1973,20865841
+Oceania (UN),,1974,21227902
+Oceania (UN),,1975,21555564
+Oceania (UN),,1976,21842132
+Oceania (UN),,1977,22114263
+Oceania (UN),,1978,22383131
+Oceania (UN),,1979,22653380
+Oceania (UN),,1980,22954137
+Oceania (UN),,1981,23307159
+Oceania (UN),,1982,23690309
+Oceania (UN),,1983,24064144
+Oceania (UN),,1984,24420730
+Oceania (UN),,1985,24777243
+Oceania (UN),,1986,25149503
+Oceania (UN),,1987,25544234
+Oceania (UN),,1988,25956095
+Oceania (UN),,1989,26376679
+Oceania (UN),,1990,26839030
+Oceania (UN),,1991,27314981
+Oceania (UN),,1992,27746316
+Oceania (UN),,1993,28154044
+Oceania (UN),,1994,28572743
+Oceania (UN),,1995,29024929
+Oceania (UN),,1996,29498349
+Oceania (UN),,1997,29964284
+Oceania (UN),,1998,30419763
+Oceania (UN),,1999,30879799
+Oceania (UN),,2000,31352628
+Oceania (UN),,2001,31846890
+Oceania (UN),,2002,32365687
+Oceania (UN),,2003,32894223
+Oceania (UN),,2004,33418745
+Oceania (UN),,2005,33955853
+Oceania (UN),,2006,34540031
+Oceania (UN),,2007,35189700
+Oceania (UN),,2008,35890031
+Oceania (UN),,2009,36593207
+Oceania (UN),,2010,37253760
+Oceania (UN),,2011,37889768
+Oceania (UN),,2012,38550174
+Oceania (UN),,2013,39233595
+Oceania (UN),,2014,39918438
+Oceania (UN),,2015,40614680
+Oceania (UN),,2016,41346915
+Oceania (UN),,2017,42093650
+Oceania (UN),,2018,42815158
+Oceania (UN),,2019,43504185
+Oceania (UN),,2020,44078974
+Oceania (UN),,2021,44558212
+Oceania (UN),,2022,45049350
+Oceania (UN),,2023,45562792
+Small island developing states (SIDS),,1950,23402925
+Small island developing states (SIDS),,1951,23898088
+Small island developing states (SIDS),,1952,24404713
+Small island developing states (SIDS),,1953,24927191
+Small island developing states (SIDS),,1954,25463895
+Small island developing states (SIDS),,1955,26016299
+Small island developing states (SIDS),,1956,26585046
+Small island developing states (SIDS),,1957,27164199
+Small island developing states (SIDS),,1958,27748241
+Small island developing states (SIDS),,1959,28342591
+Small island developing states (SIDS),,1960,28957339
+Small island developing states (SIDS),,1961,29590020
+Small island developing states (SIDS),,1962,30236082
+Small island developing states (SIDS),,1963,30891681
+Small island developing states (SIDS),,1964,31542977
+Small island developing states (SIDS),,1965,32190280
+Small island developing states (SIDS),,1966,32845472
+Small island developing states (SIDS),,1967,33509353
+Small island developing states (SIDS),,1968,34175188
+Small island developing states (SIDS),,1969,34835329
+Small island developing states (SIDS),,1970,35500872
+Small island developing states (SIDS),,1971,36171344
+Small island developing states (SIDS),,1972,36829858
+Small island developing states (SIDS),,1973,37477789
+Small island developing states (SIDS),,1974,38128340
+Small island developing states (SIDS),,1975,38786671
+Small island developing states (SIDS),,1976,39442783
+Small island developing states (SIDS),,1977,40090550
+Small island developing states (SIDS),,1978,40727099
+Small island developing states (SIDS),,1979,41333291
+Small island developing states (SIDS),,1980,41940509
+Small island developing states (SIDS),,1981,42603105
+Small island developing states (SIDS),,1982,43290507
+Small island developing states (SIDS),,1983,43965390
+Small island developing states (SIDS),,1984,44628158
+Small island developing states (SIDS),,1985,45276863
+Small island developing states (SIDS),,1986,45924457
+Small island developing states (SIDS),,1987,46600209
+Small island developing states (SIDS),,1988,47315689
+Small island developing states (SIDS),,1989,48069129
+Small island developing states (SIDS),,1990,48858552
+Small island developing states (SIDS),,1991,49674783
+Small island developing states (SIDS),,1992,50502885
+Small island developing states (SIDS),,1993,51329676
+Small island developing states (SIDS),,1994,52154389
+Small island developing states (SIDS),,1995,52988919
+Small island developing states (SIDS),,1996,53837866
+Small island developing states (SIDS),,1997,54690885
+Small island developing states (SIDS),,1998,55513926
+Small island developing states (SIDS),,1999,56160375
+Small island developing states (SIDS),,2000,56817761
+Small island developing states (SIDS),,2001,57627191
+Small island developing states (SIDS),,2002,58380254
+Small island developing states (SIDS),,2003,59063574
+Small island developing states (SIDS),,2004,59754183
+Small island developing states (SIDS),,2005,60501158
+Small island developing states (SIDS),,2006,61300069
+Small island developing states (SIDS),,2007,62152167
+Small island developing states (SIDS),,2008,63024397
+Small island developing states (SIDS),,2009,63852313
+Small island developing states (SIDS),,2010,64585832
+Small island developing states (SIDS),,2011,65309897
+Small island developing states (SIDS),,2012,66073256
+Small island developing states (SIDS),,2013,66806937
+Small island developing states (SIDS),,2014,67504472
+Small island developing states (SIDS),,2015,68185217
+Small island developing states (SIDS),,2016,68838424
+Small island developing states (SIDS),,2017,69394086
+Small island developing states (SIDS),,2018,70010846
+Small island developing states (SIDS),,2019,70666301
+Small island developing states (SIDS),,2020,71178638
+Small island developing states (SIDS),,2021,71632449
+Small island developing states (SIDS),,2022,72230333
+Small island developing states (SIDS),,2023,72894714
+Upper-middle-income countries,,1950,971459728
+Upper-middle-income countries,,1951,990365580
+Upper-middle-income countries,,1952,1011326555
+Upper-middle-income countries,,1953,1033750838
+Upper-middle-income countries,,1954,1056752382
+Upper-middle-income countries,,1955,1081063315
+Upper-middle-income countries,,1956,1105422294
+Upper-middle-income countries,,1957,1131059965
+Upper-middle-income countries,,1958,1157100675
+Upper-middle-income countries,,1959,1177979577
+Upper-middle-income countries,,1960,1192784052
+Upper-middle-income countries,,1961,1206857495
+Upper-middle-income countries,,1962,1229477050
+Upper-middle-income countries,,1963,1262437682
+Upper-middle-income countries,,1964,1296274418
+Upper-middle-income countries,,1965,1328131294
+Upper-middle-income countries,,1966,1360261859
+Upper-middle-income countries,,1967,1392368017
+Upper-middle-income countries,,1968,1426010098
+Upper-middle-income countries,,1969,1460966936
+Upper-middle-income countries,,1970,1495939041
+Upper-middle-income countries,,1971,1530649009
+Upper-middle-income countries,,1972,1564545916
+Upper-middle-income countries,,1973,1597935745
+Upper-middle-income countries,,1974,1630317054
+Upper-middle-income countries,,1975,1660916071
+Upper-middle-income countries,,1976,1690214954
+Upper-middle-income countries,,1977,1718780060
+Upper-middle-income countries,,1978,1746986479
+Upper-middle-income countries,,1979,1775600661
+Upper-middle-income countries,,1980,1805081623
+Upper-middle-income countries,,1981,1835493102
+Upper-middle-income countries,,1982,1867442019
+Upper-middle-income countries,,1983,1899489246
+Upper-middle-income countries,,1984,1931132857
+Upper-middle-income countries,,1985,1963777385
+Upper-middle-income countries,,1986,1997865662
+Upper-middle-income countries,,1987,2033626309
+Upper-middle-income countries,,1988,2069266061
+Upper-middle-income countries,,1989,2104225632
+Upper-middle-income countries,,1990,2139223820
+Upper-middle-income countries,,1991,2171086075
+Upper-middle-income countries,,1992,2198144889
+Upper-middle-income countries,,1993,2224048630
+Upper-middle-income countries,,1994,2249609690
+Upper-middle-income countries,,1995,2274255351
+Upper-middle-income countries,,1996,2298399001
+Upper-middle-income countries,,1997,2321678473
+Upper-middle-income countries,,1998,2344201915
+Upper-middle-income countries,,1999,2365998840
+Upper-middle-income countries,,2000,2387650822
+Upper-middle-income countries,,2001,2408718076
+Upper-middle-income countries,,2002,2429083846
+Upper-middle-income countries,,2003,2448817192
+Upper-middle-income countries,,2004,2467775135
+Upper-middle-income countries,,2005,2487125039
+Upper-middle-income countries,,2006,2506099157
+Upper-middle-income countries,,2007,2524647889
+Upper-middle-income countries,,2008,2544572163
+Upper-middle-income countries,,2009,2565830947
+Upper-middle-income countries,,2010,2587239946
+Upper-middle-income countries,,2011,2608269482
+Upper-middle-income countries,,2012,2630713357
+Upper-middle-income countries,,2013,2654098682
+Upper-middle-income countries,,2014,2676850286
+Upper-middle-income countries,,2015,2698929424
+Upper-middle-income countries,,2016,2719695298
+Upper-middle-income countries,,2017,2740416309
+Upper-middle-income countries,,2018,2759864864
+Upper-middle-income countries,,2019,2776256182
+Upper-middle-income countries,,2020,2789064927
+Upper-middle-income countries,,2021,2797561845
+Upper-middle-income countries,,2022,2804740306
+Upper-middle-income countries,,2023,2811308945
